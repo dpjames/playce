@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Place searches</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script>
+      // This example requires the Places library. Include the libraries=places
+      // parameter when you first load the API. For example:
+      // <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places">
+      var apikey = "AIzaSyCL_-KzdcAdWm6YuOcQXDVuWBGyHEZHAI8";
+      var map;
+      var infowindow;
+      var service;
+      var types = [
+            "accounting",
+            "airport",
+            "amusement_park",
+            "aquarium",
+            "art_gallery",
+            "atm",
+            "bakery",
+            "bank",
+            "bar",
+            "beauty_salon",
+            "bicycle_store",
+            "book_store",
+            "bowling_alley",
+            "bus_station",
+            "cafe",
+            "campground",
+            "car_dealer",
+            "car_rental",
+            "car_repair",
+            "car_wash",
+            "casino",
+            "cemetery",
+            "church",
+            "city_hall",
+            "clothing_store",
+            "convenience_store",
+            "courthouse",
+            "dentist",
+            "department_store",
+            "doctor",
+            "electrician",
+            "electronics_store",
+            "embassy",
+            "fire_station",
+            "florist",
+            "funeral_home",
+            "furniture_store",
+            "gas_station",
+            "gym",
+            "hair_care",
+            "hardware_store",
+            "hindu_temple",
+            "home_goods_store",
+            "hospital",
+            "insurance_agency",
+            "jewelry_store",
+            "laundry",
+            "lawyer",
+            "library",
+            "liquor_store",
+            "local_government_office",
+            "locksmith",
+            "lodging",
+            "meal_delivery",
+            "meal_takeaway",
+            "mosque",
+            "movie_rental",
+            "movie_theater",
+            "moving_company",
+            "museum",
+            "night_club",
+            "painter",
+            "park",
+            "parking",
+            "pet_store",
+            "pharmacy",
+            "physiotherapist",
+            "plumber",
+            "police",
+            "post_office",
+            "real_estate_agency",
+            "restaurant",
+            "roofing_contractor",
+            "rv_park",
+            "school",
+            "shoe_store",
+            "shopping_mall",
+            "spa",
+            "stadium",
+            "storage",
+            "store",
+            "subway_station",
+            "synagogue",
+            "taxi_stand",
+            "train_station",
+            "transit_station",
+            "travel_agency",
+            "university",
+            "veterinary_care",
+            "zoo"];
+      function initMap() {
+        var slo = {lat: 35.27892884178866, lng: -120.66389153442384};
+
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: slo,
+          zoom: 14
+        });
+
+        infowindow = new google.maps.InfoWindow();
+        service = new google.maps.places.PlacesService(map);
+        for(var i = 0; i < types.length; i++){
+           console.log(types[i]);
+           service.nearbySearch({
+             location: slo,
+             radius: 50,
+             type : [types[i]]
+           }, callback);
+        }
+      }
+      var idlist = [];
+      function callback(results, status) {
+        console.log(results);
+        console.log(status);
+        if (status === google.maps.places.PlacesServiceStatus.OK) {
+          for (var i = 0; i < results.length; i++) {
+            idlist[i]=results[i].place_id;
+            
+          }
+         for(var i = 0; i < idlist.length; i++){
+            getReviews(idlist[i]);
+         }
+         for(var i = 0; i < reviews.length; i++){
+            console.log(reviews[i]);
+         }
+        }
+      }
+      var reviews = [];
+      function getReviews(id){
+         "https://maps.googleapis.com/maps/api/place/details/json?key="+apikey+"&placeid="+id, 
+         service.getDetails({placeId: id}, function(place, status){
+            if(status === google.maps.places.PlacesServiceStatus.OK){
+               console.log(place);
+            }
+            });
+      }
+      function createMarker(place) {
+        var placeLoc = place.geometry.location;
+        var marker = new google.maps.Marker({
+          map: map,
+          position: place.geometry.location
+        });
+
+        google.maps.event.addListener(marker, 'click', function() {
+          infowindow.setContent(place.name);
+          infowindow.open(map, this);
+        });
+      }
+      
+    </script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCL_-KzdcAdWm6YuOcQXDVuWBGyHEZHAI8&libraries=places&callback=initMap" async defer></script>
+  </body>
+</html>
