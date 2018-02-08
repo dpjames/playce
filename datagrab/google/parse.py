@@ -1,3 +1,4 @@
+from __future__ import print_function 
 import json
 goodTypes = [
 "amusement_park",
@@ -31,7 +32,7 @@ goodTypes = [
 "stadium",
 "store",
 "university",
-"zoo"];
+"zoo"]
 def checkprint(val):
     try:
         print(val)
@@ -59,14 +60,14 @@ open("700.txt"),
 open("800.txt"),
 open("900.txt"),
 open("1000.txt")
-];
-fullList = [];
+]
+fullList = []
 for i in range(0, len(files)):
     curstr = files[i].read()
-    curjs = json.loads(curstr);
+    curjs = json.loads(curstr)
     fullList+=curjs
-    files[i].close();
-output = open("output", "w+");
+    files[i].close()
+output = open("output", "w+")
 
 for x in range(0,len(fullList)):
     if(fullList[x]['types'][0] not in goodTypes):
@@ -88,7 +89,9 @@ for x in range(0,len(fullList)):
         print("not found")
     print("hours")
     try:
-        print(fullList[x]['opening_hours']['weekday_text'])
+        for val in fullList[x]['opening_hours']['weekday_text']:
+            print(val.encode("utf-8")+"`", end='')
+        #print(fullList[x]['opening_hours']['weekday_text'])
         #print(fullList[x]['opening_hours']['weekday_text'][0])
         #print(fullList[x]['opening_hours']['weekday_text'][1])
         #print(fullList[x]['opening_hours']['weekday_text'][2])
@@ -96,7 +99,9 @@ for x in range(0,len(fullList)):
         #print(fullList[x]['opening_hours']['weekday_text'][4])
         #print(fullList[x]['opening_hours']['weekday_text'][5])
         #print(fullList[x]['opening_hours']['weekday_text'][6])
-    except:
+        print()
+    except Exception as e:
+        #print(e)
         print("not found")
     print("price")
     try:
@@ -110,7 +115,9 @@ for x in range(0,len(fullList)):
         print("not found")
     print("types")
     try:
-        print(fullList[x]['types'])
+        for val in fullList[x]['types']:
+            print(val.encode("utf-8")+"`",end='')
+        print()
     except:
         print("not found")
     print("website")
@@ -131,23 +138,23 @@ for x in range(0,len(fullList)):
                 print("not found")
             print("*****")
     except:
-        print "no reviews found";
-    print "========================================================";
+        print("no reviews found")
+    print ("========================================================")
 '''
 for a in range(0,len(fullList)):
-    print(fullList[a]['name'].encode("utf-8"));
+    print(fullList[a]['name'].encode("utf-8"))
     try:
         revs = fullList[a]['reviews']
         for r in range(0,len(revs)):
             print(revs[r]["text"].encode("utf-8"))
-            print("");
+            print("")
     except:
-        print "no reviews found";
-    print "========================================================";
+        print "no reviews found"
+    print "========================================================"
 #for x in range(0, len(fullList)):
 '''
-#    output.write(fullList[x]['reviews'][0]['text'].encode("utf-8")+"\n");
-output.close();
+#    output.write(fullList[x]['reviews'][0]['text'].encode("utf-8")+"\n")
+output.close()
 
 
 
