@@ -122,7 +122,6 @@ for x in range(0,len(fullList)):
     try:
         revs = fullList[x]['reviews']
         for r in range(0,len(revs)):
-            print("*****")
             print("text")
             print(revs[r]["text"].encode("utf-8"))
             print("rating")

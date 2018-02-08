@@ -6,4 +6,13 @@ public class Grabber{
    public static void main(String[] args){
 
    }
+
+   private static Place get(String term){
+
+   }
+   private class Place{
+      public Place(){
+         
+      }
+   }
 }
