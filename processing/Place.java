@@ -1,5 +1,12 @@
 import java.util.*;
+/*
+ * a representaion of a place.
+ *
+ */
 public class Place{
+   /*
+    * Data fields describing the place
+    */
    public String name;
    public String address;
    public String phone;
@@ -9,6 +16,10 @@ public class Place{
    public ArrayList<String> types;
    public String website;
    public ArrayList<Review> reviews;
+   /*
+    * constructor that takes in a scanner to a file and trys to parse it into the Palce object
+    * See main function for file information.
+    */
    public Place(Scanner scan){
       scan.nextLine();
       this.name = scan.nextLine();
@@ -29,6 +40,9 @@ public class Place{
       this.reviews = parseReviews(scan);
       System.out.println(this.toString());
    }
+   /*
+    * prints the place in a niceish way
+    */
    public String toString(){
       String ret = "";
       ret+=this.name + "\n";
@@ -53,33 +67,8 @@ public class Place{
       return ret;
    }
    /*
-   private String[] parseHours(String l){
-      if(true) return null;
-      if(l.equals("not found")){
-         return null;
-      }
-      String[] ret = new String[7];
-      String[] splitup = l.split(",");
-      for(int i = 0; i < splitup.length; i++){
-         String hours = splitup[i].split(":", 2)[1];
-         if(hours.contains("Closed")){
-            ret[i] = "Closed";
-            continue;
-         }
-         System.err.println(hours);
-         String[] tmp = hours.split(" ");
-         //this really should be cleaned up, but I was tired of dealing with the strings -_-
-         try{
-            tmp[5] = tmp[5].split("'")[0];
-            hours = tmp[1] + tmp[2] + " " + tmp[4] + tmp[5];
-            ret[i] = hours;
-         }catch(Exception e){
-
-         }
-      }
-      return ret;
-   }
-   */
+    * formats the hours. This could use some work, but I am not sure how we want to store the hours?
+    */
    private String[] parseHours(String l){
       System.out.println(l);
       if(l.equals("not found")){
@@ -97,6 +86,9 @@ public class Place{
       }
       return ret;
    }
+   /*
+    * formats types
+    */
    private ArrayList<String> parseTypes(String l){
       if(l.equals("not found")){
          return null;
@@ -109,6 +101,9 @@ public class Place{
       return ret;
 
    }
+   /*
+    * formats reviews. NEEDS STRICT ADHERENCE TO THE PARSE.PY FILE TYPE 
+    */
    private ArrayList<Review> parseReviews(Scanner scan){
       ArrayList<Review> ret = new ArrayList<Review>();
       String line = scan.nextLine();
