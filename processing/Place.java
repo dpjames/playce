@@ -52,6 +52,7 @@ public class Place{
       }
       return ret;
    }
+   /*
    private String[] parseHours(String l){
       if(true) return null;
       if(l.equals("not found")){
@@ -78,13 +79,30 @@ public class Place{
       }
       return ret;
    }
+   */
+   private String[] parseHours(String l){
+      System.out.println(l);
+      if(l.equals("not found")){
+         return null;
+      }
+      String[] ret = new String[7];
+      String[] splitup = l.split("`");
+      for(int i = 0; i < splitup.length; i++){
+         String s = splitup[i];
+         if(s.contains("Closed")){
+            ret[i] = "Closed";
+         }
+         s = s.split(":", 2)[1];
+         ret[i] = s;
+      }
+      return ret;
+   }
    private ArrayList<String> parseTypes(String l){
       if(l.equals("not found")){
          return null;
       }
       ArrayList<String> ret = new ArrayList<String>();
-      String cleaned = l.replace("'","").replace("[","").replace("]","");
-      String[] splitup = cleaned.split(",");
+      String[] splitup = l.split("`");
       for(String s : splitup){
          ret.add(s);
       }

@@ -5,13 +5,13 @@ address
 phone
 (805) 547-0278
 hours
-['Monday: 7:00 AM  6:00 PM',Tuesday: 7:00 AM  6:00 PM',Wednesday: 7:00 AM  6:00 PM',Thursday: 7:00 AM  6:00 PM',Friday: 7:00 AM  6:00 PM',Saturday: 7:00 AM  6:00 PM',Sunday: 7:00 AM  6:00 PM']
+Monday: 7:00 AM – 6:00 PM`Tuesday: 7:00 AM – 6:00 PM`Wednesday: 7:00 AM – 6:00 PM`Thursday: 7:00 AM – 6:00 PM`Friday: 7:00 AM – 6:00 PM`Saturday: 7:00 AM – 6:00 PM`Sunday: 7:00 AM – 6:00 PM`
 price
 not found
 rating
 4.6
 types
-['art_gallery',cafe',food',store',point_of_interest',establishment']
+art_gallery`cafe`food`store`point_of_interest`establishment`
 website
 http://www.steynberggallery.com/
 reviews
@@ -50,13 +50,13 @@ address
 phone
 (805) 543-1921
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  8:00 PM',Friday: 10:00 AM  8:00 PM',Saturday: 10:00 AM  8:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 8:00 PM`Friday: 10:00 AM – 8:00 PM`Saturday: 10:00 AM – 8:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 4.5
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://handsgallery.com/
 reviews
@@ -88,13 +88,13 @@ address
 phone
 (805) 783-1300
 hours
-['Monday: 5:00 AM  6:00 PM',Tuesday: 5:00 AM  6:00 PM',Wednesday: 5:00 AM  6:00 PM',Thursday: 5:00 AM  6:00 PM',Friday: 5:00 AM  6:00 PM',Saturday: 6:00 AM  6:00 PM',Sunday: 6:00 AM  6:00 PM']
+Monday: 5:00 AM – 6:00 PM`Tuesday: 5:00 AM – 6:00 PM`Wednesday: 5:00 AM – 6:00 PM`Thursday: 5:00 AM – 6:00 PM`Friday: 5:00 AM – 6:00 PM`Saturday: 6:00 AM – 6:00 PM`Sunday: 6:00 AM – 6:00 PM`
 price
 not found
 rating
 4.4
 types
-['cafe',bakery',food',store',point_of_interest',establishment']
+cafe`bakery`food`store`point_of_interest`establishment`
 website
 http://blackhorsecoffee.com/
 reviews
@@ -137,7 +137,7 @@ not found
 rating
 not found
 types
-['art_gallery',store',point_of_interest',establishment']
+art_gallery`store`point_of_interest`establishment`
 website
 https://www.sloart.com/
 reviews
@@ -150,13 +150,13 @@ address
 phone
 (805) 541-2464
 hours
-['Monday: 10:00 AM  5:30 PM',Tuesday: 10:00 AM  5:30 PM',Wednesday: 10:00 AM  5:30 PM',Thursday: 10:00 AM  5:30 PM',Friday: 10:00 AM  5:30 PM',Saturday: 10:00 AM  5:00 PM',Sunday: Closed']
+Monday: 10:00 AM – 5:30 PM`Tuesday: 10:00 AM – 5:30 PM`Wednesday: 10:00 AM – 5:30 PM`Thursday: 10:00 AM – 5:30 PM`Friday: 10:00 AM – 5:30 PM`Saturday: 10:00 AM – 5:00 PM`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['art_gallery',store',point_of_interest',establishment']
+art_gallery`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -169,13 +169,13 @@ address
 phone
 (805) 345-2155
 hours
-['Monday: 6:30 AM  7:00 PM',Tuesday: 6:30 AM  7:00 PM',Wednesday: 6:30 AM  7:00 PM',Thursday: 6:30 AM  7:00 PM',Friday: 6:30 AM  7:00 PM',Saturday: 7:30 AM  7:00 PM',Sunday: 7:30 AM  7:00 PM']
+Monday: 6:30 AM – 7:00 PM`Tuesday: 6:30 AM – 7:00 PM`Wednesday: 6:30 AM – 7:00 PM`Thursday: 6:30 AM – 7:00 PM`Friday: 6:30 AM – 7:00 PM`Saturday: 7:30 AM – 7:00 PM`Sunday: 7:30 AM – 7:00 PM`
 price
 not found
 rating
 4.6
 types
-['cafe',bakery',food',store',point_of_interest',establishment']
+cafe`bakery`food`store`point_of_interest`establishment`
 website
 https://www.facebook.com/ascendocoffeeslo/
 reviews
@@ -212,13 +212,13 @@ address
 phone
 (805) 784-2430
 hours
-['Monday: 7:00 AM  10:00 PM',Tuesday: 7:00 AM  10:00 PM',Wednesday: 7:00 AM  10:00 PM',Thursday: 7:00 AM  10:00 PM',Friday: 7:00 AM  10:00 PM',Saturday: 7:00 AM  10:00 PM',Sunday: 7:00 AM  10:00 PM']
+Monday: 7:00 AM – 10:00 PM`Tuesday: 7:00 AM – 10:00 PM`Wednesday: 7:00 AM – 10:00 PM`Thursday: 7:00 AM – 10:00 PM`Friday: 7:00 AM – 10:00 PM`Saturday: 7:00 AM – 10:00 PM`Sunday: 7:00 AM – 10:00 PM`
 price
 not found
 rating
 3.7
 types
-['cafe',bakery',restaurant',food',store',point_of_interest',establishment']
+cafe`bakery`restaurant`food`store`point_of_interest`establishment`
 website
 http://www.madonnainn.com/coppercafe.php
 reviews
@@ -262,13 +262,13 @@ address
 phone
 (757) 752-1784
 hours
-['Monday: 9:00 AM  5:00 PM',Tuesday: 9:00 AM  5:00 PM',Wednesday: 9:00 AM  5:00 PM',Thursday: 9:00 AM  5:00 PM',Friday: 9:00 AM  5:00 PM',Saturday: 9:00 AM  5:00 PM',Sunday: Closed']
+Monday: 9:00 AM – 5:00 PM`Tuesday: 9:00 AM – 5:00 PM`Wednesday: 9:00 AM – 5:00 PM`Thursday: 9:00 AM – 5:00 PM`Friday: 9:00 AM – 5:00 PM`Saturday: 9:00 AM – 5:00 PM`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['aquarium',point_of_interest',establishment']
+aquarium`point_of_interest`establishment`
 website
 http://www.creature-comfortz.weebly.com/
 reviews
@@ -281,13 +281,13 @@ address
 phone
 (805) 541-9300
 hours
-['Monday: 5:00 AM  7:00 PM',Tuesday: 5:00 AM  7:00 PM',Wednesday: 5:00 AM  7:00 PM',Thursday: 5:00 AM  7:00 PM',Friday: 5:00 AM  7:00 PM',Saturday: 5:00 AM  7:00 PM',Sunday: 5:00 AM  7:00 PM']
+Monday: 5:00 AM – 7:00 PM`Tuesday: 5:00 AM – 7:00 PM`Wednesday: 5:00 AM – 7:00 PM`Thursday: 5:00 AM – 7:00 PM`Friday: 5:00 AM – 7:00 PM`Saturday: 5:00 AM – 7:00 PM`Sunday: 5:00 AM – 7:00 PM`
 price
 not found
 rating
 4.4
 types
-['cafe',bakery',food',store',point_of_interest',establishment']
+cafe`bakery`food`store`point_of_interest`establishment`
 website
 http://blackhorsecoffee.com/
 reviews
@@ -324,13 +324,13 @@ address
 phone
 (805) 747-4200
 hours
-['Monday: 10:00 AM  5:30 PM',Tuesday: 10:00 AM  5:30 PM',Wednesday: 10:00 AM  5:30 PM',Thursday: 10:00 AM  5:30 PM',Friday: 10:00 AM  5:30 PM',Saturday: 10:00 AM  5:00 PM',Sunday: 12:00  4:00 PM']
+Monday: 10:00 AM – 5:30 PM`Tuesday: 10:00 AM – 5:30 PM`Wednesday: 10:00 AM – 5:30 PM`Thursday: 10:00 AM – 5:30 PM`Friday: 10:00 AM – 5:30 PM`Saturday: 10:00 AM – 5:00 PM`Sunday: 12:00 – 4:00 PM`
 price
 not found
 rating
 4.6
 types
-['art_gallery',store',point_of_interest',establishment']
+art_gallery`store`point_of_interest`establishment`
 website
 http://artcentralartsupply.com/
 reviews
@@ -373,7 +373,7 @@ not found
 rating
 not found
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://www.anneladdon.com/
 reviews
@@ -386,13 +386,13 @@ address
 phone
 (805) 542-0255
 hours
-['Monday: 7:00 AM  7:00 PM',Tuesday: 7:00 AM  7:00 PM',Wednesday: 7:00 AM  7:00 PM',Thursday: 7:00 AM  7:00 PM',Friday: 7:00 AM  7:00 PM',Saturday: 7:00 AM  6:30 PM',Sunday: 8:00 AM  6:00 PM']
+Monday: 7:00 AM – 7:00 PM`Tuesday: 7:00 AM – 7:00 PM`Wednesday: 7:00 AM – 7:00 PM`Thursday: 7:00 AM – 7:00 PM`Friday: 7:00 AM – 7:00 PM`Saturday: 7:00 AM – 6:30 PM`Sunday: 8:00 AM – 6:00 PM`
 price
 not found
 rating
 4.5
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 http://www.houseofbread.com/
 reviews
@@ -435,7 +435,7 @@ not found
 rating
 4.6
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://leftfieldslo.com/
 reviews
@@ -472,13 +472,13 @@ address
 phone
 (805) 543-7600
 hours
-['Monday: 9:00 AM  5:00 PM',Tuesday: 9:00 AM  5:00 PM',Wednesday: 9:00 AM  5:00 PM',Thursday: 9:00 AM  5:00 PM',Friday: 9:00 AM  5:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 9:00 AM – 5:00 PM`Tuesday: 9:00 AM – 5:00 PM`Wednesday: 9:00 AM – 5:00 PM`Thursday: 9:00 AM – 5:00 PM`Friday: 9:00 AM – 5:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 4.4
 types
-['art_gallery',general_contractor',home_goods_store',store',point_of_interest',establishment']
+art_gallery`general_contractor`home_goods_store`store`point_of_interest`establishment`
 website
 http://mattclarktile.com/
 reviews
@@ -521,7 +521,7 @@ not found
 rating
 not found
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://johnlandongallery.com/
 reviews
@@ -540,7 +540,7 @@ not found
 rating
 not found
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -553,13 +553,13 @@ address
 phone
 (805) 782-9766
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4.7
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 http://www.slodoco.com/
 reviews
@@ -603,13 +603,13 @@ address
 phone
 (805) 541-3455
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  6:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  5:00 PM',Sunday: Closed']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 6:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 5:00 PM`Sunday: Closed`
 price
 2
 rating
 5
 types
-['art_gallery',store',point_of_interest',establishment']
+art_gallery`store`point_of_interest`establishment`
 website
 http://www.fastframe.com/
 reviews
@@ -647,7 +647,7 @@ not found
 rating
 not found
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -660,13 +660,13 @@ address
 phone
 (805) 547-2300
 hours
-['Monday: 5:30 AM  5:00 PM',Tuesday: 5:30 AM  5:00 PM',Wednesday: 5:30 AM  5:00 PM',Thursday: 5:30 AM  5:00 PM',Friday: 5:30 AM  5:00 PM',Saturday: 5:30 AM  5:00 PM',Sunday: 5:30 AM  5:00 PM']
+Monday: 5:30 AM – 5:00 PM`Tuesday: 5:30 AM – 5:00 PM`Wednesday: 5:30 AM – 5:00 PM`Thursday: 5:30 AM – 5:00 PM`Friday: 5:30 AM – 5:00 PM`Saturday: 5:30 AM – 5:00 PM`Sunday: 5:30 AM – 5:00 PM`
 price
 not found
 rating
 4.2
 types
-['cafe',bakery',food',store',point_of_interest',establishment']
+cafe`bakery`food`store`point_of_interest`establishment`
 website
 http://www.blackhorsecoffee.com/
 reviews
@@ -709,7 +709,7 @@ not found
 rating
 5
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 http://www.slobaked.com/
 reviews
@@ -726,13 +726,13 @@ address
 phone
 (805) 788-0212
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 9:00 AM  9:00 PM',Friday: 9:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 10:00 AM  6:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 9:00 AM – 9:00 PM`Friday: 9:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 10:00 AM – 6:00 PM`
 price
 not found
 rating
 3.8
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 http://cowboycookie.net/
 reviews
@@ -769,13 +769,13 @@ address
 phone
 (805) 756-1953
 hours
-['Monday: 6:00 AM  5:00 PM',Tuesday: 6:00 AM  5:00 PM',Wednesday: 6:00 AM  5:00 PM',Thursday: 6:00 AM  5:00 PM',Friday: 6:00 AM  5:00 PM',Saturday: 6:00 AM  5:00 PM',Sunday: 6:00 AM  5:00 PM']
+Monday: 6:00 AM – 5:00 PM`Tuesday: 6:00 AM – 5:00 PM`Wednesday: 6:00 AM – 5:00 PM`Thursday: 6:00 AM – 5:00 PM`Friday: 6:00 AM – 5:00 PM`Saturday: 6:00 AM – 5:00 PM`Sunday: 6:00 AM – 5:00 PM`
 price
 1
 rating
 3.6
 types
-['bakery',cafe',restaurant',food',store',point_of_interest',establishment']
+bakery`cafe`restaurant`food`store`point_of_interest`establishment`
 website
 https://locations.einsteinbros.com/ll/US/CA/San-Luis-Obispo/1-Grand-Ave-#171B
 reviews
@@ -822,13 +822,13 @@ address
 phone
 (805) 544-7567
 hours
-['Monday: 7:00 AM  8:30 PM',Tuesday: 7:00 AM  8:30 PM',Wednesday: 7:00 AM  8:30 PM',Thursday: 7:00 AM  8:30 PM',Friday: 7:00 AM  9:30 PM',Saturday: 7:00 AM  9:30 PM',Sunday: 7:00 AM  8:30 PM']
+Monday: 7:00 AM – 8:30 PM`Tuesday: 7:00 AM – 8:30 PM`Wednesday: 7:00 AM – 8:30 PM`Thursday: 7:00 AM – 8:30 PM`Friday: 7:00 AM – 9:30 PM`Saturday: 7:00 AM – 9:30 PM`Sunday: 7:00 AM – 8:30 PM`
 price
 2
 rating
 4.4
 types
-['bakery',restaurant',food',store',point_of_interest',establishment']
+bakery`restaurant`food`store`point_of_interest`establishment`
 website
 http://splashcafe.com/
 reviews
@@ -869,13 +869,13 @@ address
 phone
 (805) 547-1485
 hours
-['Monday: 9:00 AM  10:00 PM',Tuesday: 9:00 AM  10:00 PM',Wednesday: 9:00 AM  10:00 PM',Thursday: 9:00 AM  10:00 PM',Friday: 9:00 AM  10:00 PM',Saturday: 9:00 AM  10:00 PM',Sunday: 9:00 AM  9:00 PM']
+Monday: 9:00 AM – 10:00 PM`Tuesday: 9:00 AM – 10:00 PM`Wednesday: 9:00 AM – 10:00 PM`Thursday: 9:00 AM – 10:00 PM`Friday: 9:00 AM – 10:00 PM`Saturday: 9:00 AM – 10:00 PM`Sunday: 9:00 AM – 9:00 PM`
 price
 not found
 rating
 4.3
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.lagunagrillslo.com/
 reviews
@@ -914,13 +914,13 @@ address
 phone
 (805) 540-5243
 hours
-['Monday: 11:30 AM  9:00 PM',Tuesday: 11:30 AM  9:00 PM',Wednesday: 11:30 AM  9:00 PM',Thursday: 11:30 AM  10:00 PM',Friday: 11:30 AM  12:00 AM',Saturday: 9:00 AM  12:00 AM',Sunday: 9:00 AM  9:00 PM']
+Monday: 11:30 AM – 9:00 PM`Tuesday: 11:30 AM – 9:00 PM`Wednesday: 11:30 AM – 9:00 PM`Thursday: 11:30 AM – 10:00 PM`Friday: 11:30 AM – 12:00 AM`Saturday: 9:00 AM – 12:00 AM`Sunday: 9:00 AM – 9:00 PM`
 price
 2
 rating
 4.3
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.lunaredslo.com/
 reviews
@@ -958,13 +958,13 @@ address
 phone
 (805) 234-1710
 hours
-['Monday: 7:00 AM  6:30 PM',Tuesday: 7:00 AM  6:30 PM',Wednesday: 7:00 AM  6:30 PM',Thursday: 9:00 AM  5:00 PM',Friday: 7:00 AM  6:30 PM',Saturday: 7:00 AM  6:30 PM',Sunday: Closed']
+Monday: 7:00 AM – 6:30 PM`Tuesday: 7:00 AM – 6:30 PM`Wednesday: 7:00 AM – 6:30 PM`Thursday: 9:00 AM – 5:00 PM`Friday: 7:00 AM – 6:30 PM`Saturday: 7:00 AM – 6:30 PM`Sunday: Closed`
 price
 not found
 rating
 3.5
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 http://www.emilyscinnamonrolls.com/
 reviews
@@ -1001,13 +1001,13 @@ address
 phone
 (805) 594-1818
 hours
-['Monday: 7:00 AM  3:00 PM',Tuesday: 7:00 AM  3:00 PM',Wednesday: 7:00 AM  3:00 PM',Thursday: 7:00 AM  3:00 PM',Friday: 7:00 AM  3:00 PM',Saturday: 7:00 AM  3:00 PM',Sunday: 7:00 AM  3:00 PM']
+Monday: 7:00 AM – 3:00 PM`Tuesday: 7:00 AM – 3:00 PM`Wednesday: 7:00 AM – 3:00 PM`Thursday: 7:00 AM – 3:00 PM`Friday: 7:00 AM – 3:00 PM`Saturday: 7:00 AM – 3:00 PM`Sunday: 7:00 AM – 3:00 PM`
 price
 1
 rating
 4.2
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 http://www.houseofbagelscc.com/
 reviews
@@ -1044,13 +1044,13 @@ address
 phone
 (805) 543-8383
 hours
-['Monday: 11:00 AM  10:00 PM',Tuesday: 11:00 AM  10:00 PM',Wednesday: 11:00 AM  10:00 PM',Thursday: 11:00 AM  10:00 PM',Friday: 11:00 AM  11:00 PM',Saturday: 11:00 AM  11:00 PM',Sunday: 11:00 AM  9:00 PM']
+Monday: 11:00 AM – 10:00 PM`Tuesday: 11:00 AM – 10:00 PM`Wednesday: 11:00 AM – 10:00 PM`Thursday: 11:00 AM – 10:00 PM`Friday: 11:00 AM – 11:00 PM`Saturday: 11:00 AM – 11:00 PM`Sunday: 11:00 AM – 9:00 PM`
 price
 2
 rating
 4
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 https://www.tahoejoes.com/
 reviews
@@ -1091,13 +1091,13 @@ address
 phone
 (805) 547-1800
 hours
-['Monday: 6:00 AM  9:00 PM',Tuesday: 6:00 AM  9:00 PM',Wednesday: 6:00 AM  9:00 PM',Thursday: 6:00 AM  9:00 PM',Friday: 6:00 AM  9:00 PM',Saturday: 6:00 AM  9:00 PM',Sunday: 7:00 AM  9:00 PM']
+Monday: 6:00 AM – 9:00 PM`Tuesday: 6:00 AM – 9:00 PM`Wednesday: 6:00 AM – 9:00 PM`Thursday: 6:00 AM – 9:00 PM`Friday: 6:00 AM – 9:00 PM`Saturday: 6:00 AM – 9:00 PM`Sunday: 7:00 AM – 9:00 PM`
 price
 1
 rating
 3.6
 types
-['bakery',cafe',meal_takeaway',restaurant',food',store',point_of_interest',establishment']
+bakery`cafe`meal_takeaway`restaurant`food`store`point_of_interest`establishment`
 website
 https://locations.panerabread.com/ca/san-luis-obispo/299-madonna-road.html?utm_medium=display-ad&utm_source=paid-digital&utm_campaign=yext&utm_content=local-search
 reviews
@@ -1137,13 +1137,13 @@ address
 phone
 (805) 547-0108
 hours
-['Monday: 8:00 AM  8:00 PM',Tuesday: 8:00 AM  8:00 PM',Wednesday: 8:00 AM  8:00 PM',Thursday: 8:00 AM  9:00 PM',Friday: 8:00 AM  9:00 PM',Saturday: 9:00 AM  9:00 PM',Sunday: 9:00 AM  8:00 PM']
+Monday: 8:00 AM – 8:00 PM`Tuesday: 8:00 AM – 8:00 PM`Wednesday: 8:00 AM – 8:00 PM`Thursday: 8:00 AM – 9:00 PM`Friday: 8:00 AM – 9:00 PM`Saturday: 9:00 AM – 9:00 PM`Sunday: 9:00 AM – 8:00 PM`
 price
 1
 rating
 4.6
 types
-['bakery',cafe',restaurant',food',store',point_of_interest',establishment']
+bakery`cafe`restaurant`food`store`point_of_interest`establishment`
 website
 http://www.blisscafeslo.com/
 reviews
@@ -1180,13 +1180,13 @@ address
 phone
 (805) 543-1843
 hours
-['Monday: 11:30 AM  12:00 AM',Tuesday: 11:30 AM  2:00 AM',Wednesday: 11:30 AM  2:00 AM',Thursday: 11:30 AM  2:00 AM',Friday: 11:30 AM  2:00 AM',Saturday: 11:30 AM  2:00 AM',Sunday: 10:00 AM  12:00 AM']
+Monday: 11:30 AM – 12:00 AM`Tuesday: 11:30 AM – 2:00 AM`Wednesday: 11:30 AM – 2:00 AM`Thursday: 11:30 AM – 2:00 AM`Friday: 11:30 AM – 2:00 AM`Saturday: 11:30 AM – 2:00 AM`Sunday: 10:00 AM – 12:00 AM`
 price
 2
 rating
 3.7
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.slobrew.com/
 reviews
@@ -1229,7 +1229,7 @@ not found
 rating
 5
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://www.genefrancis.net/
 reviews
@@ -1256,13 +1256,13 @@ address
 phone
 (805) 391-0361
 hours
-['Monday: Closed',Tuesday: 12:00  5:00 PM',Wednesday: 12:00  5:00 PM',Thursday: 12:00  5:00 PM',Friday: 12:00  5:00 PM',Saturday: 12:00  5:00 PM',Sunday: Closed']
+Monday: Closed`Tuesday: 12:00 – 5:00 PM`Wednesday: 12:00 – 5:00 PM`Thursday: 12:00 – 5:00 PM`Friday: 12:00 – 5:00 PM`Saturday: 12:00 – 5:00 PM`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['art_gallery',clothing_store',store',point_of_interest',establishment']
+art_gallery`clothing_store`store`point_of_interest`establishment`
 website
 http://www.jeffclaassen.com/blog
 reviews
@@ -1281,7 +1281,7 @@ not found
 rating
 5
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://www.drewdavis.com/
 reviews
@@ -1304,7 +1304,7 @@ not found
 rating
 not found
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://www.astaire-fineart.com/
 reviews
@@ -1317,13 +1317,13 @@ address
 phone
 (805) 541-6663
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 4.6
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 https://www.justlookinggallery.com/
 reviews
@@ -1360,13 +1360,13 @@ address
 phone
 (805) 543-3986
 hours
-['Monday: 11:00 AM  9:00 PM',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  1:00 AM',Saturday: 11:00 AM  1:00 AM',Sunday: 10:00 AM  9:00 PM']
+Monday: 11:00 AM – 9:00 PM`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 1:00 AM`Saturday: 11:00 AM – 1:00 AM`Sunday: 10:00 AM – 9:00 PM`
 price
 2
 rating
 4.4
 types
-['meal_takeaway',bar',night_club',restaurant',food',point_of_interest',establishment']
+meal_takeaway`bar`night_club`restaurant`food`point_of_interest`establishment`
 website
 http://novorestaurant.com/
 reviews
@@ -1403,13 +1403,13 @@ address
 phone
 (805) 593-0420
 hours
-['Monday: 11:00 AM  10:00 PM',Tuesday: 11:00 AM  10:00 PM',Wednesday: 11:00 AM  10:00 PM',Thursday: 11:00 AM  10:00 PM',Friday: 11:00 AM  10:00 PM',Saturday: 11:00 AM  10:00 PM',Sunday: 11:00 AM  10:00 PM']
+Monday: 11:00 AM – 10:00 PM`Tuesday: 11:00 AM – 10:00 PM`Wednesday: 11:00 AM – 10:00 PM`Thursday: 11:00 AM – 10:00 PM`Friday: 11:00 AM – 10:00 PM`Saturday: 11:00 AM – 10:00 PM`Sunday: 11:00 AM – 10:00 PM`
 price
 not found
 rating
 4.4
 types
-['art_gallery',store',point_of_interest',establishment']
+art_gallery`store`point_of_interest`establishment`
 website
 http://cloud9slo.bigcartel.com/
 reviews
@@ -1446,13 +1446,13 @@ address
 phone
 (877) 688-0156
 hours
-['Monday: Closed',Tuesday: 12:00  8:00 PM',Wednesday: 12:00  8:00 PM',Thursday: 12:00  8:00 PM',Friday: 12:00  8:00 PM',Saturday: 12:00  8:00 PM',Sunday: 12:00  5:00 PM']
+Monday: Closed`Tuesday: 12:00 – 8:00 PM`Wednesday: 12:00 – 8:00 PM`Thursday: 12:00 – 8:00 PM`Friday: 12:00 – 8:00 PM`Saturday: 12:00 – 8:00 PM`Sunday: 12:00 – 5:00 PM`
 price
 not found
 rating
 not found
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://spiritsofafricagallery.com/
 reviews
@@ -1465,13 +1465,13 @@ address
 phone
 (805) 545-5895
 hours
-['Monday: 6:30 AM  3:30 PM',Tuesday: 6:30 AM  3:30 PM',Wednesday: 6:30 AM  3:30 PM',Thursday: 6:30 AM  3:30 PM',Friday: 6:30 AM  3:30 PM',Saturday: 6:30 AM  3:30 PM',Sunday: 6:30 AM  3:30 PM']
+Monday: 6:30 AM – 3:30 PM`Tuesday: 6:30 AM – 3:30 PM`Wednesday: 6:30 AM – 3:30 PM`Thursday: 6:30 AM – 3:30 PM`Friday: 6:30 AM – 3:30 PM`Saturday: 6:30 AM – 3:30 PM`Sunday: 6:30 AM – 3:30 PM`
 price
 not found
 rating
 4.6
 types
-['cafe',bakery',food',store',point_of_interest',establishment']
+cafe`bakery`food`store`point_of_interest`establishment`
 website
 http://www.sallylooswholesomecafe.com/
 reviews
@@ -1514,13 +1514,13 @@ address
 phone
 (805) 783-1300
 hours
-['Monday: 5:00 AM  7:00 PM',Tuesday: 5:00 AM  7:00 PM',Wednesday: 5:00 AM  7:00 PM',Thursday: 5:00 AM  7:00 PM',Friday: 5:00 AM  7:00 PM',Saturday: 6:00 AM  7:00 PM',Sunday: 6:00 AM  7:00 PM']
+Monday: 5:00 AM – 7:00 PM`Tuesday: 5:00 AM – 7:00 PM`Wednesday: 5:00 AM – 7:00 PM`Thursday: 5:00 AM – 7:00 PM`Friday: 5:00 AM – 7:00 PM`Saturday: 6:00 AM – 7:00 PM`Sunday: 6:00 AM – 7:00 PM`
 price
 not found
 rating
 not found
 types
-['bakery',food',store',point_of_interest',establishment']
+bakery`food`store`point_of_interest`establishment`
 website
 https://blackhorsecoffee.com/
 reviews
@@ -1533,13 +1533,13 @@ address
 phone
 (805) 439-1300
 hours
-['Monday: 5:30 AM  5:00 PM',Tuesday: 5:30 AM  5:00 PM',Wednesday: 5:30 AM  5:00 PM',Thursday: 5:30 AM  5:00 PM',Friday: 5:30 AM  5:00 PM',Saturday: 5:30 AM  5:00 PM',Sunday: 5:30 AM  5:00 PM']
+Monday: 5:30 AM – 5:00 PM`Tuesday: 5:30 AM – 5:00 PM`Wednesday: 5:30 AM – 5:00 PM`Thursday: 5:30 AM – 5:00 PM`Friday: 5:30 AM – 5:00 PM`Saturday: 5:30 AM – 5:00 PM`Sunday: 5:30 AM – 5:00 PM`
 price
 not found
 rating
 4.4
 types
-['cafe',bakery',food',store',point_of_interest',establishment']
+cafe`bakery`food`store`point_of_interest`establishment`
 website
 http://blackhorsecoffee.com/
 reviews
@@ -1582,7 +1582,7 @@ not found
 rating
 not found
 types
-['art_gallery',point_of_interest',establishment']
+art_gallery`point_of_interest`establishment`
 website
 http://www.lsrhodes.com/
 reviews
@@ -1595,13 +1595,13 @@ address
 phone
 (805) 543-0760
 hours
-['Monday: 11:00 AM  6:00 PM',Tuesday: 11:00 AM  6:00 PM',Wednesday: 11:00 AM  6:00 PM',Thursday: 11:00 AM  8:00 PM',Friday: 11:00 AM  8:00 PM',Saturday: 11:00 AM  8:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 11:00 AM – 6:00 PM`Tuesday: 11:00 AM – 6:00 PM`Wednesday: 11:00 AM – 6:00 PM`Thursday: 11:00 AM – 8:00 PM`Friday: 11:00 AM – 8:00 PM`Saturday: 11:00 AM – 8:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 not found
 rating
 4.4
 types
-['clothing_store',art_gallery',jewelry_store',store',point_of_interest',establishment']
+clothing_store`art_gallery`jewelry_store`store`point_of_interest`establishment`
 website
 http://www.facebook.com/hempshak
 reviews
@@ -1638,13 +1638,13 @@ address
 phone
 (805) 541-9922
 hours
-['Monday: 11:30 AM  9:30 PM',Tuesday: 11:30 AM  9:30 PM',Wednesday: 11:30 AM  9:30 PM',Thursday: 11:30 AM  9:30 PM',Friday: 11:30 AM  10:00 PM',Saturday: 11:30 AM  10:00 PM',Sunday: 11:00 AM  9:30 PM']
+Monday: 11:30 AM – 9:30 PM`Tuesday: 11:30 AM – 9:30 PM`Wednesday: 11:30 AM – 9:30 PM`Thursday: 11:30 AM – 9:30 PM`Friday: 11:30 AM – 10:00 PM`Saturday: 11:30 AM – 10:00 PM`Sunday: 11:00 AM – 9:30 PM`
 price
 2
 rating
 4.6
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 https://www.giuseppesrestaurant.com/home/
 reviews
@@ -1686,13 +1686,13 @@ address
 phone
 (805) 544-2842
 hours
-['Monday: Closed',Tuesday: Closed',Wednesday: Closed',Thursday: Closed',Friday: Closed',Saturday: 11:00 AM  5:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: Closed`Tuesday: Closed`Wednesday: Closed`Thursday: Closed`Friday: Closed`Saturday: 11:00 AM – 5:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 5
 types
-['bar',food',store',point_of_interest',establishment']
+bar`food`store`point_of_interest`establishment`
 website
 http://www.cerrocalientecellars.com/
 reviews
@@ -1729,13 +1729,13 @@ address
 phone
 (805) 783-2739
 hours
-['Monday: 12:00  9:00 PM',Tuesday: 12:00  9:00 PM',Wednesday: 12:00  9:00 PM',Thursday: 12:00  9:00 PM',Friday: 12:00  9:00 PM',Saturday: 11:00 AM  9:00 PM',Sunday: 11:00 AM  9:00 PM']
+Monday: 12:00 – 9:00 PM`Tuesday: 12:00 – 9:00 PM`Wednesday: 12:00 – 9:00 PM`Thursday: 12:00 – 9:00 PM`Friday: 12:00 – 9:00 PM`Saturday: 11:00 AM – 9:00 PM`Sunday: 11:00 AM – 9:00 PM`
 price
 not found
 rating
 4.8
 types
-['bar',liquor_store',food',store',point_of_interest',establishment']
+bar`liquor_store`food`store`point_of_interest`establishment`
 website
 http://www.centralcoastbrewing.com/
 reviews
@@ -1776,13 +1776,13 @@ address
 phone
 (805) 783-1135
 hours
-['Monday: 4:00 PM  12:00 AM',Tuesday: 4:00 PM  12:00 AM',Wednesday: 4:00 PM  12:00 AM',Thursday: 4:00 PM  12:00 AM',Friday: 4:00 PM  12:00 AM',Saturday: 4:00 PM  12:00 AM',Sunday: 4:00 PM  12:00 AM']
+Monday: 4:00 PM – 12:00 AM`Tuesday: 4:00 PM – 12:00 AM`Wednesday: 4:00 PM – 12:00 AM`Thursday: 4:00 PM – 12:00 AM`Friday: 4:00 PM – 12:00 AM`Saturday: 4:00 PM – 12:00 AM`Sunday: 4:00 PM – 12:00 AM`
 price
 2
 rating
 4.4
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.epkoberl.com/
 reviews
@@ -1821,13 +1821,13 @@ address
 phone
 (805) 762-4747
 hours
-['Monday: 3:00  11:00 PM',Tuesday: 3:00  11:00 PM',Wednesday: 3:00  11:00 PM',Thursday: 3:00  11:00 PM',Friday: 3:00 PM  12:00 AM',Saturday: 3:00 PM  12:00 AM',Sunday: 3:00  11:00 PM']
+Monday: 3:00 – 11:00 PM`Tuesday: 3:00 – 11:00 PM`Wednesday: 3:00 – 11:00 PM`Thursday: 3:00 – 11:00 PM`Friday: 3:00 PM – 12:00 AM`Saturday: 3:00 PM – 12:00 AM`Sunday: 3:00 – 11:00 PM`
 price
 not found
 rating
 4.5
 types
-['bar',night_club',food',point_of_interest',establishment']
+bar`night_club`food`point_of_interest`establishment`
 website
 http://www.luiswinebar.com/
 reviews
@@ -1864,13 +1864,13 @@ address
 phone
 (805) 784-9463
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  8:00 PM',Saturday: 10:00 AM  8:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 8:00 PM`Saturday: 10:00 AM – 8:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 not found
 rating
 4.7
 types
-['bar',liquor_store',food',store',point_of_interest',establishment']
+bar`liquor_store`food`store`point_of_interest`establishment`
 website
 http://www.ccwines.com/
 reviews
@@ -1907,13 +1907,13 @@ address
 phone
 (805) 545-7702
 hours
-['Monday: Closed',Tuesday: 12:00  7:00 PM',Wednesday: 12:00  8:00 PM',Thursday: 12:00  10:00 PM',Friday: 12:00  10:00 PM',Saturday: 12:00  10:00 PM',Sunday: 12:00  6:00 PM']
+Monday: Closed`Tuesday: 12:00 – 7:00 PM`Wednesday: 12:00 – 8:00 PM`Thursday: 12:00 – 10:00 PM`Friday: 12:00 – 10:00 PM`Saturday: 12:00 – 10:00 PM`Sunday: 12:00 – 6:00 PM`
 price
 not found
 rating
 4.7
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.tapitbrewing.com/
 reviews
@@ -1955,13 +1955,13 @@ address
 phone
 (805) 544-2200
 hours
-['Monday: 11:00 AM  12:00 AM',Tuesday: 11:00 AM  12:00 AM',Wednesday: 11:00 AM  12:00 AM',Thursday: 11:00 AM  12:00 AM',Friday: 11:00 AM  12:00 AM',Saturday: 10:00 AM  12:00 AM',Sunday: 10:00 AM  12:00 AM']
+Monday: 11:00 AM – 12:00 AM`Tuesday: 11:00 AM – 12:00 AM`Wednesday: 11:00 AM – 12:00 AM`Thursday: 11:00 AM – 12:00 AM`Friday: 11:00 AM – 12:00 AM`Saturday: 10:00 AM – 12:00 AM`Sunday: 10:00 AM – 12:00 AM`
 price
 not found
 rating
 3.6
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.creekytiki.com/
 reviews
@@ -1998,13 +1998,13 @@ address
 phone
 (805) 540-5340
 hours
-['Monday: 4:00  11:00 PM',Tuesday: 4:00  11:00 PM',Wednesday: 4:00  11:00 PM',Thursday: 4:00  11:00 PM',Friday: 10:00 AM  12:00 AM',Saturday: 10:00 AM  12:00 AM',Sunday: 10:00 AM  11:00 PM']
+Monday: 4:00 – 11:00 PM`Tuesday: 4:00 – 11:00 PM`Wednesday: 4:00 – 11:00 PM`Thursday: 4:00 – 11:00 PM`Friday: 10:00 AM – 12:00 AM`Saturday: 10:00 AM – 12:00 AM`Sunday: 10:00 AM – 11:00 PM`
 price
 not found
 rating
 4.4
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.sidecarslo.com/
 reviews
@@ -2041,13 +2041,13 @@ address
 phone
 (805) 544-6193
 hours
-['Monday: 11:00 AM  9:00 PM',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  10:00 PM',Friday: 11:00 AM  10:00 PM',Saturday: 11:00 AM  10:00 PM',Sunday: 11:00 AM  9:00 PM']
+Monday: 11:00 AM – 9:00 PM`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 10:00 PM`Friday: 11:00 AM – 10:00 PM`Saturday: 11:00 AM – 10:00 PM`Sunday: 11:00 AM – 9:00 PM`
 price
 2
 rating
 3.9
 types
-['restaurant',bar',food',point_of_interest',establishment']
+restaurant`bar`food`point_of_interest`establishment`
 website
 http://www.smokinmosbbq.com/
 reviews
@@ -2091,13 +2091,13 @@ address
 phone
 (805) 544-7433
 hours
-['Monday: 11:00 AM  2:00 AM',Tuesday: 11:00 AM  2:00 AM',Wednesday: 11:00 AM  2:00 AM',Thursday: 11:00 AM  2:00 AM',Friday: 11:00 AM  2:00 AM',Saturday: 11:00 AM  2:00 AM',Sunday: 11:00 AM  2:00 AM']
+Monday: 11:00 AM – 2:00 AM`Tuesday: 11:00 AM – 2:00 AM`Wednesday: 11:00 AM – 2:00 AM`Thursday: 11:00 AM – 2:00 AM`Friday: 11:00 AM – 2:00 AM`Saturday: 11:00 AM – 2:00 AM`Sunday: 11:00 AM – 2:00 AM`
 price
 not found
 rating
 4.4
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.blacksheepslo.com/
 reviews
@@ -2134,13 +2134,13 @@ address
 phone
 (805) 543-3550
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 1
 rating
 3.4
 types
-['cafe',restaurant',food',store',point_of_interest',establishment']
+cafe`restaurant`food`store`point_of_interest`establishment`
 website
 http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral
 reviews
@@ -2178,13 +2178,13 @@ address
 phone
 (805) 543-3591
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  10:00 PM',Friday: 10:00 AM  10:00 PM',Saturday: 10:00 AM  10:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 10:00 PM`Friday: 10:00 AM – 10:00 PM`Saturday: 10:00 AM – 10:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 not found
 rating
 4.6
 types
-['book_store',store',point_of_interest',establishment']
+book_store`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -2223,13 +2223,13 @@ address
 phone
 (805) 541-1901
 hours
-['Monday: 6:30 AM  8:30 PM',Tuesday: 6:30 AM  8:30 PM',Wednesday: 6:30 AM  8:30 PM',Thursday: 6:30 AM  8:30 PM',Friday: 6:30 AM  8:30 PM',Saturday: 7:30 AM  8:30 PM',Sunday: 8:00 AM  2:00 PM']
+Monday: 6:30 AM – 8:30 PM`Tuesday: 6:30 AM – 8:30 PM`Wednesday: 6:30 AM – 8:30 PM`Thursday: 6:30 AM – 8:30 PM`Friday: 6:30 AM – 8:30 PM`Saturday: 7:30 AM – 8:30 PM`Sunday: 8:00 AM – 2:00 PM`
 price
 1
 rating
 4.2
 types
-['cafe',restaurant',food',point_of_interest',establishment']
+cafe`restaurant`food`point_of_interest`establishment`
 website
 not found
 reviews
@@ -2266,13 +2266,13 @@ address
 phone
 (805) 597-9478
 hours
-['Monday: 5:00 AM  9:00 PM',Tuesday: 5:00 AM  9:00 PM',Wednesday: 5:00 AM  9:00 PM',Thursday: 5:00 AM  10:00 PM',Friday: 5:00 AM  9:00 PM',Saturday: 6:00 AM  9:00 PM',Sunday: 6:00 AM  9:00 PM']
+Monday: 5:00 AM – 9:00 PM`Tuesday: 5:00 AM – 9:00 PM`Wednesday: 5:00 AM – 9:00 PM`Thursday: 5:00 AM – 10:00 PM`Friday: 5:00 AM – 9:00 PM`Saturday: 6:00 AM – 9:00 PM`Sunday: 6:00 AM – 9:00 PM`
 price
 1
 rating
 4.4
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.peets.com/
 reviews
@@ -2309,13 +2309,13 @@ address
 phone
 (805) 782-9999
 hours
-['Monday: 11:30 AM  2:30 PM, 5:00  9:00 PM',Tuesday: 11:30 AM  2:30 PM, 5:00  9:00 PM',Wednesday: 11:30 AM  2:30 PM, 5:00  9:00 PM',Thursday: 11:30 AM  2:30 PM, 5:00  9:00 PM',Friday: 11:30 AM  2:30 PM, 5:00  9:30 PM',Saturday: 5:00  9:30 PM',Sunday: 4:30  9:00 PM']
+Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM`Tuesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM`Wednesday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM`Thursday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM`Friday: 11:30 AM – 2:30 PM, 5:00 – 9:30 PM`Saturday: 5:00 – 9:30 PM`Sunday: 4:30 – 9:00 PM`
 price
 not found
 rating
 4.7
 types
-['bar',restaurant',food',point_of_interest',establishment']
+bar`restaurant`food`point_of_interest`establishment`
 website
 http://www.gennarosgrillandgarden.com/
 reviews
@@ -2352,13 +2352,13 @@ address
 phone
 (805) 545-5401
 hours
-['Monday: 8:00 AM  9:00 PM',Tuesday: 8:00 AM  9:00 PM',Wednesday: 8:00 AM  9:00 PM',Thursday: 8:00 AM  9:00 PM',Friday: 8:00 AM  10:00 PM',Saturday: 8:00 AM  10:00 PM',Sunday: 8:00 AM  9:00 PM']
+Monday: 8:00 AM – 9:00 PM`Tuesday: 8:00 AM – 9:00 PM`Wednesday: 8:00 AM – 9:00 PM`Thursday: 8:00 AM – 9:00 PM`Friday: 8:00 AM – 10:00 PM`Saturday: 8:00 AM – 10:00 PM`Sunday: 8:00 AM – 9:00 PM`
 price
 2
 rating
 4.4
 types
-['cafe',restaurant',food',point_of_interest',establishment']
+cafe`restaurant`food`point_of_interest`establishment`
 website
 http://www.bigskycafe.com/
 reviews
@@ -2395,13 +2395,13 @@ address
 phone
 (805) 595-3764
 hours
-['Monday: 12:00 PM  2:00 AM',Tuesday: 12:00 PM  2:00 AM',Wednesday: 12:00 PM  2:00 AM',Thursday: 12:00 PM  2:00 AM',Friday: 12:00 PM  2:00 AM',Saturday: 12:00 PM  2:00 AM',Sunday: 12:00 PM  2:00 AM']
+Monday: 12:00 PM – 2:00 AM`Tuesday: 12:00 PM – 2:00 AM`Wednesday: 12:00 PM – 2:00 AM`Thursday: 12:00 PM – 2:00 AM`Friday: 12:00 PM – 2:00 AM`Saturday: 12:00 PM – 2:00 AM`Sunday: 12:00 PM – 2:00 AM`
 price
 not found
 rating
 4.3
 types
-['bar',point_of_interest',establishment']
+bar`point_of_interest`establishment`
 website
 http://www.frogandpeachpub.com/
 reviews
@@ -2440,13 +2440,13 @@ address
 phone
 (805) 544-7157
 hours
-['Monday: 3:00 PM  2:00 AM',Tuesday: 3:00 PM  2:00 AM',Wednesday: 3:00 PM  2:00 AM',Thursday: 3:00 PM  2:00 AM',Friday: 3:00 PM  2:00 AM',Saturday: 3:00 PM  2:00 AM',Sunday: 3:00 PM  12:00 AM']
+Monday: 3:00 PM – 2:00 AM`Tuesday: 3:00 PM – 2:00 AM`Wednesday: 3:00 PM – 2:00 AM`Thursday: 3:00 PM – 2:00 AM`Friday: 3:00 PM – 2:00 AM`Saturday: 3:00 PM – 2:00 AM`Sunday: 3:00 PM – 12:00 AM`
 price
 not found
 rating
 4.3
 types
-['bar',liquor_store',store',point_of_interest',establishment']
+bar`liquor_store`store`point_of_interest`establishment`
 website
 http://www.spikespub.com/
 reviews
@@ -2483,13 +2483,13 @@ San Luis Obispo, CA 93405, USA
 phone
 (805) 756-5523
 hours
-['Monday: 9:00 AM  10:00 PM',Tuesday: 9:00 AM  10:00 PM',Wednesday: 9:00 AM  10:00 PM',Thursday: 9:00 AM  10:00 PM',Friday: 10:00 AM  1:00 AM',Saturday: 10:00 AM  1:00 AM',Sunday: 12:00  10:00 PM']
+Monday: 9:00 AM – 10:00 PM`Tuesday: 9:00 AM – 10:00 PM`Wednesday: 9:00 AM – 10:00 PM`Thursday: 9:00 AM – 10:00 PM`Friday: 10:00 AM – 1:00 AM`Saturday: 10:00 AM – 1:00 AM`Sunday: 12:00 – 10:00 PM`
 price
 not found
 rating
 4.1
 types
-['bowling_alley',point_of_interest',establishment']
+bowling_alley`point_of_interest`establishment`
 website
 http://www.mustanglanes.com/
 reviews
@@ -2532,7 +2532,7 @@ not found
 rating
 not found
 types
-['book_store',store',point_of_interest',establishment']
+book_store`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -2551,7 +2551,7 @@ not found
 rating
 not found
 types
-['book_store',store',point_of_interest',establishment']
+book_store`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -2564,13 +2564,13 @@ address
 phone
 (805) 781-8334
 hours
-['Monday: 9:00 AM  10:00 PM',Tuesday: 9:00 AM  10:00 PM',Wednesday: 9:00 AM  10:00 PM',Thursday: 9:00 AM  11:00 PM',Friday: 9:00 AM  11:00 PM',Saturday: 9:00 AM  11:00 PM',Sunday: 9:00 AM  10:00 PM']
+Monday: 9:00 AM – 10:00 PM`Tuesday: 9:00 AM – 10:00 PM`Wednesday: 9:00 AM – 10:00 PM`Thursday: 9:00 AM – 11:00 PM`Friday: 9:00 AM – 11:00 PM`Saturday: 9:00 AM – 11:00 PM`Sunday: 9:00 AM – 10:00 PM`
 price
 2
 rating
 4.3
 types
-['book_store',electronics_store',home_goods_store',store',point_of_interest',establishment']
+book_store`electronics_store`home_goods_store`store`point_of_interest`establishment`
 website
 https://stores.barnesandnoble.com/store/2676
 reviews
@@ -2607,13 +2607,13 @@ address
 phone
 (805) 595-3482
 hours
-['Monday: 5:00 AM  10:00 PM',Tuesday: 5:00 AM  10:00 PM',Wednesday: 5:00 AM  10:00 PM',Thursday: 5:00 AM  10:00 PM',Friday: 5:00 AM  10:00 PM',Saturday: 5:00 AM  10:00 PM',Sunday: 5:00 AM  10:00 PM']
+Monday: 5:00 AM – 10:00 PM`Tuesday: 5:00 AM – 10:00 PM`Wednesday: 5:00 AM – 10:00 PM`Thursday: 5:00 AM – 10:00 PM`Friday: 5:00 AM – 10:00 PM`Saturday: 5:00 AM – 10:00 PM`Sunday: 5:00 AM – 10:00 PM`
 price
 2
 rating
 4.3
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.starbucks.com/store/14774/
 reviews
@@ -2650,13 +2650,13 @@ address
 phone
 (805) 541-1186
 hours
-['Monday: 6:00 AM  5:00 PM',Tuesday: 6:00 AM  5:00 PM',Wednesday: 6:00 AM  5:00 PM',Thursday: 6:00 AM  5:00 PM',Friday: 6:00 AM  5:00 PM',Saturday: 7:00 AM  4:00 PM',Sunday: 7:00 AM  4:00 PM']
+Monday: 6:00 AM – 5:00 PM`Tuesday: 6:00 AM – 5:00 PM`Wednesday: 6:00 AM – 5:00 PM`Thursday: 6:00 AM – 5:00 PM`Friday: 6:00 AM – 5:00 PM`Saturday: 7:00 AM – 4:00 PM`Sunday: 7:00 AM – 4:00 PM`
 price
 not found
 rating
 4.6
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.coastalpeakscoffee.com/
 reviews
@@ -2693,13 +2693,13 @@ address
 phone
 (805) 544-0268
 hours
-['Monday: 12:00 PM  2:00 AM',Tuesday: 12:00 PM  2:00 AM',Wednesday: 12:00 PM  2:00 AM',Thursday: 12:00 PM  2:00 AM',Friday: 12:00 PM  2:00 AM',Saturday: 2:00 PM  3:00 AM',Sunday: 2:00 PM  3:00 AM']
+Monday: 12:00 PM – 2:00 AM`Tuesday: 12:00 PM – 2:00 AM`Wednesday: 12:00 PM – 2:00 AM`Thursday: 12:00 PM – 2:00 AM`Friday: 12:00 PM – 2:00 AM`Saturday: 2:00 PM – 3:00 AM`Sunday: 2:00 PM – 3:00 AM`
 price
 not found
 rating
 4.3
 types
-['bar',point_of_interest',establishment']
+bar`point_of_interest`establishment`
 website
 not found
 reviews
@@ -2736,13 +2736,13 @@ address
 phone
 (805) 787-0389
 hours
-['Monday: 5:30 AM  8:00 PM',Tuesday: 5:30 AM  8:00 PM',Wednesday: 5:30 AM  8:00 PM',Thursday: 5:30 AM  8:00 PM',Friday: 6:00 AM  8:00 PM',Saturday: 6:00 AM  8:00 PM',Sunday: 6:00 AM  8:00 PM']
+Monday: 5:30 AM – 8:00 PM`Tuesday: 5:30 AM – 8:00 PM`Wednesday: 5:30 AM – 8:00 PM`Thursday: 5:30 AM – 8:00 PM`Friday: 6:00 AM – 8:00 PM`Saturday: 6:00 AM – 8:00 PM`Sunday: 6:00 AM – 8:00 PM`
 price
 2
 rating
 4.4
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.starbucks.com/store/6331/
 reviews
@@ -2785,7 +2785,7 @@ not found
 rating
 not found
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.coffeediva.com/
 reviews
@@ -2798,13 +2798,13 @@ Building 65, University Union, 1 Grand Ave, San Luis Obispo, CA 93407, USA
 phone
 (805) 756-5322
 hours
-['Monday: 7:30 AM  6:00 PM',Tuesday: 7:30 AM  6:00 PM',Wednesday: 7:30 AM  6:00 PM',Thursday: 7:30 AM  6:00 PM',Friday: 7:30 AM  5:00 PM',Saturday: 11:00 AM  4:00 PM',Sunday: 11:00 AM  4:00 PM']
+Monday: 7:30 AM – 6:00 PM`Tuesday: 7:30 AM – 6:00 PM`Wednesday: 7:30 AM – 6:00 PM`Thursday: 7:30 AM – 6:00 PM`Friday: 7:30 AM – 5:00 PM`Saturday: 11:00 AM – 4:00 PM`Sunday: 11:00 AM – 4:00 PM`
 price
 not found
 rating
 4.4
 types
-['book_store',clothing_store',store',point_of_interest',establishment']
+book_store`clothing_store`store`point_of_interest`establishment`
 website
 http://www.bkstr.com/calpolystore/home/en
 reviews
@@ -2841,13 +2841,13 @@ address
 phone
 (805) 547-9054
 hours
-['Monday: 5:00 AM  10:00 PM',Tuesday: 5:00 AM  10:00 PM',Wednesday: 5:00 AM  10:00 PM',Thursday: 5:00 AM  10:00 PM',Friday: 5:00 AM  10:00 PM',Saturday: 5:00 AM  10:00 PM',Sunday: 5:00 AM  10:00 PM']
+Monday: 5:00 AM – 10:00 PM`Tuesday: 5:00 AM – 10:00 PM`Wednesday: 5:00 AM – 10:00 PM`Thursday: 5:00 AM – 10:00 PM`Friday: 5:00 AM – 10:00 PM`Saturday: 5:00 AM – 10:00 PM`Sunday: 5:00 AM – 10:00 PM`
 price
 2
 rating
 4
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.starbucks.com/store/8828/
 reviews
@@ -2888,13 +2888,13 @@ address
 phone
 (805) 334-5258
 hours
-['Monday: Closed',Tuesday: 12:00  5:00 PM',Wednesday: 12:00  6:00 PM',Thursday: 12:00  6:00 PM',Friday: 12:00  6:00 PM',Saturday: 12:00  6:00 PM',Sunday: Closed']
+Monday: Closed`Tuesday: 12:00 – 5:00 PM`Wednesday: 12:00 – 6:00 PM`Thursday: 12:00 – 6:00 PM`Friday: 12:00 – 6:00 PM`Saturday: 12:00 – 6:00 PM`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['book_store',electronics_store',clothing_store',home_goods_store',store',point_of_interest',establishment']
+book_store`electronics_store`clothing_store`home_goods_store`store`point_of_interest`establishment`
 website
 https://appendageandbough.com/
 reviews
@@ -2911,13 +2911,13 @@ address
 phone
 (805) 543-3559
 hours
-['Monday: 6:00 AM  7:00 PM',Tuesday: 6:00 AM  7:00 PM',Wednesday: 6:00 AM  7:00 PM',Thursday: 6:00 AM  7:00 PM',Friday: 6:00 AM  7:00 PM',Saturday: 7:00 AM  7:00 PM',Sunday: 7:00 AM  7:00 PM']
+Monday: 6:00 AM – 7:00 PM`Tuesday: 6:00 AM – 7:00 PM`Wednesday: 6:00 AM – 7:00 PM`Thursday: 6:00 AM – 7:00 PM`Friday: 6:00 AM – 7:00 PM`Saturday: 7:00 AM – 7:00 PM`Sunday: 7:00 AM – 7:00 PM`
 price
 1
 rating
 4.7
 types
-['cafe',restaurant',food',store',point_of_interest',establishment']
+cafe`restaurant`food`store`point_of_interest`establishment`
 website
 http://www.nauticalcafecoffeehouse.com/
 reviews
@@ -2954,13 +2954,13 @@ address
 phone
 (805) 439-2060
 hours
-['Monday: 7:30 AM  10:00 PM',Tuesday: 7:30 AM  10:00 PM',Wednesday: 7:30 AM  10:00 PM',Thursday: 7:30 AM  10:00 PM',Friday: 7:30 AM  10:00 PM',Saturday: 7:30 AM  10:00 PM',Sunday: 7:30 AM  10:00 PM']
+Monday: 7:30 AM – 10:00 PM`Tuesday: 7:30 AM – 10:00 PM`Wednesday: 7:30 AM – 10:00 PM`Thursday: 7:30 AM – 10:00 PM`Friday: 7:30 AM – 10:00 PM`Saturday: 7:30 AM – 10:00 PM`Sunday: 7:30 AM – 10:00 PM`
 price
 1
 rating
 4.4
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.kreuzbergcalifornia.com/
 reviews
@@ -2997,13 +2997,13 @@ address
 phone
 (805) 543-2449
 hours
-['Monday: 10:30 AM  9:00 PM',Tuesday: 10:30 AM  9:00 PM',Wednesday: 10:30 AM  9:00 PM',Thursday: 10:30 AM  9:00 PM',Friday: 10:30 AM  9:00 PM',Saturday: 11:00 AM  9:00 PM',Sunday: 11:00 AM  9:00 PM']
+Monday: 10:30 AM – 9:00 PM`Tuesday: 10:30 AM – 9:00 PM`Wednesday: 10:30 AM – 9:00 PM`Thursday: 10:30 AM – 9:00 PM`Friday: 10:30 AM – 9:00 PM`Saturday: 11:00 AM – 9:00 PM`Sunday: 11:00 AM – 9:00 PM`
 price
 not found
 rating
 4.7
 types
-['cafe',restaurant',food',point_of_interest',establishment']
+cafe`restaurant`food`point_of_interest`establishment`
 website
 http://eatjaffa.com/
 reviews
@@ -3040,13 +3040,13 @@ address
 phone
 (805) 541-0657
 hours
-['Monday: 10:00 AM  8:00 PM',Tuesday: 10:00 AM  8:00 PM',Wednesday: 10:00 AM  8:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:00 AM – 8:00 PM`Tuesday: 10:00 AM – 8:00 PM`Wednesday: 10:00 AM – 8:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 not found
 rating
 4.7
 types
-['book_store',electronics_store',clothing_store',home_goods_store',store',point_of_interest',establishment']
+book_store`electronics_store`clothing_store`home_goods_store`store`point_of_interest`establishment`
 website
 http://booboorecords.com/
 reviews
@@ -3083,13 +3083,13 @@ address
 phone
 (805) 541-5888
 hours
-['Monday: 6:30 AM  9:30 PM',Tuesday: 6:30 AM  9:30 PM',Wednesday: 6:30 AM  9:30 PM',Thursday: 6:30 AM  10:00 PM',Friday: 6:30 AM  10:00 PM',Saturday: 7:00 AM  10:00 PM',Sunday: 7:00 AM  9:30 PM']
+Monday: 6:30 AM – 9:30 PM`Tuesday: 6:30 AM – 9:30 PM`Wednesday: 6:30 AM – 9:30 PM`Thursday: 6:30 AM – 10:00 PM`Friday: 6:30 AM – 10:00 PM`Saturday: 7:00 AM – 10:00 PM`Sunday: 7:00 AM – 9:30 PM`
 price
 2
 rating
 4.5
 types
-['cafe',restaurant',food',point_of_interest',establishment']
+cafe`restaurant`food`point_of_interest`establishment`
 website
 http://www.linnaeas.com/
 reviews
@@ -3126,13 +3126,13 @@ address
 phone
 (805) 547-0465
 hours
-['Monday: 6:00 AM  9:30 PM',Tuesday: 6:00 AM  9:30 PM',Wednesday: 6:00 AM  9:30 PM',Thursday: 6:00 AM  10:00 PM',Friday: 6:00 AM  10:00 PM',Saturday: 6:00 AM  10:00 PM',Sunday: 6:00 AM  9:30 PM']
+Monday: 6:00 AM – 9:30 PM`Tuesday: 6:00 AM – 9:30 PM`Wednesday: 6:00 AM – 9:30 PM`Thursday: 6:00 AM – 10:00 PM`Friday: 6:00 AM – 10:00 PM`Saturday: 6:00 AM – 10:00 PM`Sunday: 6:00 AM – 9:30 PM`
 price
 2
 rating
 4.3
 types
-['cafe',food',store',point_of_interest',establishment']
+cafe`food`store`point_of_interest`establishment`
 website
 http://www.starbucks.com/store/16028/
 reviews
@@ -3169,13 +3169,13 @@ address
 phone
 (800) 366-6031
 hours
-['Monday: 8:00 AM  5:00 PM',Tuesday: 8:00 AM  5:00 PM',Wednesday: 8:00 AM  5:00 PM',Thursday: 8:00 AM  5:00 PM',Friday: 8:00 AM  5:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 8:00 AM – 5:00 PM`Tuesday: 8:00 AM – 5:00 PM`Wednesday: 8:00 AM – 5:00 PM`Thursday: 8:00 AM – 5:00 PM`Friday: 8:00 AM – 5:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['book_store',store',point_of_interest',establishment']
+book_store`store`point_of_interest`establishment`
 website
 http://www.theparablegroup.com
 reviews
@@ -3192,13 +3192,13 @@ address
 phone
 (805) 544-6366
 hours
-['Monday: 11:00 AM  7:00 PM',Tuesday: 11:00 AM  7:00 PM',Wednesday: 11:00 AM  7:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  9:00 PM',Saturday: 11:00 AM  9:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 11:00 AM – 7:00 PM`Tuesday: 11:00 AM – 7:00 PM`Wednesday: 11:00 AM – 7:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 9:00 PM`Saturday: 11:00 AM – 9:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 4.5
 types
-['book_store',clothing_store',store',point_of_interest',establishment']
+book_store`clothing_store`store`point_of_interest`establishment`
 website
 http://www.captainnemo.biz/
 reviews
@@ -3252,13 +3252,13 @@ address
 phone
 (805) 540-4268
 hours
-['Monday: 11:00 AM  6:00 PM',Tuesday: 11:00 AM  6:00 PM',Wednesday: 11:00 AM  7:00 PM',Thursday: 11:00 AM  8:30 PM',Friday: 11:00 AM  6:00 PM',Saturday: 11:00 AM  6:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 11:00 AM – 6:00 PM`Tuesday: 11:00 AM – 6:00 PM`Wednesday: 11:00 AM – 7:00 PM`Thursday: 11:00 AM – 8:30 PM`Friday: 11:00 AM – 6:00 PM`Saturday: 11:00 AM – 6:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 not found
 rating
 4.7
 types
-['book_store',store',point_of_interest',establishment']
+book_store`store`point_of_interest`establishment`
 website
 http://drcainscomics.com/
 reviews
@@ -3295,13 +3295,13 @@ address
 phone
 (800) 889-1978
 hours
-['Monday: 9:00 AM  4:00 PM',Tuesday: 9:00 AM  4:00 PM',Wednesday: 9:00 AM  4:00 PM',Thursday: 9:00 AM  4:00 PM',Friday: 9:00 AM  4:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 9:00 AM – 4:00 PM`Tuesday: 9:00 AM – 4:00 PM`Wednesday: 9:00 AM – 4:00 PM`Thursday: 9:00 AM – 4:00 PM`Friday: 9:00 AM – 4:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 4.9
 types
-['book_store',store',point_of_interest',establishment']
+book_store`store`point_of_interest`establishment`
 website
 http://bfbooks.com/
 reviews
@@ -3338,13 +3338,13 @@ address
 phone
 (805) 788-0332
 hours
-['Monday: 10:00 AM  8:00 PM',Tuesday: 10:00 AM  8:00 PM',Wednesday: 10:00 AM  8:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  8:00 PM',Saturday: 10:00 AM  8:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:00 AM – 8:00 PM`Tuesday: 10:00 AM – 8:00 PM`Wednesday: 10:00 AM – 8:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 8:00 PM`Saturday: 10:00 AM – 8:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 2
 rating
 4.5
 types
-['clothing_store',home_goods_store',store',point_of_interest',establishment']
+clothing_store`home_goods_store`store`point_of_interest`establishment`
 website
 http://www.bathandbodyworks.com/
 reviews
@@ -3381,13 +3381,13 @@ address
 phone
 (805) 549-9402
 hours
-['Monday: 10:00 AM  8:00 PM',Tuesday: 10:00 AM  8:00 PM',Wednesday: 10:00 AM  8:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 11:00 AM  7:00 PM']
+Monday: 10:00 AM – 8:00 PM`Tuesday: 10:00 AM – 8:00 PM`Wednesday: 10:00 AM – 8:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 11:00 AM – 7:00 PM`
 price
 3
 rating
 3.7
 types
-['clothing_store',shoe_store',electronics_store',home_goods_store',store',point_of_interest',establishment']
+clothing_store`shoe_store`electronics_store`home_goods_store`store`point_of_interest`establishment`
 website
 https://www.urbanoutfitters.com/stores/san-luis-obispo
 reviews
@@ -3424,13 +3424,13 @@ address
 phone
 (805) 594-1223
 hours
-['Monday: 10:00 AM  5:30 PM',Tuesday: 10:00 AM  5:30 PM',Wednesday: 10:00 AM  5:30 PM',Thursday: 10:00 AM  5:30 PM',Friday: 10:00 AM  5:30 PM',Saturday: 10:00 AM  5:30 PM',Sunday: Closed']
+Monday: 10:00 AM – 5:30 PM`Tuesday: 10:00 AM – 5:30 PM`Wednesday: 10:00 AM – 5:30 PM`Thursday: 10:00 AM – 5:30 PM`Friday: 10:00 AM – 5:30 PM`Saturday: 10:00 AM – 5:30 PM`Sunday: Closed`
 price
 not found
 rating
 3.6
 types
-['clothing_store',home_goods_store',store',point_of_interest',establishment']
+clothing_store`home_goods_store`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -3468,13 +3468,13 @@ address
 phone
 (805) 858-9902
 hours
-['Monday: 8:00 AM  11:00 PM',Tuesday: 8:00 AM  11:00 PM',Wednesday: 8:00 AM  11:00 PM',Thursday: 8:00 AM  11:00 PM',Friday: 8:00 AM  11:00 PM',Saturday: 8:00 AM  11:00 PM',Sunday: 8:00 AM  11:00 PM']
+Monday: 8:00 AM – 11:00 PM`Tuesday: 8:00 AM – 11:00 PM`Wednesday: 8:00 AM – 11:00 PM`Thursday: 8:00 AM – 11:00 PM`Friday: 8:00 AM – 11:00 PM`Saturday: 8:00 AM – 11:00 PM`Sunday: 8:00 AM – 11:00 PM`
 price
 2
 rating
 4.1
 types
-['department_store',electronics_store',grocery_or_supermarket',food',clothing_store',furniture_store',home_goods_store',store',point_of_interest',establishment']
+department_store`electronics_store`grocery_or_supermarket`food`clothing_store`furniture_store`home_goods_store`store`point_of_interest`establishment`
 website
 https://www.target.com/sl/san-luis-obispo/2759
 reviews
@@ -3511,13 +3511,13 @@ address
 phone
 (805) 541-1834
 hours
-['Monday: 10:30 AM  9:00 PM',Tuesday: 10:30 AM  8:30 PM',Wednesday: 10:00 AM  9:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:30 AM – 9:00 PM`Tuesday: 10:30 AM – 8:30 PM`Wednesday: 10:00 AM – 9:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 2
 rating
 3.9
 types
-['clothing_store',store',point_of_interest',establishment']
+clothing_store`store`point_of_interest`establishment`
 website
 https://www.menswearhouse.com/store-locator/2742?utm_source=google&utm_medium=listing&utm_content=2742&utm_campaign=CA
 reviews
@@ -3563,13 +3563,13 @@ address
 phone
 (805) 543-4008
 hours
-['Monday: 9:30 AM  10:00 PM',Tuesday: 9:30 AM  10:00 PM',Wednesday: 9:30 AM  10:00 PM',Thursday: 9:30 AM  10:00 PM',Friday: 9:00 AM  10:30 PM',Saturday: 9:00 AM  10:30 PM',Sunday: 9:30 AM  9:30 PM']
+Monday: 9:30 AM – 10:00 PM`Tuesday: 9:30 AM – 10:00 PM`Wednesday: 9:30 AM – 10:00 PM`Thursday: 9:30 AM – 10:00 PM`Friday: 9:00 AM – 10:30 PM`Saturday: 9:00 AM – 10:30 PM`Sunday: 9:30 AM – 9:30 PM`
 price
 1
 rating
 3.9
 types
-['clothing_store',department_store',shoe_store',store',point_of_interest',establishment']
+clothing_store`department_store`shoe_store`store`point_of_interest`establishment`
 website
 http://www.rossstores.com/
 reviews
@@ -3606,13 +3606,13 @@ address
 phone
 (805) 786-4375
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 4.6
 types
-['clothing_store',store',point_of_interest',establishment']
+clothing_store`store`point_of_interest`establishment`
 website
 http://sockdrawer.com/
 reviews
@@ -3649,13 +3649,13 @@ address
 phone
 (805) 545-0740
 hours
-['Monday: 9:00 AM  9:30 PM',Tuesday: 9:00 AM  9:30 PM',Wednesday: 9:00 AM  9:30 PM',Thursday: 9:00 AM  9:30 PM',Friday: 9:00 AM  9:30 PM',Saturday: 9:00 AM  9:30 PM',Sunday: 10:00 AM  7:00 PM']
+Monday: 9:00 AM – 9:30 PM`Tuesday: 9:00 AM – 9:30 PM`Wednesday: 9:00 AM – 9:30 PM`Thursday: 9:00 AM – 9:30 PM`Friday: 9:00 AM – 9:30 PM`Saturday: 9:00 AM – 9:30 PM`Sunday: 10:00 AM – 7:00 PM`
 price
 not found
 rating
 3.9
 types
-['shoe_store',clothing_store',store',point_of_interest',establishment']
+shoe_store`clothing_store`store`point_of_interest`establishment`
 website
 http://stores.dickssportinggoods.com/ca/san-luis-obispo/1010/
 reviews
@@ -3692,13 +3692,13 @@ address
 phone
 (805) 549-9402
 hours
-['Monday: 10:00 AM  8:00 PM',Tuesday: 10:00 AM  8:00 PM',Wednesday: 10:00 AM  8:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 11:00 AM  7:00 PM']
+Monday: 10:00 AM – 8:00 PM`Tuesday: 10:00 AM – 8:00 PM`Wednesday: 10:00 AM – 8:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 11:00 AM – 7:00 PM`
 price
 3
 rating
 not found
 types
-['clothing_store',food',store',point_of_interest',establishment']
+clothing_store`food`store`point_of_interest`establishment`
 website
 https://www.urbanoutfitters.com/stores/san-luis-obispo
 reviews
@@ -3711,13 +3711,13 @@ address
 phone
 (805) 540-3380
 hours
-['Monday: 10:00 AM  8:00 PM',Tuesday: 10:00 AM  8:00 PM',Wednesday: 10:00 AM  8:00 PM',Thursday: 10:00 AM  8:00 PM',Friday: 10:00 AM  8:00 PM',Saturday: 10:00 AM  8:00 PM',Sunday: 10:00 AM  7:00 PM']
+Monday: 10:00 AM – 8:00 PM`Tuesday: 10:00 AM – 8:00 PM`Wednesday: 10:00 AM – 8:00 PM`Thursday: 10:00 AM – 8:00 PM`Friday: 10:00 AM – 8:00 PM`Saturday: 10:00 AM – 8:00 PM`Sunday: 10:00 AM – 7:00 PM`
 price
 not found
 rating
 4
 types
-['clothing_store',store',point_of_interest',establishment']
+clothing_store`store`point_of_interest`establishment`
 website
 http://www.shopambiance.com/
 reviews
@@ -3754,13 +3754,13 @@ address
 phone
 (800) 900-4536
 hours
-['Monday: 9:00 AM  5:00 PM',Tuesday: 9:00 AM  5:00 PM',Wednesday: 9:00 AM  5:00 PM',Thursday: 9:00 AM  5:00 PM',Friday: 9:00 AM  5:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 9:00 AM – 5:00 PM`Tuesday: 9:00 AM – 5:00 PM`Wednesday: 9:00 AM – 5:00 PM`Thursday: 9:00 AM – 5:00 PM`Friday: 9:00 AM – 5:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 4.9
 types
-['clothing_store',store',point_of_interest',establishment']
+clothing_store`store`point_of_interest`establishment`
 website
 http://www.leftcoast.com/
 reviews
@@ -3797,13 +3797,13 @@ address
 phone
 (805) 544-6441
 hours
-['Monday: 10:00 AM  7:00 PM',Tuesday: 10:00 AM  7:00 PM',Wednesday: 10:00 AM  7:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  7:00 PM',Saturday: 10:00 AM  7:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:00 AM – 7:00 PM`Tuesday: 10:00 AM – 7:00 PM`Wednesday: 10:00 AM – 7:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 7:00 PM`Saturday: 10:00 AM – 7:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 not found
 rating
 5
 types
-['clothing_store',store',point_of_interest',establishment']
+clothing_store`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -3830,13 +3830,13 @@ address
 phone
 (805) 542-9538
 hours
-['Monday: 9:30 AM  9:30 PM',Tuesday: 9:30 AM  9:30 PM',Wednesday: 9:30 AM  9:30 PM',Thursday: 9:30 AM  9:30 PM',Friday: 9:30 AM  9:30 PM',Saturday: 9:30 AM  9:30 PM',Sunday: 11:00 AM  8:00 PM']
+Monday: 9:30 AM – 9:30 PM`Tuesday: 9:30 AM – 9:30 PM`Wednesday: 9:30 AM – 9:30 PM`Thursday: 9:30 AM – 9:30 PM`Friday: 9:30 AM – 9:30 PM`Saturday: 9:30 AM – 9:30 PM`Sunday: 11:00 AM – 8:00 PM`
 price
 1
 rating
 4.2
 types
-['department_store',jewelry_store',clothing_store',store',point_of_interest',establishment']
+department_store`jewelry_store`clothing_store`store`point_of_interest`establishment`
 website
 https://www.tjmaxx.com/
 reviews
@@ -3878,13 +3878,13 @@ address
 phone
 (805) 541-2704
 hours
-['Monday: 10:00 AM  9:00 PM',Tuesday: 10:00 AM  9:00 PM',Wednesday: 10:00 AM  9:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 11:00 AM  7:00 PM']
+Monday: 10:00 AM – 9:00 PM`Tuesday: 10:00 AM – 9:00 PM`Wednesday: 10:00 AM – 9:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 11:00 AM – 7:00 PM`
 price
 3
 rating
 4.1
 types
-['clothing_store',store',point_of_interest',establishment']
+clothing_store`store`point_of_interest`establishment`
 website
 https://www.abercrombie.com/shop/us/clothing-stores/US/SanLuisObispo/CA/10496?cmp=Yext%7CNaturalSearch%7CLocal%7CGMB%7C10496
 reviews
@@ -3921,13 +3921,13 @@ address
 phone
 (805) 781-0634
 hours
-['Monday: 9:00 AM  10:00 PM',Tuesday: 9:00 AM  10:00 PM',Wednesday: 9:00 AM  10:00 PM',Thursday: 9:00 AM  10:00 PM',Friday: 9:00 AM  11:00 PM',Saturday: 8:00 AM  11:00 PM',Sunday: 9:00 AM  9:00 PM']
+Monday: 9:00 AM – 10:00 PM`Tuesday: 9:00 AM – 10:00 PM`Wednesday: 9:00 AM – 10:00 PM`Thursday: 9:00 AM – 10:00 PM`Friday: 9:00 AM – 11:00 PM`Saturday: 8:00 AM – 11:00 PM`Sunday: 9:00 AM – 9:00 PM`
 price
 1
 rating
 3.8
 types
-['department_store',store',point_of_interest',establishment']
+department_store`store`point_of_interest`establishment`
 website
 https://www.kohls.com/stores/ca/sanluisobispo-1378.shtml?utm_source=google&utm_medium=organic&utm_campaign=local
 reviews
@@ -3964,13 +3964,13 @@ address
 phone
 (805) 787-0436
 hours
-['Monday: 9:30 AM  9:30 PM',Tuesday: 9:30 AM  9:30 PM',Wednesday: 9:30 AM  9:30 PM',Thursday: 9:30 AM  9:30 PM',Friday: 9:30 AM  9:30 PM',Saturday: 9:30 AM  9:30 PM',Sunday: 11:00 AM  8:00 PM']
+Monday: 9:30 AM – 9:30 PM`Tuesday: 9:30 AM – 9:30 PM`Wednesday: 9:30 AM – 9:30 PM`Thursday: 9:30 AM – 9:30 PM`Friday: 9:30 AM – 9:30 PM`Saturday: 9:30 AM – 9:30 PM`Sunday: 11:00 AM – 8:00 PM`
 price
 1
 rating
 4.2
 types
-['department_store',lodging',furniture_store',home_goods_store',store',point_of_interest',establishment']
+department_store`lodging`furniture_store`home_goods_store`store`point_of_interest`establishment`
 website
 https://www.homegoods.com/
 reviews
@@ -4008,13 +4008,13 @@ address
 phone
 (805) 541-7000
 hours
-['Monday: 10:00 AM  8:30 PM',Tuesday: 10:00 AM  8:30 PM',Wednesday: 10:00 AM  8:30 PM',Thursday: 10:00 AM  8:30 PM',Friday: 10:00 AM  8:30 PM',Saturday: 9:30 AM  6:00 PM',Sunday: 10:00 AM  6:00 PM']
+Monday: 10:00 AM – 8:30 PM`Tuesday: 10:00 AM – 8:30 PM`Wednesday: 10:00 AM – 8:30 PM`Thursday: 10:00 AM – 8:30 PM`Friday: 10:00 AM – 8:30 PM`Saturday: 9:30 AM – 6:00 PM`Sunday: 10:00 AM – 6:00 PM`
 price
 2
 rating
 4.5
 types
-['department_store',store',point_of_interest',establishment']
+department_store`store`point_of_interest`establishment`
 website
 http://www.costco.com/warehouse-locations/san-luis-obispo-ca-741.html?utm_source=local&utm_medium=organic&utm_campaign=gmb
 reviews
@@ -4051,13 +4051,13 @@ address
 phone
 (805) 542-9004
 hours
-['Monday: 9:30 AM  9:00 PM',Tuesday: 9:30 AM  9:00 PM',Wednesday: 9:30 AM  9:00 PM',Thursday: 9:30 AM  9:00 PM',Friday: 9:30 AM  9:00 PM',Saturday: 9:00 AM  8:00 PM',Sunday: 10:00 AM  7:00 PM']
+Monday: 9:30 AM – 9:00 PM`Tuesday: 9:30 AM – 9:00 PM`Wednesday: 9:30 AM – 9:00 PM`Thursday: 9:30 AM – 9:00 PM`Friday: 9:30 AM – 9:00 PM`Saturday: 9:00 AM – 8:00 PM`Sunday: 10:00 AM – 7:00 PM`
 price
 2
 rating
 4.1
 types
-['department_store',lodging',home_goods_store',store',point_of_interest',establishment']
+department_store`lodging`home_goods_store`store`point_of_interest`establishment`
 website
 https://stores.bedbathandbeyond.com/San%20Luis%20Obispo-CA-93405-331?MCID=YT_YEXT
 reviews
@@ -4096,13 +4096,13 @@ address
 phone
 (805) 545-5951
 hours
-['Monday: 8:30 AM  8:30 PM',Tuesday: 5:30 AM  8:00 PM',Wednesday: 6:30 AM  8:30 PM',Thursday: 5:30 AM  8:00 PM',Friday: 8:30 AM  6:30 PM',Saturday: 8:30 AM  5:30 PM',Sunday: 8:30 AM  6:30 PM']
+Monday: 8:30 AM – 8:30 PM`Tuesday: 5:30 AM – 8:00 PM`Wednesday: 6:30 AM – 8:30 PM`Thursday: 5:30 AM – 8:00 PM`Friday: 8:30 AM – 6:30 PM`Saturday: 8:30 AM – 5:30 PM`Sunday: 8:30 AM – 6:30 PM`
 price
 not found
 rating
 5
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://bikramyogaslo.com/
 reviews
@@ -4129,13 +4129,13 @@ address
 phone
 (805) 549-8408
 hours
-['Monday: 9:00 AM  9:00 PM',Tuesday: 9:00 AM  9:00 PM',Wednesday: 9:00 AM  9:00 PM',Thursday: 9:00 AM  9:00 PM',Friday: 9:00 AM  9:00 PM',Saturday: 9:00 AM  12:30 PM',Sunday: Closed']
+Monday: 9:00 AM – 9:00 PM`Tuesday: 9:00 AM – 9:00 PM`Wednesday: 9:00 AM – 9:00 PM`Thursday: 9:00 AM – 9:00 PM`Friday: 9:00 AM – 9:00 PM`Saturday: 9:00 AM – 12:30 PM`Sunday: Closed`
 price
 not found
 rating
 4.1
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.iflipforccg.com/
 reviews
@@ -4172,13 +4172,13 @@ address
 phone
 (805) 546-8494
 hours
-['Monday: 8:30 AM  5:30 PM',Tuesday: 8:30 AM  5:30 PM',Wednesday: 8:30 AM  5:30 PM',Thursday: 8:30 AM  5:30 PM',Friday: 8:30 AM  5:30 PM',Saturday: Closed',Sunday: Closed']
+Monday: 8:30 AM – 5:30 PM`Tuesday: 8:30 AM – 5:30 PM`Wednesday: 8:30 AM – 5:30 PM`Thursday: 8:30 AM – 5:30 PM`Friday: 8:30 AM – 5:30 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['home_goods_store',store',point_of_interest',establishment']
+home_goods_store`store`point_of_interest`establishment`
 website
 http://www.egenoa.com/
 reviews
@@ -4201,7 +4201,7 @@ not found
 rating
 5
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.mzrfitness.com/
 reviews
@@ -4249,13 +4249,13 @@ address
 phone
 (805) 328-4591
 hours
-['Monday: Open 24 hours',Tuesday: 6:00 AM  7:30 PM',Wednesday: 6:00 AM  8:30 PM',Thursday: 6:00 AM  7:30 PM',Friday: 6:00 AM  7:30 PM',Saturday: 9:30 AM  12:00 PM',Sunday: Closed']
+Monday: Open 24 hours`Tuesday: 6:00 AM – 7:30 PM`Wednesday: 6:00 AM – 8:30 PM`Thursday: 6:00 AM – 7:30 PM`Friday: 6:00 AM – 7:30 PM`Saturday: 9:30 AM – 12:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.8
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.crossfitinferno.com/
 reviews
@@ -4298,13 +4298,13 @@ address
 phone
 (805) 439-1848
 hours
-['Monday: 6:00 AM  8:00 PM',Tuesday: 6:00 AM  8:00 PM',Wednesday: 6:00 AM  8:00 PM',Thursday: 6:00 AM  8:00 PM',Friday: 6:00 AM  8:00 PM',Saturday: 6:00 AM  8:00 PM',Sunday: 6:00 AM  8:00 PM']
+Monday: 6:00 AM – 8:00 PM`Tuesday: 6:00 AM – 8:00 PM`Wednesday: 6:00 AM – 8:00 PM`Thursday: 6:00 AM – 8:00 PM`Friday: 6:00 AM – 8:00 PM`Saturday: 6:00 AM – 8:00 PM`Sunday: 6:00 AM – 8:00 PM`
 price
 not found
 rating
 5
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.smileatspark.com/
 reviews
@@ -4341,13 +4341,13 @@ address
 phone
 (805) 546-9100
 hours
-['Monday: 6:00 AM  8:30 PM',Tuesday: 6:00 AM  8:30 PM',Wednesday: 6:00 AM  8:30 PM',Thursday: 6:00 AM  8:30 PM',Friday: 6:00 AM  8:00 PM',Saturday: 7:00 AM  1:00 PM',Sunday: 8:00 AM  1:00 PM']
+Monday: 6:00 AM – 8:30 PM`Tuesday: 6:00 AM – 8:30 PM`Wednesday: 6:00 AM – 8:30 PM`Thursday: 6:00 AM – 8:30 PM`Friday: 6:00 AM – 8:00 PM`Saturday: 7:00 AM – 1:00 PM`Sunday: 8:00 AM – 1:00 PM`
 price
 not found
 rating
 4.9
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.smilingdogyoga.com/
 reviews
@@ -4384,13 +4384,13 @@ address
 phone
 (805) 781-8181
 hours
-['Monday: 4:30 AM  1:00 AM',Tuesday: 4:30 AM  1:00 AM',Wednesday: 4:30 AM  1:00 AM',Thursday: 4:30 AM  1:00 AM',Friday: Closed',Saturday: 5:30 AM  12:00 AM',Sunday: 5:30 AM  1:00 AM']
+Monday: 4:30 AM – 1:00 AM`Tuesday: 4:30 AM – 1:00 AM`Wednesday: 4:30 AM – 1:00 AM`Thursday: 4:30 AM – 1:00 AM`Friday: Closed`Saturday: 5:30 AM – 12:00 AM`Sunday: 5:30 AM – 1:00 AM`
 price
 not found
 rating
 3.2
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.clubtwentyfour.com/
 reviews
@@ -4429,13 +4429,13 @@ address
 phone
 (805) 541-1100
 hours
-['Monday: 5:15 AM  9:30 PM',Tuesday: 5:15 AM  9:30 PM',Wednesday: 5:15 AM  9:30 PM',Thursday: 5:15 AM  9:30 PM',Friday: 5:15 AM  8:00 PM',Saturday: 7:00 AM  6:00 PM',Sunday: 10:00 AM  6:00 PM']
+Monday: 5:15 AM – 9:30 PM`Tuesday: 5:15 AM – 9:30 PM`Wednesday: 5:15 AM – 9:30 PM`Thursday: 5:15 AM – 9:30 PM`Friday: 5:15 AM – 8:00 PM`Saturday: 7:00 AM – 6:00 PM`Sunday: 10:00 AM – 6:00 PM`
 price
 not found
 rating
 4.9
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.eqclubs.com/
 reviews
@@ -4478,7 +4478,7 @@ not found
 rating
 5
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://paragonbjjslo.com/
 reviews
@@ -4517,13 +4517,13 @@ address
 phone
 (805) 545-7964
 hours
-['Monday: 11:00 AM  5:00 PM',Tuesday: 11:00 AM  5:00 PM',Wednesday: 11:00 AM  5:00 PM',Thursday: 11:00 AM  5:00 PM',Friday: 11:00 AM  5:00 PM',Saturday: 11:00 AM  5:00 PM',Sunday: 12:00  4:00 PM']
+Monday: 11:00 AM – 5:00 PM`Tuesday: 11:00 AM – 5:00 PM`Wednesday: 11:00 AM – 5:00 PM`Thursday: 11:00 AM – 5:00 PM`Friday: 11:00 AM – 5:00 PM`Saturday: 11:00 AM – 5:00 PM`Sunday: 12:00 – 4:00 PM`
 price
 not found
 rating
 4.6
 types
-['clothing_store',furniture_store',home_goods_store',store',point_of_interest',establishment']
+clothing_store`furniture_store`home_goods_store`store`point_of_interest`establishment`
 website
 http://www.rubyrose805.com/
 reviews
@@ -4560,13 +4560,13 @@ address
 phone
 (805) 781-3488
 hours
-['Monday: 5:00 AM  10:00 PM',Tuesday: 5:00 AM  10:00 PM',Wednesday: 5:00 AM  10:00 PM',Thursday: 5:00 AM  10:00 PM',Friday: 5:00 AM  10:00 PM',Saturday: 7:00 AM  7:00 PM',Sunday: 8:00 AM  6:00 PM']
+Monday: 5:00 AM – 10:00 PM`Tuesday: 5:00 AM – 10:00 PM`Wednesday: 5:00 AM – 10:00 PM`Thursday: 5:00 AM – 10:00 PM`Friday: 5:00 AM – 10:00 PM`Saturday: 7:00 AM – 7:00 PM`Sunday: 8:00 AM – 6:00 PM`
 price
 not found
 rating
 4.1
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.kennedyclubs.com/
 reviews
@@ -4609,7 +4609,7 @@ not found
 rating
 2.5
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 not found
 reviews
@@ -4631,13 +4631,13 @@ address
 phone
 (805) 546-6070
 hours
-['Monday: 5:30 AM  8:00 PM',Tuesday: 5:30 AM  8:00 PM',Wednesday: 5:30 AM  8:00 PM',Thursday: 5:30 AM  8:00 PM',Friday: 5:30 AM  8:00 PM',Saturday: 8:00 AM  2:00 PM',Sunday: Closed']
+Monday: 5:30 AM – 8:00 PM`Tuesday: 5:30 AM – 8:00 PM`Wednesday: 5:30 AM – 8:00 PM`Thursday: 5:30 AM – 8:00 PM`Friday: 5:30 AM – 8:00 PM`Saturday: 8:00 AM – 2:00 PM`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.athlonelite.com/
 reviews
@@ -4674,13 +4674,13 @@ address
 phone
 (805) 786-4667
 hours
-['Monday: 10:00 AM  7:00 PM',Tuesday: 10:00 AM  7:00 PM',Wednesday: 10:00 AM  7:00 PM',Thursday: 10:00 AM  7:00 PM',Friday: 10:00 AM  7:00 PM',Saturday: 10:00 AM  7:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:00 AM – 7:00 PM`Tuesday: 10:00 AM – 7:00 PM`Wednesday: 10:00 AM – 7:00 PM`Thursday: 10:00 AM – 7:00 PM`Friday: 10:00 AM – 7:00 PM`Saturday: 10:00 AM – 7:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 not found
 rating
 4.4
 types
-['home_goods_store',pet_store',lodging',grocery_or_supermarket',food',furniture_store',store',point_of_interest',establishment']
+home_goods_store`pet_store`lodging`grocery_or_supermarket`food`furniture_store`store`point_of_interest`establishment`
 website
 http://www.tuesdaymorning.com/stores/ca/san-luis-obispo/3860-broad-street.html?utm_source=Yext&utm_medium=loclist&utm_campaign=localmaps
 reviews
@@ -4723,7 +4723,7 @@ not found
 rating
 5
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 https://gyrotonic-sanluisobispo.com/
 reviews
@@ -4740,13 +4740,13 @@ address
 phone
 (805) 786-4681
 hours
-['Monday: 10:00 AM  9:00 PM',Tuesday: 10:00 AM  9:00 PM',Wednesday: 10:00 AM  9:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  7:00 PM',Sunday: 11:00 AM  6:00 PM']
+Monday: 10:00 AM – 9:00 PM`Tuesday: 10:00 AM – 9:00 PM`Wednesday: 10:00 AM – 9:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 7:00 PM`Sunday: 11:00 AM – 6:00 PM`
 price
 3
 rating
 4
 types
-['shoe_store',gym',health',clothing_store',store',point_of_interest',establishment']
+shoe_store`gym`health`clothing_store`store`point_of_interest`establishment`
 website
 https://info.lululemon.com/stores/us/san-luis-obispo/monterey-street
 reviews
@@ -4785,13 +4785,13 @@ address
 phone
 (805) 547-1496
 hours
-['Monday: 12:00  9:00 PM',Tuesday: 12:00  10:00 PM',Wednesday: 12:00  10:00 PM',Thursday: 12:00  8:00 PM',Friday: 12:00  10:00 PM',Saturday: 10:00 AM  3:00 PM',Sunday: Closed']
+Monday: 12:00 – 9:00 PM`Tuesday: 12:00 – 10:00 PM`Wednesday: 12:00 – 10:00 PM`Thursday: 12:00 – 8:00 PM`Friday: 12:00 – 10:00 PM`Saturday: 10:00 AM – 3:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.2
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.performanceathleticsslo.com/
 reviews
@@ -4835,7 +4835,7 @@ not found
 rating
 4
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.balanceapilatesstudio.com/
 reviews
@@ -4867,13 +4867,13 @@ address
 phone
 (805) 458-6757
 hours
-['Monday: 7:00 AM  9:00 PM',Tuesday: 5:30 AM  9:00 PM',Wednesday: 7:00 AM  9:00 PM',Thursday: 5:30 AM  9:00 PM',Friday: 7:00 AM  9:00 PM',Saturday: 7:00 AM  5:00 PM',Sunday: 11:00 AM  3:00 PM']
+Monday: 7:00 AM – 9:00 PM`Tuesday: 5:30 AM – 9:00 PM`Wednesday: 7:00 AM – 9:00 PM`Thursday: 5:30 AM – 9:00 PM`Friday: 7:00 AM – 9:00 PM`Saturday: 7:00 AM – 5:00 PM`Sunday: 11:00 AM – 3:00 PM`
 price
 not found
 rating
 not found
 types
-['gym',hair_care',doctor',health',store',point_of_interest',establishment']
+gym`hair_care`doctor`health`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -4886,13 +4886,13 @@ address
 phone
 (805) 598-7100
 hours
-['Monday: 6:30 AM  8:45 PM',Tuesday: 6:30 AM  8:45 PM',Wednesday: 6:30 AM  8:45 PM',Thursday: 6:30 AM  8:45 PM',Friday: 6:30 AM  8:45 PM',Saturday: 7:00 AM  12:00 PM',Sunday: 9:00 AM  7:00 PM']
+Monday: 6:30 AM – 8:45 PM`Tuesday: 6:30 AM – 8:45 PM`Wednesday: 6:30 AM – 8:45 PM`Thursday: 6:30 AM – 8:45 PM`Friday: 6:30 AM – 8:45 PM`Saturday: 7:00 AM – 12:00 PM`Sunday: 9:00 AM – 7:00 PM`
 price
 not found
 rating
 4.7
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.sloyogacenter.com/
 reviews
@@ -4929,13 +4929,13 @@ address
 phone
 (805) 543-1958
 hours
-['Monday: 11:00 AM  6:00 PM',Tuesday: 11:00 AM  6:00 PM',Wednesday: 11:00 AM  6:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  6:00 PM',Saturday: 11:00 AM  6:00 PM',Sunday: 12:00  4:00 PM']
+Monday: 11:00 AM – 6:00 PM`Tuesday: 11:00 AM – 6:00 PM`Wednesday: 11:00 AM – 6:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 6:00 PM`Saturday: 11:00 AM – 6:00 PM`Sunday: 12:00 – 4:00 PM`
 price
 not found
 rating
 4.7
 types
-['home_goods_store',store',point_of_interest',establishment']
+home_goods_store`store`point_of_interest`establishment`
 website
 http://www.sanctuarytobacco.com/
 reviews
@@ -4978,7 +4978,7 @@ not found
 rating
 not found
 types
-['gym',health',point_of_interest',establishment']
+gym`health`point_of_interest`establishment`
 website
 http://www.visitsanluisobispocounty.com/
 reviews
@@ -4991,13 +4991,13 @@ address
 phone
 (805) 544-8008
 hours
-['Monday: 3:30 AM  9:30 PM',Tuesday: 3:30 AM  7:00 PM',Wednesday: 3:30 AM  9:30 PM',Thursday: 3:30  7:00 PM',Friday: 5:30  8:00 PM',Saturday: 9:00  10:00 AM',Sunday: 11:00 AM  7:30 PM']
+Monday: 3:30 AM – 9:30 PM`Tuesday: 3:30 AM – 7:00 PM`Wednesday: 3:30 AM – 9:30 PM`Thursday: 3:30 – 7:00 PM`Friday: 5:30 – 8:00 PM`Saturday: 9:00 – 10:00 AM`Sunday: 11:00 AM – 7:30 PM`
 price
 not found
 rating
 not found
 types
-['gym',health',store',point_of_interest',establishment']
+gym`health`store`point_of_interest`establishment`
 website
 http://www.cckravmaga.com/
 reviews
@@ -5010,13 +5010,13 @@ address
 phone
 (805) 543-6433
 hours
-['Monday: 9:00 AM  9:00 PM',Tuesday: 9:00 AM  9:00 PM',Wednesday: 9:00 AM  9:00 PM',Thursday: 9:00 AM  9:00 PM',Friday: 9:00 AM  9:00 PM',Saturday: 9:00 AM  8:00 PM',Sunday: 10:00 AM  7:00 PM']
+Monday: 9:00 AM – 9:00 PM`Tuesday: 9:00 AM – 9:00 PM`Wednesday: 9:00 AM – 9:00 PM`Thursday: 9:00 AM – 9:00 PM`Friday: 9:00 AM – 9:00 PM`Saturday: 9:00 AM – 8:00 PM`Sunday: 10:00 AM – 7:00 PM`
 price
 not found
 rating
 4.4
 types
-['home_goods_store',store',point_of_interest',establishment']
+home_goods_store`store`point_of_interest`establishment`
 website
 http://www.beverlys.com/san-luis-obispo-store.html
 reviews
@@ -5053,13 +5053,13 @@ address
 phone
 (805) 781-5991
 hours
-['Monday: 10:00 AM  7:00 PM',Tuesday: 10:00 AM  7:00 PM',Wednesday: 10:00 AM  7:00 PM',Thursday: 10:00 AM  7:00 PM',Friday: 10:00 AM  5:00 PM',Saturday: 10:00 AM  5:00 PM',Sunday: Closed']
+Monday: 10:00 AM – 7:00 PM`Tuesday: 10:00 AM – 7:00 PM`Wednesday: 10:00 AM – 7:00 PM`Thursday: 10:00 AM – 7:00 PM`Friday: 10:00 AM – 5:00 PM`Saturday: 10:00 AM – 5:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.2
 types
-['library',point_of_interest',establishment']
+library`point_of_interest`establishment`
 website
 http://www.slolibrary.org/index.php/about/locations/slo-library
 reviews
@@ -5104,13 +5104,13 @@ address
 phone
 (805) 543-9463
 hours
-['Monday: 3:00  10:00 PM',Tuesday: 3:00  10:00 PM',Wednesday: 3:00  10:00 PM',Thursday: 3:00  10:00 PM',Friday: 3:00 PM  12:00 AM',Saturday: 3:00 PM  12:00 AM',Sunday: 3:00  10:00 PM']
+Monday: 3:00 – 10:00 PM`Tuesday: 3:00 – 10:00 PM`Wednesday: 3:00 – 10:00 PM`Thursday: 3:00 – 10:00 PM`Friday: 3:00 PM – 12:00 AM`Saturday: 3:00 PM – 12:00 AM`Sunday: 3:00 – 10:00 PM`
 price
 not found
 rating
 4.7
 types
-['bar',liquor_store',food',store',point_of_interest',establishment']
+bar`liquor_store`food`store`point_of_interest`establishment`
 website
 http://www.wineshedslo.com/
 reviews
@@ -5147,13 +5147,13 @@ address
 phone
 (805) 781-5855
 hours
-['Monday: 9:00 AM  4:00 PM',Tuesday: 9:00 AM  4:00 PM',Wednesday: 9:00 AM  4:00 PM',Thursday: 9:00 AM  4:00 PM',Friday: 9:00 AM  4:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 9:00 AM – 4:00 PM`Tuesday: 9:00 AM – 4:00 PM`Wednesday: 9:00 AM – 4:00 PM`Thursday: 9:00 AM – 4:00 PM`Friday: 9:00 AM – 4:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 4
 types
-['library',point_of_interest',establishment']
+library`point_of_interest`establishment`
 website
 http://www.slocll.org/
 reviews
@@ -5174,13 +5174,13 @@ Bldg. 35, 1 Grand Ave, San Luis Obispo, CA 93407, USA
 phone
 (805) 756-5760
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4.6
 types
-['library',point_of_interest',establishment']
+library`point_of_interest`establishment`
 website
 http://lib.calpoly.edu/
 reviews
@@ -5228,7 +5228,7 @@ not found
 rating
 1
 types
-['library',point_of_interest',establishment']
+library`point_of_interest`establishment`
 website
 http://www.calpoly.edu/
 reviews
@@ -5253,13 +5253,13 @@ address
 phone
 (805) 706-0711
 hours
-['Monday: Closed',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  9:00 PM',Saturday: 11:00 AM  9:00 PM',Sunday: 11:00 AM  7:00 PM']
+Monday: Closed`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 9:00 PM`Saturday: 11:00 AM – 9:00 PM`Sunday: 11:00 AM – 7:00 PM`
 price
 not found
 rating
 4.9
 types
-['cafe',bar',liquor_store',food',store',point_of_interest',establishment']
+cafe`bar`liquor_store`food`store`point_of_interest`establishment`
 website
 http://www.thestationslo.com/
 reviews
@@ -5302,7 +5302,7 @@ not found
 rating
 not found
 types
-['library',point_of_interest',establishment']
+library`point_of_interest`establishment`
 website
 not found
 reviews
@@ -5321,7 +5321,7 @@ not found
 rating
 not found
 types
-['bar',liquor_store',food',store',point_of_interest',establishment']
+bar`liquor_store`food`store`point_of_interest`establishment`
 website
 http://proofwinecollective.com/
 reviews
@@ -5334,13 +5334,13 @@ address
 phone
 (805) 541-0969
 hours
-['Monday: 11:00 AM  8:00 PM',Tuesday: 11:00 AM  8:00 PM',Wednesday: 11:00 AM  2:00 AM',Thursday: 11:00 AM  2:00 AM',Friday: 11:00 AM  2:00 AM',Saturday: 11:00 AM  2:00 AM',Sunday: 9:30 AM  8:00 PM']
+Monday: 11:00 AM – 8:00 PM`Tuesday: 11:00 AM – 8:00 PM`Wednesday: 11:00 AM – 2:00 AM`Thursday: 11:00 AM – 2:00 AM`Friday: 11:00 AM – 2:00 AM`Saturday: 11:00 AM – 2:00 AM`Sunday: 9:30 AM – 8:00 PM`
 price
 not found
 rating
 3.8
 types
-['restaurant',night_club',food',point_of_interest',establishment']
+restaurant`night_club`food`point_of_interest`establishment`
 website
 http://slograd.com/
 reviews
@@ -5379,13 +5379,13 @@ address
 phone
 (805) 541-9464
 hours
-['Monday: 11:00 AM  10:00 PM',Tuesday: 11:00 AM  10:00 PM',Wednesday: 11:00 AM  10:00 PM',Thursday: 11:00 AM  10:00 PM',Friday: 11:00 AM  12:00 AM',Saturday: 11:00 AM  12:00 AM',Sunday: 11:00 AM  12:00 AM']
+Monday: 11:00 AM – 10:00 PM`Tuesday: 11:00 AM – 10:00 PM`Wednesday: 11:00 AM – 10:00 PM`Thursday: 11:00 AM – 10:00 PM`Friday: 11:00 AM – 12:00 AM`Saturday: 11:00 AM – 12:00 AM`Sunday: 11:00 AM – 12:00 AM`
 price
 1
 rating
 3.3
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://order.wingstop.com/menu/wingstop-845-SAN-LUIS-OBISPO-CA-93401?utm_source=google&utm_medium=distrib&utm_campaign=google-distrib
 reviews
@@ -5430,13 +5430,13 @@ address
 phone
 (805) 543-7427
 hours
-['Monday: 11:00 AM  2:00 PM, 4:00  8:30 PM',Tuesday: 11:00 AM  2:00 PM, 4:00  8:30 PM',Wednesday: 11:00 AM  2:00 PM, 4:00  8:30 PM',Thursday: 11:00 AM  2:00 PM, 4:00  8:30 PM',Friday: 11:00 AM  2:00 PM, 4:00  8:30 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 10:00 AM  9:00 PM']
+Monday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM`Tuesday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM`Wednesday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM`Thursday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM`Friday: 11:00 AM – 2:00 PM, 4:00 – 8:30 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 10:00 AM – 9:00 PM`
 price
 not found
 rating
 4.5
 types
-['meal_delivery',restaurant',food',point_of_interest',establishment']
+meal_delivery`restaurant`food`point_of_interest`establishment`
 website
 http://www.ribline.com/
 reviews
@@ -5479,7 +5479,7 @@ price
 rating
 not found
 types
-['movie_rental',store',point_of_interest',establishment']
+movie_rental`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -5492,13 +5492,13 @@ address
 phone
 (805) 542-0105
 hours
-['Monday: 10:30 AM  10:00 PM',Tuesday: 10:30 AM  10:00 PM',Wednesday: 10:30 AM  10:00 PM',Thursday: 10:30 AM  10:00 PM',Friday: 10:30 AM  11:00 PM',Saturday: 10:30 AM  11:00 PM',Sunday: 10:30 AM  10:00 PM']
+Monday: 10:30 AM – 10:00 PM`Tuesday: 10:30 AM – 10:00 PM`Wednesday: 10:30 AM – 10:00 PM`Thursday: 10:30 AM – 10:00 PM`Friday: 10:30 AM – 11:00 PM`Saturday: 10:30 AM – 11:00 PM`Sunday: 10:30 AM – 10:00 PM`
 price
 not found
 rating
 4.4
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.habitburger.com/
 reviews
@@ -5535,13 +5535,13 @@ address
 phone
 (805) 752-1333
 hours
-['Monday: 11:00 AM  9:00 PM',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  9:00 PM',Saturday: 11:00 AM  9:00 PM',Sunday: 12:00  9:00 PM']
+Monday: 11:00 AM – 9:00 PM`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 9:00 PM`Saturday: 11:00 AM – 9:00 PM`Sunday: 12:00 – 9:00 PM`
 price
 not found
 rating
 4.4
 types
-['meal_delivery',restaurant',food',point_of_interest',establishment']
+meal_delivery`restaurant`food`point_of_interest`establishment`
 website
 http://www.ginospizzaslo.com/
 reviews
@@ -5579,13 +5579,13 @@ address
 phone
 (805) 543-9424
 hours
-['Monday: 10:30 AM  8:00 PM',Tuesday: 10:30 AM  8:00 PM',Wednesday: 10:30 AM  8:00 PM',Thursday: 10:30 AM  9:00 PM',Friday: 10:30 AM  8:00 PM',Saturday: 10:30 AM  8:00 PM',Sunday: 10:30 AM  8:00 PM']
+Monday: 10:30 AM – 8:00 PM`Tuesday: 10:30 AM – 8:00 PM`Wednesday: 10:30 AM – 8:00 PM`Thursday: 10:30 AM – 9:00 PM`Friday: 10:30 AM – 8:00 PM`Saturday: 10:30 AM – 8:00 PM`Sunday: 10:30 AM – 8:00 PM`
 price
 1
 rating
 4.3
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.whichwich.com/
 reviews
@@ -5628,7 +5628,7 @@ not found
 rating
 4.4
 types
-['movie_theater',electronics_store',home_goods_store',store',point_of_interest',establishment']
+movie_theater`electronics_store`home_goods_store`store`point_of_interest`establishment`
 website
 http://www.themovieexperience.com/
 reviews
@@ -5665,13 +5665,13 @@ address
 phone
 (805) 541-8733
 hours
-['Monday: 11:00 AM  2:00 AM',Tuesday: 11:00 AM  2:00 AM',Wednesday: 11:00 AM  2:00 AM',Thursday: 11:00 AM  2:00 AM',Friday: 11:00 AM  2:00 AM',Saturday: 11:00 AM  2:00 AM',Sunday: 11:00 AM  2:00 AM']
+Monday: 11:00 AM – 2:00 AM`Tuesday: 11:00 AM – 2:00 AM`Wednesday: 11:00 AM – 2:00 AM`Thursday: 11:00 AM – 2:00 AM`Friday: 11:00 AM – 2:00 AM`Saturday: 11:00 AM – 2:00 AM`Sunday: 11:00 AM – 2:00 AM`
 price
 2
 rating
 3.8
 types
-['restaurant',night_club',food',point_of_interest',establishment']
+restaurant`night_club`food`point_of_interest`establishment`
 website
 http://www.motherstavern.com/
 reviews
@@ -5712,13 +5712,13 @@ B, 1255 Monterey St, San Luis Obispo, CA 93401, USA
 phone
 (805) 439-4298
 hours
-['Monday: 8:00 AM  8:00 PM',Tuesday: 8:00 AM  8:00 PM',Wednesday: 8:00 AM  8:00 PM',Thursday: 8:00 AM  8:00 PM',Friday: 8:00 AM  8:00 PM',Saturday: 9:00 AM  6:00 PM',Sunday: Closed']
+Monday: 8:00 AM – 8:00 PM`Tuesday: 8:00 AM – 8:00 PM`Wednesday: 8:00 AM – 8:00 PM`Thursday: 8:00 AM – 8:00 PM`Friday: 8:00 AM – 8:00 PM`Saturday: 9:00 AM – 6:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.6
 types
-['cafe',meal_takeaway',restaurant',food',point_of_interest',establishment']
+cafe`meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.sloprovisions.com/
 reviews
@@ -5759,13 +5759,13 @@ address
 phone
 (805) 784-0983
 hours
-['Monday: 11:00 AM  9:00 PM',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  9:00 PM',Saturday: 11:00 AM  9:00 PM',Sunday: 11:00 AM  9:00 PM']
+Monday: 11:00 AM – 9:00 PM`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 9:00 PM`Saturday: 11:00 AM – 9:00 PM`Sunday: 11:00 AM – 9:00 PM`
 price
 not found
 rating
 4.5
 types
-['meal_delivery',meal_takeaway',restaurant',food',store',point_of_interest',establishment']
+meal_delivery`meal_takeaway`restaurant`food`store`point_of_interest`establishment`
 website
 http://slo.palomesapizza.com/
 reviews
@@ -5802,13 +5802,13 @@ address
 phone
 (805) 544-8786
 hours
-['Monday: 11:00 AM  9:00 PM',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  10:00 PM',Friday: 11:00 AM  10:00 PM',Saturday: 11:00 AM  10:00 PM',Sunday: 11:00 AM  9:00 PM']
+Monday: 11:00 AM – 9:00 PM`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 10:00 PM`Friday: 11:00 AM – 10:00 PM`Saturday: 11:00 AM – 10:00 PM`Sunday: 11:00 AM – 9:00 PM`
 price
 1
 rating
 4.5
 types
-['meal_delivery',meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_delivery`meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.pizzasolo.com/
 reviews
@@ -5849,13 +5849,13 @@ address
 phone
 (805) 544-5551
 hours
-['Monday: 11:00 AM  9:00 PM',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  10:00 PM',Saturday: 11:00 AM  10:00 PM',Sunday: 11:00 AM  9:00 PM']
+Monday: 11:00 AM – 9:00 PM`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 10:00 PM`Saturday: 11:00 AM – 10:00 PM`Sunday: 11:00 AM – 9:00 PM`
 price
 2
 rating
 3.5
 types
-['meal_delivery',meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_delivery`meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.roundtablepizza.com/order?id=985&utm_source=Local&utm_medium=LocalSEO&utm_campaign=LocalSearch
 reviews
@@ -5892,13 +5892,13 @@ address
 phone
 (805) 544-0861
 hours
-['Monday: Closed',Tuesday: 10:30 AM  2:30 PM, 4:30  9:30 PM',Wednesday: 10:30 AM  2:30 PM, 4:30  9:30 PM',Thursday: 10:30 AM  2:30 PM, 4:30  9:30 PM',Friday: 10:30 AM  2:30 PM, 4:30  9:30 PM',Saturday: 10:30 AM  2:30 PM, 4:30  9:30 PM',Sunday: 10:30 AM  2:30 PM, 4:30  9:30 PM']
+Monday: Closed`Tuesday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM`Wednesday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM`Thursday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM`Friday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM`Saturday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM`Sunday: 10:30 AM – 2:30 PM, 4:30 – 9:30 PM`
 price
 2
 rating
 4.2
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.mamasmeatball.com/
 reviews
@@ -5941,7 +5941,7 @@ not found
 rating
 4.6
 types
-['movie_theater',electronics_store',home_goods_store',store',point_of_interest',establishment']
+movie_theater`electronics_store`home_goods_store`store`point_of_interest`establishment`
 website
 http://www.facebook.com/sunsetdrivein
 reviews
@@ -5978,13 +5978,13 @@ address
 phone
 (805) 784-0355
 hours
-['Monday: 10:00 AM  10:00 PM',Tuesday: 10:00 AM  10:00 PM',Wednesday: 10:00 AM  10:00 PM',Thursday: 10:00 AM  10:00 PM',Friday: 10:00 AM  10:00 PM',Saturday: 10:00 AM  10:00 PM',Sunday: 10:30 AM  10:00 PM']
+Monday: 10:00 AM – 10:00 PM`Tuesday: 10:00 AM – 10:00 PM`Wednesday: 10:00 AM – 10:00 PM`Thursday: 10:00 AM – 10:00 PM`Friday: 10:00 AM – 10:00 PM`Saturday: 10:00 AM – 10:00 PM`Sunday: 10:30 AM – 10:00 PM`
 price
 1
 rating
 3.8
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.pandaexpress.com/
 reviews
@@ -6029,7 +6029,7 @@ price
 rating
 4.9
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://dreamdinners.com/main.php?page=store&id=76
 reviews
@@ -6067,13 +6067,13 @@ address
 phone
 (805) 546-0369
 hours
-['Monday: 10:30 AM  7:00 PM',Tuesday: 10:30 AM  7:00 PM',Wednesday: 10:30 AM  7:00 PM',Thursday: 10:30 AM  7:00 PM',Friday: 10:30 AM  7:00 PM',Saturday: 10:30 AM  7:00 PM',Sunday: 10:30 AM  7:00 PM']
+Monday: 10:30 AM – 7:00 PM`Tuesday: 10:30 AM – 7:00 PM`Wednesday: 10:30 AM – 7:00 PM`Thursday: 10:30 AM – 7:00 PM`Friday: 10:30 AM – 7:00 PM`Saturday: 10:30 AM – 7:00 PM`Sunday: 10:30 AM – 7:00 PM`
 price
 not found
 rating
 4.5
 types
-['meal_takeaway',restaurant',food',store',point_of_interest',establishment']
+meal_takeaway`restaurant`food`store`point_of_interest`establishment`
 website
 http://www.konasdeli.com/
 reviews
@@ -6110,13 +6110,13 @@ address
 phone
 (805) 544-3636
 hours
-['Monday: 10:30 AM  3:00 AM',Tuesday: 10:30 AM  3:00 AM',Wednesday: 10:30 AM  3:00 AM',Thursday: 10:30 AM  3:00 AM',Friday: 10:30 AM  3:00 AM',Saturday: 10:30 AM  3:00 AM',Sunday: 10:30 AM  3:00 AM']
+Monday: 10:30 AM – 3:00 AM`Tuesday: 10:30 AM – 3:00 AM`Wednesday: 10:30 AM – 3:00 AM`Thursday: 10:30 AM – 3:00 AM`Friday: 10:30 AM – 3:00 AM`Saturday: 10:30 AM – 3:00 AM`Sunday: 10:30 AM – 3:00 AM`
 price
 1
 rating
 2.9
 types
-['meal_delivery',meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_delivery`meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps
 reviews
@@ -6153,13 +6153,13 @@ address
 phone
 (805) 544-1700
 hours
-['Monday: 7:00 AM  3:00 AM',Tuesday: 7:00 AM  3:00 AM',Wednesday: 7:00 AM  3:00 AM',Thursday: 7:00 AM  3:00 AM',Friday: 7:00 AM  3:30 AM',Saturday: 7:00 AM  3:30 AM',Sunday: 7:00 AM  2:00 AM']
+Monday: 7:00 AM – 3:00 AM`Tuesday: 7:00 AM – 3:00 AM`Wednesday: 7:00 AM – 3:00 AM`Thursday: 7:00 AM – 3:00 AM`Friday: 7:00 AM – 3:30 AM`Saturday: 7:00 AM – 3:30 AM`Sunday: 7:00 AM – 2:00 AM`
 price
 1
 rating
 3.7
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 https://locations.tacobell.com/ca/san-luis-obispo/397-santa-rosa.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=024283&utm_content=website
 reviews
@@ -6196,13 +6196,13 @@ address
 phone
 (805) 541-6420
 hours
-['Monday: 12:00  8:00 PM',Tuesday: 12:00  8:00 PM',Wednesday: 12:00  8:00 PM',Thursday: 12:00  8:00 PM',Friday: 12:00  8:00 PM',Saturday: 12:00  8:00 PM',Sunday: 12:00  8:00 PM']
+Monday: 12:00 – 8:00 PM`Tuesday: 12:00 – 8:00 PM`Wednesday: 12:00 – 8:00 PM`Thursday: 12:00 – 8:00 PM`Friday: 12:00 – 8:00 PM`Saturday: 12:00 – 8:00 PM`Sunday: 12:00 – 8:00 PM`
 price
 not found
 rating
 4.5
 types
-['movie_rental',point_of_interest',establishment']
+movie_rental`point_of_interest`establishment`
 website
 not found
 reviews
@@ -6239,13 +6239,13 @@ address
 phone
 (805) 600-1336
 hours
-['Monday: 10:30 AM  11:00 PM',Tuesday: 10:30 AM  11:00 PM',Wednesday: 10:30 AM  11:00 PM',Thursday: 10:30 AM  11:00 PM',Friday: 10:30 AM  11:00 PM',Saturday: 10:30 AM  11:00 PM',Sunday: 11:00 AM  11:00 PM']
+Monday: 10:30 AM – 11:00 PM`Tuesday: 10:30 AM – 11:00 PM`Wednesday: 10:30 AM – 11:00 PM`Thursday: 10:30 AM – 11:00 PM`Friday: 10:30 AM – 11:00 PM`Saturday: 10:30 AM – 11:00 PM`Sunday: 11:00 AM – 11:00 PM`
 price
 not found
 rating
 4.4
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.blazepizza.com/
 reviews
@@ -6284,13 +6284,13 @@ address
 phone
 (805) 546-8121
 hours
-['Monday: 10:00 AM  10:00 PM',Tuesday: 10:00 AM  10:00 PM',Wednesday: 10:00 AM  10:00 PM',Thursday: 10:00 AM  10:00 PM',Friday: 10:00 AM  10:00 PM',Saturday: 10:00 AM  10:00 PM',Sunday: 10:00 AM  10:00 PM']
+Monday: 10:00 AM – 10:00 PM`Tuesday: 10:00 AM – 10:00 PM`Wednesday: 10:00 AM – 10:00 PM`Thursday: 10:00 AM – 10:00 PM`Friday: 10:00 AM – 10:00 PM`Saturday: 10:00 AM – 10:00 PM`Sunday: 10:00 AM – 10:00 PM`
 price
 1
 rating
 3.7
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://www.pandaexpress.com/
 reviews
@@ -6327,13 +6327,13 @@ address
 phone
 (805) 785-0306
 hours
-['Monday: 11:00 AM  10:00 PM',Tuesday: 11:00 AM  10:00 PM',Wednesday: 11:00 AM  10:00 PM',Thursday: 11:00 AM  10:00 PM',Friday: 11:00 AM  11:00 PM',Saturday: 11:00 AM  11:00 PM',Sunday: 11:00 AM  10:00 PM']
+Monday: 11:00 AM – 10:00 PM`Tuesday: 11:00 AM – 10:00 PM`Wednesday: 11:00 AM – 10:00 PM`Thursday: 11:00 AM – 10:00 PM`Friday: 11:00 AM – 11:00 PM`Saturday: 11:00 AM – 11:00 PM`Sunday: 11:00 AM – 10:00 PM`
 price
 2
 rating
 4.2
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 https://www.olivegarden.com/locations/ca/san-luis-obispo/san-luis-obispo/1888
 reviews
@@ -6370,13 +6370,13 @@ address
 phone
 (805) 541-7000
 hours
-['Monday: 10:00 AM  8:30 PM',Tuesday: 10:00 AM  8:30 PM',Wednesday: 10:00 AM  8:30 PM',Thursday: 10:00 AM  8:30 PM',Friday: 10:00 AM  8:30 PM',Saturday: 9:30 AM  6:00 PM',Sunday: 10:00 AM  6:00 PM']
+Monday: 10:00 AM – 8:30 PM`Tuesday: 10:00 AM – 8:30 PM`Wednesday: 10:00 AM – 8:30 PM`Thursday: 10:00 AM – 8:30 PM`Friday: 10:00 AM – 8:30 PM`Saturday: 9:30 AM – 6:00 PM`Sunday: 10:00 AM – 6:00 PM`
 price
 2
 rating
 4.2
 types
-['meal_takeaway',restaurant',food',point_of_interest',establishment']
+meal_takeaway`restaurant`food`point_of_interest`establishment`
 website
 http://m.costco.com/WarehouseLocatorView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D10701
 reviews
@@ -6414,13 +6414,13 @@ address
 phone
 (805) 439-1234
 hours
-['Monday: 10:00 AM  9:00 PM',Tuesday: 10:00 AM  9:00 PM',Wednesday: 10:00 AM  9:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 10:00 AM  9:00 PM']
+Monday: 10:00 AM – 9:00 PM`Tuesday: 10:00 AM – 9:00 PM`Wednesday: 10:00 AM – 9:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 10:00 AM – 9:00 PM`
 price
 1
 rating
 4
 types
-['meal_takeaway',restaurant',food',store',point_of_interest',establishment']
+meal_takeaway`restaurant`food`store`point_of_interest`establishment`
 website
 https://www.jerseymikes.com/20202
 reviews
@@ -6459,13 +6459,13 @@ address
 phone
 (805) 439-3410
 hours
-['Monday: Closed',Tuesday: 5:00  9:00 PM',Wednesday: 5:00  9:00 PM',Thursday: 5:00  9:00 PM',Friday: 5:00  10:00 PM',Saturday: 5:00  10:00 PM',Sunday: Closed']
+Monday: Closed`Tuesday: 5:00 – 9:00 PM`Wednesday: 5:00 – 9:00 PM`Thursday: 5:00 – 9:00 PM`Friday: 5:00 – 10:00 PM`Saturday: 5:00 – 10:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.3
 types
-['bar',night_club',restaurant',food',point_of_interest',establishment']
+bar`night_club`restaurant`food`point_of_interest`establishment`
 website
 http://www.foremostwineco.com/
 reviews
@@ -6514,13 +6514,13 @@ address
 phone
 (805) 548-1894
 hours
-['Monday: Closed',Tuesday: Closed',Wednesday: Closed',Thursday: Closed',Friday: Closed',Saturday: 10:00 AM  4:00 PM',Sunday: Closed']
+Monday: Closed`Tuesday: Closed`Wednesday: Closed`Thursday: Closed`Friday: Closed`Saturday: 10:00 AM – 4:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.5
 types
-['museum',point_of_interest',establishment']
+museum`point_of_interest`establishment`
 website
 http://www.slorrm.com/
 reviews
@@ -6563,7 +6563,7 @@ not found
 rating
 4.7
 types
-['movie_theater',electronics_store',home_goods_store',store',point_of_interest',establishment']
+movie_theater`electronics_store`home_goods_store`store`point_of_interest`establishment`
 website
 http://www.thepalmtheatre.com/
 reviews
@@ -6600,13 +6600,13 @@ address
 phone
 (805) 785-0490
 hours
-['Monday: 11:00 AM  1:00 AM',Tuesday: 11:00 AM  1:00 AM',Wednesday: 11:00 AM  1:00 AM',Thursday: 11:00 AM  1:00 AM',Friday: 11:00 AM  1:00 AM',Saturday: 11:00 AM  1:00 AM',Sunday: 11:00 AM  12:00 AM']
+Monday: 11:00 AM – 1:00 AM`Tuesday: 11:00 AM – 1:00 AM`Wednesday: 11:00 AM – 1:00 AM`Thursday: 11:00 AM – 1:00 AM`Friday: 11:00 AM – 1:00 AM`Saturday: 11:00 AM – 1:00 AM`Sunday: 11:00 AM – 12:00 AM`
 price
 1
 rating
 3.6
 types
-['meal_takeaway',bar',restaurant',food',point_of_interest',establishment']
+meal_takeaway`bar`restaurant`food`point_of_interest`establishment`
 website
 http://buffalowildwings.com/?utm_source=googlemybusiness&utm_medium=organic&utm_campaign=GMB
 reviews
@@ -6643,13 +6643,13 @@ address
 phone
 (805) 543-8562
 hours
-['Monday: 11:00 AM  5:00 PM',Tuesday: Closed',Wednesday: 11:00 AM  5:00 PM',Thursday: 11:00 AM  5:00 PM',Friday: 11:00 AM  5:00 PM',Saturday: 11:00 AM  5:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 11:00 AM – 5:00 PM`Tuesday: Closed`Wednesday: 11:00 AM – 5:00 PM`Thursday: 11:00 AM – 5:00 PM`Friday: 11:00 AM – 5:00 PM`Saturday: 11:00 AM – 5:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 4.8
 types
-['museum',point_of_interest',establishment']
+museum`point_of_interest`establishment`
 website
 http://www.sloma.org/
 reviews
@@ -6692,7 +6692,7 @@ not found
 rating
 not found
 types
-['museum',point_of_interest',establishment']
+museum`point_of_interest`establishment`
 website
 not found
 reviews
@@ -6705,13 +6705,13 @@ address
 phone
 (805) 543-8562
 hours
-['Monday: 11:00 AM  5:00 PM',Tuesday: Closed',Wednesday: 11:00 AM  5:00 PM',Thursday: 11:00 AM  5:00 PM',Friday: 11:00 AM  5:00 PM',Saturday: 11:00 AM  5:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 11:00 AM – 5:00 PM`Tuesday: Closed`Wednesday: 11:00 AM – 5:00 PM`Thursday: 11:00 AM – 5:00 PM`Friday: 11:00 AM – 5:00 PM`Saturday: 11:00 AM – 5:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 5
 types
-['museum',point_of_interest',establishment']
+museum`point_of_interest`establishment`
 website
 http://historycenterslo.org/
 reviews
@@ -6728,13 +6728,13 @@ address
 phone
 (805) 543-0638
 hours
-['Monday: 10:00 AM  4:00 PM',Tuesday: Closed',Wednesday: 10:00 AM  4:00 PM',Thursday: 10:00 AM  4:00 PM',Friday: 10:00 AM  4:00 PM',Saturday: 10:00 AM  4:00 PM',Sunday: 10:00 AM  4:00 PM']
+Monday: 10:00 AM – 4:00 PM`Tuesday: Closed`Wednesday: 10:00 AM – 4:00 PM`Thursday: 10:00 AM – 4:00 PM`Friday: 10:00 AM – 4:00 PM`Saturday: 10:00 AM – 4:00 PM`Sunday: 10:00 AM – 4:00 PM`
 price
 not found
 rating
 4.8
 types
-['museum',point_of_interest',establishment']
+museum`point_of_interest`establishment`
 website
 http://historycenterslo.org/
 reviews
@@ -6777,7 +6777,7 @@ not found
 rating
 4.6
 types
-['movie_theater',electronics_store',home_goods_store',store',point_of_interest',establishment']
+movie_theater`electronics_store`home_goods_store`store`point_of_interest`establishment`
 website
 http://fremontslo.com/
 reviews
@@ -6816,13 +6816,13 @@ address
 phone
 (805) 781-5901
 hours
-['Monday: Closed',Tuesday: Closed',Wednesday: 8:30 AM  3:00 PM',Thursday: 8:30 AM  3:00 PM',Friday: 8:30 AM  3:00 PM',Saturday: 8:30 AM  3:00 PM',Sunday: Closed']
+Monday: Closed`Tuesday: Closed`Wednesday: 8:30 AM – 3:00 PM`Thursday: 8:30 AM – 3:00 PM`Friday: 8:30 AM – 3:00 PM`Saturday: 8:30 AM – 3:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.2
 types
-['museum',point_of_interest',establishment']
+museum`point_of_interest`establishment`
 website
 http://vetmuseum.org/
 reviews
@@ -6859,13 +6859,13 @@ address
 phone
 (805) 781-5930
 hours
-['Monday: 9:00 AM  5:30 PM',Tuesday: 9:00 AM  5:30 PM',Wednesday: 9:00 AM  5:30 PM',Thursday: 9:00 AM  5:30 PM',Friday: 9:00 AM  5:00 PM',Saturday: 9:00 AM  5:30 PM',Sunday: 9:00 AM  5:30 PM']
+Monday: 9:00 AM – 5:30 PM`Tuesday: 9:00 AM – 5:30 PM`Wednesday: 9:00 AM – 5:30 PM`Thursday: 9:00 AM – 5:30 PM`Friday: 9:00 AM – 5:00 PM`Saturday: 9:00 AM – 5:30 PM`Sunday: 9:00 AM – 5:30 PM`
 price
 not found
 rating
 4.5
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://slocountyparks.org/day-use-parks/cuesta-park/
 reviews
@@ -6908,7 +6908,7 @@ not found
 rating
 not found
 types
-['pet_store',store',point_of_interest',establishment']
+pet_store`store`point_of_interest`establishment`
 website
 http://www.tailsinslo.com/
 reviews
@@ -6927,7 +6927,7 @@ not found
 rating
 4.5
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 not found
 reviews
@@ -6971,7 +6971,7 @@ not found
 rating
 3.9
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.slocity.org/Home/Components/FacilityDirectory/FacilityDirectory/54/955
 reviews
@@ -7009,13 +7009,13 @@ address
 phone
 (805) 543-0638
 hours
-['Monday: Closed',Tuesday: Closed',Wednesday: Closed',Thursday: Closed',Friday: 10:00 AM  4:00 PM',Saturday: Closed',Sunday: 1:00  4:00 PM']
+Monday: Closed`Tuesday: Closed`Wednesday: Closed`Thursday: Closed`Friday: 10:00 AM – 4:00 PM`Saturday: Closed`Sunday: 1:00 – 4:00 PM`
 price
 not found
 rating
 4.3
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.slochs.org/
 reviews
@@ -7048,7 +7048,7 @@ not found
 rating
 4.1
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.slocity.org/government/department-directory/parks-and-recreation
 reviews
@@ -7085,13 +7085,13 @@ San Luis Obispo, CA 93405, USA
 phone
 (805) 756-2888
 hours
-['Monday: 8:00 AM  5:00 PM',Tuesday: 8:00 AM  5:00 PM',Wednesday: 8:00 AM  5:00 PM',Thursday: 8:00 AM  5:00 PM',Friday: 8:00 AM  5:00 PM',Saturday: 8:00 AM  5:00 PM',Sunday: Closed']
+Monday: 8:00 AM – 5:00 PM`Tuesday: 8:00 AM – 5:00 PM`Wednesday: 8:00 AM – 5:00 PM`Thursday: 8:00 AM – 5:00 PM`Friday: 8:00 AM – 5:00 PM`Saturday: 8:00 AM – 5:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.4
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.leaningpinearboretum.calpoly.edu/
 reviews
@@ -7128,13 +7128,13 @@ Foothill Blvd, San Luis Obispo, CA 93405, USA
 phone
 not found
 hours
-['Monday: 5:00 AM  6:00 PM',Tuesday: 5:00 AM  6:00 PM',Wednesday: 5:00 AM  6:00 PM',Thursday: 5:00 AM  6:00 PM',Friday: 5:00 AM  6:00 PM',Saturday: 5:00 AM  6:00 PM',Sunday: 5:00 AM  6:00 PM']
+Monday: 5:00 AM – 6:00 PM`Tuesday: 5:00 AM – 6:00 PM`Wednesday: 5:00 AM – 6:00 PM`Thursday: 5:00 AM – 6:00 PM`Friday: 5:00 AM – 6:00 PM`Saturday: 5:00 AM – 6:00 PM`Sunday: 5:00 AM – 6:00 PM`
 price
 not found
 rating
 4.6
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 not found
 reviews
@@ -7171,13 +7171,13 @@ Santa Rosa St, San Luis Obispo, CA 93405, USA
 phone
 (805) 781-7222
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4.5
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.slocity.org/Home/Components/FacilityDirectory/FacilityDirectory/16/955
 reviews
@@ -7221,7 +7221,7 @@ not found
 rating
 not found
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://slocity.net/
 reviews
@@ -7234,13 +7234,13 @@ address
 phone
 (805) 781-7222
 hours
-['Monday: 7:00 AM  10:00 PM',Tuesday: 7:00 AM  10:00 PM',Wednesday: 7:00 AM  10:00 PM',Thursday: 7:00 AM  10:00 PM',Friday: 7:00 AM  10:00 PM',Saturday: 7:00 AM  10:00 PM',Sunday: 7:00 AM  10:00 PM']
+Monday: 7:00 AM – 10:00 PM`Tuesday: 7:00 AM – 10:00 PM`Wednesday: 7:00 AM – 10:00 PM`Thursday: 7:00 AM – 10:00 PM`Friday: 7:00 AM – 10:00 PM`Saturday: 7:00 AM – 10:00 PM`Sunday: 7:00 AM – 10:00 PM`
 price
 not found
 rating
 4.2
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.slocity.org/government/department-directory/parks-and-recreation/jack-house-and-gardens
 reviews
@@ -7277,13 +7277,13 @@ address
 phone
 (805) 748-3973
 hours
-['Monday: Closed',Tuesday: Closed',Wednesday: Closed',Thursday: Closed',Friday: Closed',Saturday: 10:00 AM  5:00 PM',Sunday: 10:00 AM  4:00 PM']
+Monday: Closed`Tuesday: Closed`Wednesday: Closed`Thursday: Closed`Friday: Closed`Saturday: 10:00 AM – 5:00 PM`Sunday: 10:00 AM – 4:00 PM`
 price
 not found
 rating
 4
 types
-['park',lodging',point_of_interest',establishment']
+park`lodging`point_of_interest`establishment`
 website
 http://www.slohomeshow.com/
 reviews
@@ -7300,13 +7300,13 @@ San Luis Obispo, CA 93405, USA
 phone
 not found
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4.7
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.calpoly.edu/
 reviews
@@ -7343,13 +7343,13 @@ San Luis Obispo, CA 93405, USA
 phone
 not found
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://cob.calpoly.edu/
 reviews
@@ -7381,13 +7381,13 @@ address
 phone
 (805) 781-7222
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4.2
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.slocity.org/Home/Components/FacilityDirectory/FacilityDirectory/40/955
 reviews
@@ -7430,7 +7430,7 @@ not found
 rating
 4.2
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://bluesbaseball.com/
 reviews
@@ -7467,13 +7467,13 @@ address
 phone
 (805) 781-7222
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4.3
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://slocity.net/
 reviews
@@ -7510,13 +7510,13 @@ San Luis Obispo, CA 93405, USA
 phone
 (805) 781-7300
 hours
-['Monday: 6:00 AM  8:00 PM',Tuesday: 6:00 AM  8:00 PM',Wednesday: 6:00 AM  8:00 PM',Thursday: 6:00 AM  8:00 PM',Friday: 6:00 AM  8:00 PM',Saturday: 6:00 AM  8:00 PM',Sunday: 6:00 AM  8:00 PM']
+Monday: 6:00 AM – 8:00 PM`Tuesday: 6:00 AM – 8:00 PM`Wednesday: 6:00 AM – 8:00 PM`Thursday: 6:00 AM – 8:00 PM`Friday: 6:00 AM – 8:00 PM`Saturday: 6:00 AM – 8:00 PM`Sunday: 6:00 AM – 8:00 PM`
 price
 not found
 rating
 4.8
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 not found
 reviews
@@ -7559,7 +7559,7 @@ not found
 rating
 not found
 types
-['park',point_of_interest',establishment']
+park`point_of_interest`establishment`
 website
 http://www.sloyouthbaseball.com/Default.aspx?tabid=443296
 reviews
@@ -7572,13 +7572,13 @@ address
 phone
 (805) 547-0242
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  6:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 11:00 AM  4:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 6:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 11:00 AM – 4:00 PM`
 price
 3
 rating
 5
 types
-['pet_store',food',store',point_of_interest',establishment']
+pet_store`food`store`point_of_interest`establishment`
 website
 http://sanluisobispo.wbu.com/
 reviews
@@ -7605,13 +7605,13 @@ address
 phone
 (805) 595-3474
 hours
-['Monday: 11:30 AM  6:30 PM',Tuesday: 11:30 AM  6:30 PM',Wednesday: 11:30 AM  6:30 PM',Thursday: 11:30 AM  6:30 PM',Friday: 11:30 AM  6:30 PM',Saturday: 11:00 AM  6:00 PM',Sunday: 12:00  5:00 PM']
+Monday: 11:30 AM – 6:30 PM`Tuesday: 11:30 AM – 6:30 PM`Wednesday: 11:30 AM – 6:30 PM`Thursday: 11:30 AM – 6:30 PM`Friday: 11:30 AM – 6:30 PM`Saturday: 11:00 AM – 6:00 PM`Sunday: 12:00 – 5:00 PM`
 price
 not found
 rating
 4.1
 types
-['pet_store',general_contractor',store',point_of_interest',establishment']
+pet_store`general_contractor`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -7648,13 +7648,13 @@ address
 phone
 (805) 781-7700
 hours
-['Monday: 7:00 AM  4:30 PM',Tuesday: 7:00 AM  4:30 PM',Wednesday: 7:00 AM  4:30 PM',Thursday: 7:00 AM  4:30 PM',Friday: 7:00 AM  4:30 PM',Saturday: Closed',Sunday: Closed']
+Monday: 7:00 AM – 4:30 PM`Tuesday: 7:00 AM – 4:30 PM`Wednesday: 7:00 AM – 4:30 PM`Thursday: 7:00 AM – 4:30 PM`Friday: 7:00 AM – 4:30 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['pet_store',store',point_of_interest',establishment']
+pet_store`store`point_of_interest`establishment`
 website
 https://www.petdoors.com/
 reviews
@@ -7691,13 +7691,13 @@ address
 phone
 (805) 594-1744
 hours
-['Monday: 11:00 AM  2:30 PM, 5:00  9:30 PM',Tuesday: 11:00 AM  2:30 PM, 5:00  9:30 PM',Wednesday: 11:00 AM  2:30 PM, 5:00  9:30 PM',Thursday: 11:00 AM  2:30 PM, 5:00  9:30 PM',Friday: 11:00 AM  2:30 PM, 5:00  10:00 PM',Saturday: 12:00  10:00 PM',Sunday: 5:00  9:30 PM']
+Monday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM`Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM`Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM`Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:30 PM`Friday: 11:00 AM – 2:30 PM, 5:00 – 10:00 PM`Saturday: 12:00 – 10:00 PM`Sunday: 5:00 – 9:30 PM`
 price
 2
 rating
 4.4
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://tpinslo.com/
 reviews
@@ -7740,7 +7740,7 @@ not found
 rating
 not found
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 https://www2.ed.gov/programs/mep/index.html
 reviews
@@ -7759,7 +7759,7 @@ not found
 rating
 4
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://sloclassicalacademy.com/
 reviews
@@ -7805,13 +7805,13 @@ address
 phone
 (805) 541-3320
 hours
-['Monday: 10:00 AM  5:00 PM',Tuesday: 10:00 AM  5:00 PM',Wednesday: 10:00 AM  5:00 PM',Thursday: 10:00 AM  5:00 PM',Friday: 10:00 AM  5:00 PM',Saturday: 10:00 AM  5:00 PM',Sunday: 10:00 AM  5:00 PM']
+Monday: 10:00 AM – 5:00 PM`Tuesday: 10:00 AM – 5:00 PM`Wednesday: 10:00 AM – 5:00 PM`Thursday: 10:00 AM – 5:00 PM`Friday: 10:00 AM – 5:00 PM`Saturday: 10:00 AM – 5:00 PM`Sunday: 10:00 AM – 5:00 PM`
 price
 not found
 rating
 not found
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://shoesurfing.com/
 reviews
@@ -7824,13 +7824,13 @@ address
 phone
 (805) 541-0855
 hours
-['Monday: 7:00 AM  9:00 PM',Tuesday: 7:00 AM  9:00 PM',Wednesday: 7:00 AM  9:00 PM',Thursday: 7:00 AM  9:00 PM',Friday: 7:00 AM  9:00 PM',Saturday: 8:00 AM  9:00 PM',Sunday: 8:00 AM  8:00 PM']
+Monday: 7:00 AM – 9:00 PM`Tuesday: 7:00 AM – 9:00 PM`Wednesday: 7:00 AM – 9:00 PM`Thursday: 7:00 AM – 9:00 PM`Friday: 7:00 AM – 9:00 PM`Saturday: 8:00 AM – 9:00 PM`Sunday: 8:00 AM – 8:00 PM`
 price
 1
 rating
 3.8
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://www.subway.com/subwayroot/default.aspx?rdr=Banners:GooglePlaces:SubwayCom
 reviews
@@ -7867,13 +7867,13 @@ address
 phone
 (805) 783-2583
 hours
-['Monday: 7:30 AM  5:30 PM',Tuesday: 7:30 AM  5:30 PM',Wednesday: 7:30 AM  5:30 PM',Thursday: 7:30 AM  5:30 PM',Friday: 7:30 AM  5:30 PM',Saturday: Closed',Sunday: Closed']
+Monday: 7:30 AM – 5:30 PM`Tuesday: 7:30 AM – 5:30 PM`Wednesday: 7:30 AM – 5:30 PM`Thursday: 7:30 AM – 5:30 PM`Friday: 7:30 AM – 5:30 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://www.blueskypreschool.org/
 reviews
@@ -7890,13 +7890,13 @@ address
 phone
 (805) 782-9321
 hours
-['Monday: 11:00 AM  9:00 PM',Tuesday: 11:00 AM  9:00 PM',Wednesday: 11:00 AM  9:00 PM',Thursday: 11:00 AM  9:00 PM',Friday: 11:00 AM  9:00 PM',Saturday: 11:00 AM  9:00 PM',Sunday: 11:00 AM  8:00 PM']
+Monday: 11:00 AM – 9:00 PM`Tuesday: 11:00 AM – 9:00 PM`Wednesday: 11:00 AM – 9:00 PM`Thursday: 11:00 AM – 9:00 PM`Friday: 11:00 AM – 9:00 PM`Saturday: 11:00 AM – 9:00 PM`Sunday: 11:00 AM – 8:00 PM`
 price
 not found
 rating
 4.3
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://sushikokku.com/
 reviews
@@ -7936,13 +7936,13 @@ address
 phone
 (805) 756-4849
 hours
-['Monday: 12:00  6:00 PM',Tuesday: 12:00  6:00 PM',Wednesday: 12:00  6:00 PM',Thursday: 12:00  6:00 PM',Friday: 12:00  6:00 PM',Saturday: 12:00  6:00 PM',Sunday: Closed']
+Monday: 12:00 – 6:00 PM`Tuesday: 12:00 – 6:00 PM`Wednesday: 12:00 – 6:00 PM`Thursday: 12:00 – 6:00 PM`Friday: 12:00 – 6:00 PM`Saturday: 12:00 – 6:00 PM`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['university',school',store',point_of_interest',establishment']
+university`school`store`point_of_interest`establishment`
 website
 http://tickets.calpoly.edu/
 reviews
@@ -7965,7 +7965,7 @@ not found
 rating
 not found
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 not found
 reviews
@@ -7978,13 +7978,13 @@ address
 phone
 (805) 547-9593
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  6:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 12:00  5:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 6:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 12:00 – 5:00 PM`
 price
 not found
 rating
 5
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://mikesshoes.com/
 reviews
@@ -8025,13 +8025,13 @@ address
 phone
 (805) 544-6465
 hours
-['Monday: 7:30 AM  9:00 PM',Tuesday: 7:30 AM  9:00 PM',Wednesday: 7:30 AM  9:00 PM',Thursday: 7:30 AM  9:00 PM',Friday: 7:30 AM  9:00 PM',Saturday: 7:30 AM  9:00 PM',Sunday: 7:30 AM  9:00 PM']
+Monday: 7:30 AM – 9:00 PM`Tuesday: 7:30 AM – 9:00 PM`Wednesday: 7:30 AM – 9:00 PM`Thursday: 7:30 AM – 9:00 PM`Friday: 7:30 AM – 9:00 PM`Saturday: 7:30 AM – 9:00 PM`Sunday: 7:30 AM – 9:00 PM`
 price
 1
 rating
 4.2
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://www.gbrothersinslo.com/
 reviews
@@ -8069,13 +8069,13 @@ address
 phone
 (805) 781-0766
 hours
-['Monday: 11:30 AM  2:45 PM, 5:00  9:45 PM',Tuesday: 11:30 AM  2:45 PM, 5:00  9:45 PM',Wednesday: 11:30 AM  2:45 PM, 5:00  9:45 PM',Thursday: 11:30 AM  2:45 PM, 5:00  9:45 PM',Friday: 11:30 AM  2:45 PM, 5:00  9:45 PM',Saturday: 11:30 AM  2:45 PM, 5:00  9:45 PM',Sunday: 11:30 AM  2:45 PM, 5:00  9:45 PM']
+Monday: 11:30 AM – 2:45 PM, 5:00 – 9:45 PM`Tuesday: 11:30 AM – 2:45 PM, 5:00 – 9:45 PM`Wednesday: 11:30 AM – 2:45 PM, 5:00 – 9:45 PM`Thursday: 11:30 AM – 2:45 PM, 5:00 – 9:45 PM`Friday: 11:30 AM – 2:45 PM, 5:00 – 9:45 PM`Saturday: 11:30 AM – 2:45 PM, 5:00 – 9:45 PM`Sunday: 11:30 AM – 2:45 PM, 5:00 – 9:45 PM`
 price
 2
 rating
 4.3
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://shalimarslo.com/
 reviews
@@ -8112,13 +8112,13 @@ address
 phone
 (805) 783-1001
 hours
-['Monday: 11:00 AM  10:00 PM',Tuesday: 11:00 AM  10:00 PM',Wednesday: 11:00 AM  10:00 PM',Thursday: 11:00 AM  11:00 PM',Friday: 11:00 AM  11:00 PM',Saturday: 11:00 AM  11:00 PM',Sunday: 11:00 AM  10:00 PM']
+Monday: 11:00 AM – 10:00 PM`Tuesday: 11:00 AM – 10:00 PM`Wednesday: 11:00 AM – 10:00 PM`Thursday: 11:00 AM – 11:00 PM`Friday: 11:00 AM – 11:00 PM`Saturday: 11:00 AM – 11:00 PM`Sunday: 11:00 AM – 10:00 PM`
 price
 1
 rating
 4.5
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://www.firestonegrill.com/home.htm
 reviews
@@ -8155,13 +8155,13 @@ address
 phone
 (805) 903-1141
 hours
-['Monday: 11:00 AM  11:00 PM',Tuesday: 11:00 AM  11:00 PM',Wednesday: 11:00 AM  12:00 AM',Thursday: 11:00 AM  12:00 AM',Friday: 11:00 AM  12:00 AM',Saturday: 11:00 AM  12:00 AM',Sunday: 11:00 AM  11:00 PM']
+Monday: 11:00 AM – 11:00 PM`Tuesday: 11:00 AM – 11:00 PM`Wednesday: 11:00 AM – 12:00 AM`Thursday: 11:00 AM – 12:00 AM`Friday: 11:00 AM – 12:00 AM`Saturday: 11:00 AM – 12:00 AM`Sunday: 11:00 AM – 11:00 PM`
 price
 2
 rating
 4.4
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://www.eurekarestaurantgroup.com/
 reviews
@@ -8198,13 +8198,13 @@ address
 phone
 (805) 594-1638
 hours
-['Monday: 11:00 AM  2:00 PM, 4:00  8:00 PM',Tuesday: 11:00 AM  2:00 PM, 4:00  8:00 PM',Wednesday: 11:00 AM  2:00 PM, 4:00  8:00 PM',Thursday: 11:00 AM  2:00 PM, 4:00  8:00 PM',Friday: 11:00 AM  2:00 PM, 4:00  8:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 11:00 AM – 2:00 PM, 4:00 – 8:00 PM`Tuesday: 11:00 AM – 2:00 PM, 4:00 – 8:00 PM`Wednesday: 11:00 AM – 2:00 PM, 4:00 – 8:00 PM`Thursday: 11:00 AM – 2:00 PM, 4:00 – 8:00 PM`Friday: 11:00 AM – 2:00 PM, 4:00 – 8:00 PM`Saturday: Closed`Sunday: Closed`
 price
 2
 rating
 4.8
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 https://www.thaiboatslo.com/
 reviews
@@ -8242,13 +8242,13 @@ address
 phone
 (805) 788-0558
 hours
-['Monday: 6:30 AM  10:00 PM',Tuesday: 6:30 AM  10:00 PM',Wednesday: 6:30 AM  10:00 PM',Thursday: 6:30 AM  10:00 PM',Friday: 6:30 AM  10:00 PM',Saturday: 7:00 AM  9:00 PM',Sunday: 7:00 AM  9:00 PM']
+Monday: 6:30 AM – 10:00 PM`Tuesday: 6:30 AM – 10:00 PM`Wednesday: 6:30 AM – 10:00 PM`Thursday: 6:30 AM – 10:00 PM`Friday: 6:30 AM – 10:00 PM`Saturday: 7:00 AM – 9:00 PM`Sunday: 7:00 AM – 9:00 PM`
 price
 1
 rating
 4
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://order.subway.com/Stores/Redirect.aspx?s=27404&sa=0&f=r&utm_source=google&utm_medium=local&utm_term=0&utm_content=27404&utm_campaign=fwh-local-remote-order&cid=0:0:0:0:0:0&segment_code=0
 reviews
@@ -8293,7 +8293,7 @@ not found
 rating
 3.9
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://www.missionprep.org/
 reviews
@@ -8330,13 +8330,13 @@ address
 phone
 (805) 541-4420
 hours
-['Monday: 11:00 AM  12:00 AM',Tuesday: 11:00 AM  12:00 AM',Wednesday: 11:00 AM  12:00 AM',Thursday: 11:00 AM  12:00 AM',Friday: 11:00 AM  1:00 AM',Saturday: 11:00 AM  1:00 AM',Sunday: 11:00 AM  12:00 AM']
+Monday: 11:00 AM – 12:00 AM`Tuesday: 11:00 AM – 12:00 AM`Wednesday: 11:00 AM – 12:00 AM`Thursday: 11:00 AM – 12:00 AM`Friday: 11:00 AM – 1:00 AM`Saturday: 11:00 AM – 1:00 AM`Sunday: 11:00 AM – 12:00 AM`
 price
 2
 rating
 4.3
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://www.woodstocksslo.com/
 reviews
@@ -8379,7 +8379,7 @@ not found
 rating
 not found
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://oldmissionschool.com/
 reviews
@@ -8392,13 +8392,13 @@ address
 phone
 (805) 545-8000
 hours
-['Monday: 11:30 AM  2:30 PM, 5:30  9:30 PM',Tuesday: 11:30 AM  2:30 PM, 5:30  9:30 PM',Wednesday: 11:30 AM  2:30 PM, 5:30  9:30 PM',Thursday: 11:30 AM  2:00 PM, 5:30  9:30 PM',Friday: 11:30 AM  2:30 PM, 5:30  10:00 PM',Saturday: 5:30  10:00 PM',Sunday: 5:30  9:30 PM']
+Monday: 11:30 AM – 2:30 PM, 5:30 – 9:30 PM`Tuesday: 11:30 AM – 2:30 PM, 5:30 – 9:30 PM`Wednesday: 11:30 AM – 2:30 PM, 5:30 – 9:30 PM`Thursday: 11:30 AM – 2:00 PM, 5:30 – 9:30 PM`Friday: 11:30 AM – 2:30 PM, 5:30 – 10:00 PM`Saturday: 5:30 – 10:00 PM`Sunday: 5:30 – 9:30 PM`
 price
 2
 rating
 4.5
 types
-['restaurant',food',point_of_interest',establishment']
+restaurant`food`point_of_interest`establishment`
 website
 http://www.btslo.com/
 reviews
@@ -8441,7 +8441,7 @@ not found
 rating
 not found
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://www.olivegrovecharter.org/
 reviews
@@ -8454,13 +8454,13 @@ address
 phone
 (805) 544-0801
 hours
-['Monday: 8:00 AM  5:00 PM',Tuesday: 8:00 AM  5:00 PM',Wednesday: 8:00 AM  5:00 PM',Thursday: 8:00 AM  5:00 PM',Friday: 8:00 AM  5:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 8:00 AM – 5:00 PM`Tuesday: 8:00 AM – 5:00 PM`Wednesday: 8:00 AM – 5:00 PM`Thursday: 8:00 AM – 5:00 PM`Friday: 8:00 AM – 5:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://www.childrensresource.org/
 reviews
@@ -8479,7 +8479,7 @@ not found
 rating
 3.2
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://www.foothillpreschool.org/
 reviews
@@ -8530,13 +8530,13 @@ address
 phone
 (805) 541-3320
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  6:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 10:00 AM  6:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 6:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 10:00 AM – 6:00 PM`
 price
 not found
 rating
 5
 types
-['shoe_store',health',store',point_of_interest',establishment']
+shoe_store`health`store`point_of_interest`establishment`
 website
 http://shoesurfing.com/
 reviews
@@ -8559,7 +8559,7 @@ not found
 rating
 5
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://pbhs.slcusd.org/
 reviews
@@ -8582,7 +8582,7 @@ not found
 rating
 not found
 types
-['school',health',point_of_interest',establishment']
+school`health`point_of_interest`establishment`
 website
 not found
 reviews
@@ -8601,7 +8601,7 @@ not found
 rating
 4
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://si.slcusd.org/
 reviews
@@ -8638,13 +8638,13 @@ address
 phone
 (805) 544-5194
 hours
-['Monday: 7:00 AM  6:00 PM',Tuesday: 7:00 AM  6:00 PM',Wednesday: 7:00 AM  6:00 PM',Thursday: 7:00 AM  6:00 PM',Friday: 7:00 AM  6:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 7:00 AM – 6:00 PM`Tuesday: 7:00 AM – 6:00 PM`Wednesday: 7:00 AM – 6:00 PM`Thursday: 7:00 AM – 6:00 PM`Friday: 7:00 AM – 6:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://www.kidzkornerslo.com/
 reviews
@@ -8657,13 +8657,13 @@ address
 phone
 (805) 546-9838
 hours
-['Monday: 9:00 AM  9:00 PM',Tuesday: 9:00 AM  9:00 PM',Wednesday: 9:00 AM  9:00 PM',Thursday: 9:00 AM  9:00 PM',Friday: 9:00 AM  9:00 PM',Saturday: 9:00 AM  7:00 PM',Sunday: 11:00 AM  7:00 PM']
+Monday: 9:00 AM – 9:00 PM`Tuesday: 9:00 AM – 9:00 PM`Wednesday: 9:00 AM – 9:00 PM`Thursday: 9:00 AM – 9:00 PM`Friday: 9:00 AM – 9:00 PM`Saturday: 9:00 AM – 7:00 PM`Sunday: 11:00 AM – 7:00 PM`
 price
 1
 rating
 3.2
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 https://www.payless.com/?utm_medium=search&utm_content=local&utm_campaign=3335&utm_source=google
 reviews
@@ -8706,7 +8706,7 @@ not found
 rating
 4.6
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://sm.slcusd.org/
 reviews
@@ -8743,13 +8743,13 @@ address
 phone
 (805) 543-2432
 hours
-['Monday: 11:00 AM  8:00 PM',Tuesday: 11:00 AM  8:00 PM',Wednesday: 11:00 AM  8:00 PM',Thursday: 11:00 AM  8:00 PM',Friday: 11:00 AM  8:00 PM',Saturday: 11:00 AM  8:00 PM',Sunday: Closed']
+Monday: 11:00 AM – 8:00 PM`Tuesday: 11:00 AM – 8:00 PM`Wednesday: 11:00 AM – 8:00 PM`Thursday: 11:00 AM – 8:00 PM`Friday: 11:00 AM – 8:00 PM`Saturday: 11:00 AM – 8:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.8
 types
-['clothing_store',shoe_store',store',point_of_interest',establishment']
+clothing_store`shoe_store`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -8787,7 +8787,7 @@ not found
 rating
 4.2
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://ha.slcusd.org/
 reviews
@@ -8824,13 +8824,13 @@ address
 phone
 (805) 548-1858
 hours
-['Monday: 10:00 AM  8:00 PM',Tuesday: 10:00 AM  8:00 PM',Wednesday: 10:00 AM  8:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  8:00 PM',Saturday: 10:00 AM  8:00 PM',Sunday: 11:00 AM  7:00 PM']
+Monday: 10:00 AM – 8:00 PM`Tuesday: 10:00 AM – 8:00 PM`Wednesday: 10:00 AM – 8:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 8:00 PM`Saturday: 10:00 AM – 8:00 PM`Sunday: 11:00 AM – 7:00 PM`
 price
 not found
 rating
 4.6
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://www.flipflopshops.com/
 reviews
@@ -8867,13 +8867,13 @@ address
 phone
 (805) 543-4054
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  8:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 12:00  5:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 8:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 12:00 – 5:00 PM`
 price
 not found
 rating
 4.5
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://www.charlesshoes.com/
 reviews
@@ -8916,7 +8916,7 @@ not found
 rating
 2.8
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://slohs.slcusd.org/
 reviews
@@ -8959,7 +8959,7 @@ not found
 rating
 5
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://bp.slcusd.org/
 reviews
@@ -8981,13 +8981,13 @@ address
 phone
 (805) 547-8700
 hours
-['Monday: 10:00 AM  8:00 PM',Tuesday: 10:00 AM  8:00 PM',Wednesday: 10:00 AM  8:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  8:00 PM',Saturday: 10:00 AM  8:00 PM',Sunday: 10:00 AM  7:00 PM']
+Monday: 10:00 AM – 8:00 PM`Tuesday: 10:00 AM – 8:00 PM`Wednesday: 10:00 AM – 8:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 8:00 PM`Saturday: 10:00 AM – 8:00 PM`Sunday: 10:00 AM – 7:00 PM`
 price
 not found
 rating
 5
 types
-['store',shoe_store',clothing_store',point_of_interest',establishment']
+store`shoe_store`clothing_store`point_of_interest`establishment`
 website
 http://www.bellab.com/
 reviews
@@ -9004,13 +9004,13 @@ address
 phone
 (877) 428-9447
 hours
-['Monday: 10:00 AM  5:30 PM',Tuesday: 10:00 AM  5:30 PM',Wednesday: 10:00 AM  5:30 PM',Thursday: 10:00 AM  5:30 PM',Friday: 10:00 AM  5:30 PM',Saturday: 10:00 AM  5:00 PM',Sunday: Closed']
+Monday: 10:00 AM – 5:30 PM`Tuesday: 10:00 AM – 5:30 PM`Wednesday: 10:00 AM – 5:30 PM`Thursday: 10:00 AM – 5:30 PM`Friday: 10:00 AM – 5:30 PM`Saturday: 10:00 AM – 5:00 PM`Sunday: Closed`
 price
 not found
 rating
 4.7
 types
-['shoe_store',clothing_store',store',point_of_interest',establishment']
+shoe_store`clothing_store`store`point_of_interest`establishment`
 website
 https://www.ghsports.com/
 reviews
@@ -9047,13 +9047,13 @@ address
 phone
 (805) 544-5227
 hours
-['Monday: 9:00 AM  6:00 PM',Tuesday: 9:00 AM  6:00 PM',Wednesday: 9:00 AM  6:00 PM',Thursday: 9:00 AM  6:00 PM',Friday: 9:00 AM  6:00 PM',Saturday: 9:00 AM  6:00 PM',Sunday: 10:00 AM  5:00 PM']
+Monday: 9:00 AM – 6:00 PM`Tuesday: 9:00 AM – 6:00 PM`Wednesday: 9:00 AM – 6:00 PM`Thursday: 9:00 AM – 6:00 PM`Friday: 9:00 AM – 6:00 PM`Saturday: 9:00 AM – 6:00 PM`Sunday: 10:00 AM – 5:00 PM`
 price
 not found
 rating
 4.7
 types
-['shopping_mall',store',point_of_interest',establishment']
+shopping_mall`store`point_of_interest`establishment`
 website
 http://lemospet.com/
 reviews
@@ -9090,13 +9090,13 @@ address
 phone
 (805) 434-9891
 hours
-['Monday: 8:30 AM  4:30 PM',Tuesday: 8:30 AM  4:30 PM',Wednesday: 8:30 AM  4:30 PM',Thursday: 8:30 AM  4:30 PM',Friday: 8:30 AM  4:30 PM',Saturday: Closed',Sunday: Closed']
+Monday: 8:30 AM – 4:30 PM`Tuesday: 8:30 AM – 4:30 PM`Wednesday: 8:30 AM – 4:30 PM`Thursday: 8:30 AM – 4:30 PM`Friday: 8:30 AM – 4:30 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 https://www.northwestboots.com/contact-us
 reviews
@@ -9115,7 +9115,7 @@ not found
 rating
 not found
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://sheepskinshoes.com/
 reviews
@@ -9134,7 +9134,7 @@ not found
 rating
 5
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://sloumc.com/
 reviews
@@ -9151,13 +9151,13 @@ address
 phone
 (805) 783-0544
 hours
-['Monday: 10:00 AM  9:00 PM',Tuesday: 10:00 AM  9:00 PM',Wednesday: 10:00 AM  9:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 12:00  6:00 PM']
+Monday: 10:00 AM – 9:00 PM`Tuesday: 10:00 AM – 9:00 PM`Wednesday: 10:00 AM – 9:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 12:00 – 6:00 PM`
 price
 3
 rating
 3.5
 types
-['shopping_mall',store',point_of_interest',establishment']
+shopping_mall`store`point_of_interest`establishment`
 website
 http://stores.sunglasshut.com/us/ca/san-luis-obispo/882-higuere-st.html?cid=YEXT_4123
 reviews
@@ -9179,13 +9179,13 @@ address
 phone
 (805) 545-7667
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  6:00 PM',Wednesday: 10:00 AM  6:00 PM',Thursday: 10:00 AM  6:00 PM',Friday: 10:00 AM  6:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 6:00 PM`Wednesday: 10:00 AM – 6:00 PM`Thursday: 10:00 AM – 6:00 PM`Friday: 10:00 AM – 6:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 not found
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://rompshoes.com/
 reviews
@@ -9198,13 +9198,13 @@ address
 phone
 (805) 541-1190
 hours
-['Monday: 10:00 AM  9:00 PM',Tuesday: 10:00 AM  9:00 PM',Wednesday: 10:00 AM  9:00 PM',Thursday: 10:00 AM  9:00 PM',Friday: 10:00 AM  9:00 PM',Saturday: 10:00 AM  9:00 PM',Sunday: 11:00 AM  8:00 PM']
+Monday: 10:00 AM – 9:00 PM`Tuesday: 10:00 AM – 9:00 PM`Wednesday: 10:00 AM – 9:00 PM`Thursday: 10:00 AM – 9:00 PM`Friday: 10:00 AM – 9:00 PM`Saturday: 10:00 AM – 9:00 PM`Sunday: 11:00 AM – 8:00 PM`
 price
 not found
 rating
 4
 types
-['shoe_store',clothing_store',store',point_of_interest',establishment']
+shoe_store`clothing_store`store`point_of_interest`establishment`
 website
 http://www.shoepalace.com/
 reviews
@@ -9250,7 +9250,7 @@ not found
 rating
 4
 types
-['school',point_of_interest',establishment']
+school`point_of_interest`establishment`
 website
 http://lams.slcusd.org/
 reviews
@@ -9293,7 +9293,7 @@ not found
 rating
 1
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9310,13 +9310,13 @@ address
 phone
 (805) 543-6662
 hours
-['Monday: 8:00 AM  7:00 PM',Tuesday: 8:00 AM  7:00 PM',Wednesday: 8:00 AM  7:00 PM',Thursday: 8:00 AM  9:00 PM',Friday: 8:00 AM  7:00 PM',Saturday: 10:00 AM  6:00 PM',Sunday: 11:00 AM  5:00 PM']
+Monday: 8:00 AM – 7:00 PM`Tuesday: 8:00 AM – 7:00 PM`Wednesday: 8:00 AM – 7:00 PM`Thursday: 8:00 AM – 9:00 PM`Friday: 8:00 AM – 7:00 PM`Saturday: 10:00 AM – 6:00 PM`Sunday: 11:00 AM – 5:00 PM`
 price
 not found
 rating
 4.5
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://www.takkens.com/
 reviews
@@ -9354,13 +9354,13 @@ address
 phone
 (805) 784-9590
 hours
-['Monday: 9:00 AM  5:30 PM',Tuesday: 9:00 AM  5:30 PM',Wednesday: 9:00 AM  5:30 PM',Thursday: 9:00 AM  5:30 PM',Friday: 9:00 AM  5:30 PM',Saturday: 10:00 AM  4:00 PM',Sunday: Closed']
+Monday: 9:00 AM – 5:30 PM`Tuesday: 9:00 AM – 5:30 PM`Wednesday: 9:00 AM – 5:30 PM`Thursday: 9:00 AM – 5:30 PM`Friday: 9:00 AM – 5:30 PM`Saturday: 10:00 AM – 4:00 PM`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['shoe_store',store',point_of_interest',establishment']
+shoe_store`store`point_of_interest`establishment`
 website
 http://www.saleshoeshack.com/
 reviews
@@ -9373,13 +9373,13 @@ address
 phone
 not found
 hours
-['Monday: Closed',Tuesday: Closed',Wednesday: Closed',Thursday: 7:00  9:00 PM',Friday: Closed',Saturday: Closed',Sunday: Closed']
+Monday: Closed`Tuesday: Closed`Wednesday: Closed`Thursday: 7:00 – 9:00 PM`Friday: Closed`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 not found
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9398,7 +9398,7 @@ not found
 rating
 not found
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9417,7 +9417,7 @@ not found
 rating
 4.2
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9460,7 +9460,7 @@ not found
 rating
 5
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9488,7 +9488,7 @@ not found
 rating
 not found
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9501,13 +9501,13 @@ address
 phone
 (805) 594-1900
 hours
-['Monday: 8:30 AM  10:00 PM',Tuesday: 8:30 AM  10:00 PM',Wednesday: 8:30 AM  10:00 PM',Thursday: 8:30 AM  10:00 PM',Friday: 8:30 AM  10:00 PM',Saturday: 8:30 AM  10:00 PM',Sunday: 8:30 AM  10:00 PM']
+Monday: 8:30 AM – 10:00 PM`Tuesday: 8:30 AM – 10:00 PM`Wednesday: 8:30 AM – 10:00 PM`Thursday: 8:30 AM – 10:00 PM`Friday: 8:30 AM – 10:00 PM`Saturday: 8:30 AM – 10:00 PM`Sunday: 8:30 AM – 10:00 PM`
 price
 not found
 rating
 not found
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9520,13 +9520,13 @@ address
 phone
 not found
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 4.1
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9563,13 +9563,13 @@ San Luis Obispo, CA 93405, USA
 phone
 not found
 hours
-['Monday: 9:00 AM  9:00 PM',Tuesday: 9:00 AM  9:00 PM',Wednesday: 9:00 AM  9:00 PM',Thursday: 9:00 AM  9:00 PM',Friday: 9:00 AM  9:00 PM',Saturday: 9:00 AM  9:00 PM',Sunday: 9:00 AM  9:00 PM']
+Monday: 9:00 AM – 9:00 PM`Tuesday: 9:00 AM – 9:00 PM`Wednesday: 9:00 AM – 9:00 PM`Thursday: 9:00 AM – 9:00 PM`Friday: 9:00 AM – 9:00 PM`Saturday: 9:00 AM – 9:00 PM`Sunday: 9:00 AM – 9:00 PM`
 price
 not found
 rating
 3.9
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9613,7 +9613,7 @@ not found
 rating
 4.1
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9658,7 +9658,7 @@ not found
 rating
 4.1
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9696,13 +9696,13 @@ Building 15, 1 Grand Ave, San Luis Obispo, CA 93405, USA
 phone
 (805) 756-1451
 hours
-['Monday: 8:00 AM  5:00 PM',Tuesday: 8:00 AM  5:00 PM',Wednesday: 8:00 AM  5:00 PM',Thursday: 8:00 AM  5:00 PM',Friday: 8:00 AM  5:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 8:00 AM – 5:00 PM`Tuesday: 8:00 AM – 5:00 PM`Wednesday: 8:00 AM – 5:00 PM`Thursday: 8:00 AM – 5:00 PM`Friday: 8:00 AM – 5:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.calpolycorporation.org/
 reviews
@@ -9730,7 +9730,7 @@ not found
 rating
 not found
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9743,13 +9743,13 @@ address
 phone
 (805) 788-0888
 hours
-['Monday: 9:30 AM  10:00 PM',Tuesday: 9:30 AM  10:00 PM',Wednesday: 9:30 AM  10:00 PM',Thursday: 9:30 AM  10:00 PM',Friday: 9:30 AM  10:00 PM',Saturday: 9:30 AM  10:00 PM',Sunday: 9:30 AM  10:00 PM']
+Monday: 9:30 AM – 10:00 PM`Tuesday: 9:30 AM – 10:00 PM`Wednesday: 9:30 AM – 10:00 PM`Thursday: 9:30 AM – 10:00 PM`Friday: 9:30 AM – 10:00 PM`Saturday: 9:30 AM – 10:00 PM`Sunday: 9:30 AM – 10:00 PM`
 price
 not found
 rating
 4.8
 types
-['spa',health',point_of_interest',establishment']
+spa`health`point_of_interest`establishment`
 website
 http://www.maxrelaxmassagespa.com/
 reviews
@@ -9786,13 +9786,13 @@ address
 phone
 (805) 267-1690
 hours
-['Monday: 8:00 AM  10:00 PM',Tuesday: 8:00 AM  10:00 PM',Wednesday: 8:00 AM  10:00 PM',Thursday: 8:00 AM  10:00 PM',Friday: 8:00 AM  4:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 8:00 AM – 10:00 PM`Tuesday: 8:00 AM – 10:00 PM`Wednesday: 8:00 AM – 10:00 PM`Thursday: 8:00 AM – 10:00 PM`Friday: 8:00 AM – 4:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 3.8
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.lauruscollege.edu/about-us/locations/san-luis-obispo/
 reviews
@@ -9831,7 +9831,7 @@ not found
 rating
 not found
 types
-['shopping_mall',point_of_interest',establishment']
+shopping_mall`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9850,7 +9850,7 @@ not found
 rating
 not found
 types
-['spa',health',point_of_interest',establishment']
+spa`health`point_of_interest`establishment`
 website
 http://www.the-mindspa.com/
 reviews
@@ -9863,13 +9863,13 @@ address
 phone
 (805) 748-6741
 hours
-['Monday: 11:00 AM  8:00 PM',Tuesday: 11:00 AM  8:00 PM',Wednesday: 11:00 AM  8:00 PM',Thursday: 11:00 AM  8:00 PM',Friday: 11:00 AM  8:00 PM',Saturday: 11:00 AM  8:00 PM',Sunday: 3:00  7:00 PM']
+Monday: 11:00 AM – 8:00 PM`Tuesday: 11:00 AM – 8:00 PM`Wednesday: 11:00 AM – 8:00 PM`Thursday: 11:00 AM – 8:00 PM`Friday: 11:00 AM – 8:00 PM`Saturday: 11:00 AM – 8:00 PM`Sunday: 3:00 – 7:00 PM`
 price
 not found
 rating
 4.8
 types
-['spa',health',point_of_interest',establishment']
+spa`health`point_of_interest`establishment`
 website
 http://www.annielaurie.com/
 reviews
@@ -9913,7 +9913,7 @@ not found
 rating
 not found
 types
-['shopping_mall',premise',point_of_interest',establishment']
+shopping_mall`premise`point_of_interest`establishment`
 website
 not found
 reviews
@@ -9932,7 +9932,7 @@ not found
 rating
 1
 types
-['spa',health',point_of_interest',establishment']
+spa`health`point_of_interest`establishment`
 website
 http://irejuvenate.com/
 reviews
@@ -9972,7 +9972,7 @@ not found
 rating
 4.6
 types
-['stadium',point_of_interest',establishment']
+stadium`point_of_interest`establishment`
 website
 http://www.slocity.org/Home/Components/FacilityDirectory/FacilityDirectory/18/956
 reviews
@@ -10015,7 +10015,7 @@ not found
 rating
 5
 types
-['stadium',point_of_interest',establishment']
+stadium`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10032,13 +10032,13 @@ address
 phone
 (805) 752-1223
 hours
-['Monday: 10:00 AM  6:00 PM',Tuesday: 10:00 AM  7:00 PM',Wednesday: 10:00 AM  7:00 PM',Thursday: 10:00 AM  7:00 PM',Friday: 10:00 AM  7:00 PM',Saturday: 10:00 AM  4:00 PM',Sunday: Closed']
+Monday: 10:00 AM – 6:00 PM`Tuesday: 10:00 AM – 7:00 PM`Wednesday: 10:00 AM – 7:00 PM`Thursday: 10:00 AM – 7:00 PM`Friday: 10:00 AM – 7:00 PM`Saturday: 10:00 AM – 4:00 PM`Sunday: Closed`
 price
 not found
 rating
 5
 types
-['spa',point_of_interest',establishment']
+spa`point_of_interest`establishment`
 website
 http://www.facetoface-spa.com/
 reviews
@@ -10081,7 +10081,7 @@ not found
 rating
 not found
 types
-['store',point_of_interest',establishment']
+store`point_of_interest`establishment`
 website
 http://www.signsofsuccess.net/
 reviews
@@ -10100,7 +10100,7 @@ not found
 rating
 3.4
 types
-['spa',lodging',point_of_interest',establishment']
+spa`lodging`point_of_interest`establishment`
 website
 http://www.slorosegardeninn.com/
 reviews
@@ -10143,7 +10143,7 @@ not found
 rating
 4.6
 types
-['spa',beauty_salon',point_of_interest',establishment']
+spa`beauty_salon`point_of_interest`establishment`
 website
 http://www.salonlux.com
 reviews
@@ -10186,7 +10186,7 @@ not found
 rating
 5
 types
-['spa',health',point_of_interest',establishment']
+spa`health`point_of_interest`establishment`
 website
 http://www.barefootmomease.com/
 reviews
@@ -10214,7 +10214,7 @@ not found
 rating
 4.6
 types
-['stadium',point_of_interest',establishment']
+stadium`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10251,13 +10251,13 @@ Frank E. Pilling Computer Science, Room 254, San Luis Obispo, CA 93407, USA
 phone
 (805) 756-5659
 hours
-['Monday: 9:00 AM  5:00 PM',Tuesday: 9:00 AM  5:00 PM',Wednesday: 9:00 AM  5:00 PM',Thursday: 9:00 AM  5:00 PM',Friday: 9:00 AM  5:00 PM',Saturday: Closed',Sunday: Closed']
+Monday: 9:00 AM – 5:00 PM`Tuesday: 9:00 AM – 5:00 PM`Wednesday: 9:00 AM – 5:00 PM`Thursday: 9:00 AM – 5:00 PM`Friday: 9:00 AM – 5:00 PM`Saturday: Closed`Sunday: Closed`
 price
 not found
 rating
 4
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.csc.calpoly.edu/~clupo
 reviews
@@ -10285,7 +10285,7 @@ not found
 rating
 4.2
 types
-['stadium',point_of_interest',establishment']
+stadium`point_of_interest`establishment`
 website
 http://www.calpoly.edu/
 reviews
@@ -10328,7 +10328,7 @@ not found
 rating
 5
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.ee.calpoly.edu/facilities/electrochemical/
 reviews
@@ -10351,7 +10351,7 @@ not found
 rating
 not found
 types
-['stadium',premise',point_of_interest',establishment']
+stadium`premise`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10364,13 +10364,13 @@ address
 phone
 (805) 781-6464
 hours
-['Monday: 9:00 AM  5:30 PM',Tuesday: 9:00 AM  5:30 PM',Wednesday: 9:00 AM  5:30 PM',Thursday: 9:00 AM  5:30 PM',Friday: 9:00 AM  5:30 PM',Saturday: 9:00 AM  5:30 PM',Sunday: 9:00 AM  5:30 PM']
+Monday: 9:00 AM – 5:30 PM`Tuesday: 9:00 AM – 5:30 PM`Wednesday: 9:00 AM – 5:30 PM`Thursday: 9:00 AM – 5:30 PM`Friday: 9:00 AM – 5:30 PM`Saturday: 9:00 AM – 5:30 PM`Sunday: 9:00 AM – 5:30 PM`
 price
 not found
 rating
 4.4
 types
-['store',point_of_interest',establishment']
+store`point_of_interest`establishment`
 website
 http://www.tennis-warehouse.com/
 reviews
@@ -10417,7 +10417,7 @@ not found
 rating
 not found
 types
-['stadium',premise',point_of_interest',establishment']
+stadium`premise`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10430,13 +10430,13 @@ address
 phone
 (805) 783-2500
 hours
-['Monday: 9:00 AM  7:00 PM',Tuesday: 9:00 AM  7:00 PM',Wednesday: 9:00 AM  7:00 PM',Thursday: 9:00 AM  7:00 PM',Friday: 9:00 AM  7:00 PM',Saturday: 10:00 AM  5:00 PM',Sunday: 12:00  7:00 PM']
+Monday: 9:00 AM – 7:00 PM`Tuesday: 9:00 AM – 7:00 PM`Wednesday: 9:00 AM – 7:00 PM`Thursday: 9:00 AM – 7:00 PM`Friday: 9:00 AM – 7:00 PM`Saturday: 10:00 AM – 5:00 PM`Sunday: 12:00 – 7:00 PM`
 price
 not found
 rating
 2.4
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.mustangvillage.com/
 reviews
@@ -10494,7 +10494,7 @@ not found
 rating
 not found
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10513,7 +10513,7 @@ not found
 rating
 5
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://engineering.calpoly.edu/
 reviews
@@ -10536,7 +10536,7 @@ not found
 rating
 not found
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.laverne.edu/
 reviews
@@ -10555,7 +10555,7 @@ not found
 rating
 5
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10578,7 +10578,7 @@ not found
 rating
 not found
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10597,7 +10597,7 @@ not found
 rating
 4.7
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.calpoly.edu/
 reviews
@@ -10641,7 +10641,7 @@ not found
 rating
 not found
 types
-['university',premise',point_of_interest',establishment']
+university`premise`point_of_interest`establishment`
 website
 not found
 reviews
@@ -10660,7 +10660,7 @@ not found
 rating
 not found
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.polygait.calpoly.edu/
 reviews
@@ -10679,7 +10679,7 @@ not found
 rating
 5
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://engineering.calpoly.edu/
 reviews
@@ -10702,7 +10702,7 @@ not found
 rating
 5
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.cob.calpoly.edu/
 reviews
@@ -10730,7 +10730,7 @@ not found
 rating
 5
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://www.provelab.com/
 reviews
@@ -10757,13 +10757,13 @@ Cerro Vista Community Center, Building 171G, Room 115A, San Luis Obispo, CA 9340
 phone
 (805) 756-6733
 hours
-['Monday: Open 24 hours',Tuesday: Open 24 hours',Wednesday: Open 24 hours',Thursday: Open 24 hours',Friday: Open 24 hours',Saturday: Open 24 hours',Sunday: Open 24 hours']
+Monday: Open 24 hours`Tuesday: Open 24 hours`Wednesday: Open 24 hours`Thursday: Open 24 hours`Friday: Open 24 hours`Saturday: Open 24 hours`Sunday: Open 24 hours`
 price
 not found
 rating
 not found
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 http://ihc.calpoly.edu/
 reviews
@@ -10782,7 +10782,7 @@ not found
 rating
 2.4
 types
-['university',cafe',health',restaurant',food',store',point_of_interest',establishment']
+university`cafe`health`restaurant`food`store`point_of_interest`establishment`
 website
 http://www.calpolydining.com/
 reviews
@@ -10831,7 +10831,7 @@ not found
 rating
 not found
 types
-['university',point_of_interest',establishment']
+university`point_of_interest`establishment`
 website
 not found
 reviews
