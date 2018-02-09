@@ -70,7 +70,6 @@ public class Place{
     * formats the hours. This could use some work, but I am not sure how we want to store the hours?
     */
    private String[] parseHours(String l){
-      System.out.println(l);
       if(l.equals("not found")){
          return null;
       }
