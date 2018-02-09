@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"tmp","startColumn":"A","endColumn":"D","startRow":"1","endRow":"+","comment":"","rule":"Individual: @A*\n   Types: @B*,@C*,@D*","active":true}]}

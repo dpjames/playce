@@ -23,9 +23,9 @@ public class DataReader{
       //}
       //System.out.println(goodTypes[goodTypes.length-1]);
       for(Place p : places){
-         System.out.print(p.name);
+         System.out.print(p.name.replace(",","").replace("|",""));
          for(String type : p.types){
-            System.out.print(","+type);
+            System.out.print(","+type.replace(",","").replace("|",""));
          }
          System.out.println();
       }
