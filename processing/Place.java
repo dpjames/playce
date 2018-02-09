@@ -38,7 +38,7 @@ public class Place{
       scan.nextLine();
       this.website = scan.nextLine();
       this.reviews = parseReviews(scan);
-      System.out.println(this.toString());
+      //System.out.println(this.toString());
    }
    /*
     * prints the place in a niceish way
