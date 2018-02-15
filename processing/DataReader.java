@@ -14,6 +14,7 @@ public class DataReader{
       while(scan.hasNextLine()){
          places.add(new Place(scan));
       }
+      //System.out.println(places.get(0));
       makeExcelSheet(places);
    }
    private static void makeExcelSheet(ArrayList<Place> places){
@@ -23,7 +24,9 @@ public class DataReader{
       //}
       //System.out.println(goodTypes[goodTypes.length-1]);
       for(Place p : places){
-         System.out.print(p.name.replace(",","").replace("|",""));
+         System.out.print(p.name.replace(",","").replace("|","") + ",");
+         System.out.print((p.price.equals("not found") ? "" : p.price.replace(",","").replace("|","") )+ ",");
+         System.out.print(p.rating.replace(",","").replace("|",""));
          for(String type : p.types){
             System.out.print(","+type.replace(",","").replace("|",""));
          }
