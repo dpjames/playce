@@ -1,22 +1,22 @@
 Steynberg Gallery,,4.6,art_gallery,cafe,food,store,point_of_interest,establishment
 Hands Gallery,,4.5,art_gallery,point_of_interest,establishment
 BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment
-Frame Works,,not found,art_gallery,store,point_of_interest,establishment
-Poster Markei,,not found,art_gallery,store,point_of_interest,establishment
+Frame Works,,,art_gallery,store,point_of_interest,establishment
+Poster Markei,,,art_gallery,store,point_of_interest,establishment
 Ascendo Coffee,,4.6,cafe,bakery,food,store,point_of_interest,establishment
 Copper Cafe,,3.7,cafe,bakery,restaurant,food,store,point_of_interest,establishment
-Creature Comfortz,,not found,aquarium,point_of_interest,establishment
+Creature Comfortz,,,aquarium,point_of_interest,establishment
 BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment
 Art Central,,4.6,art_gallery,store,point_of_interest,establishment
-Laddon Anne,,not found,art_gallery,point_of_interest,establishment
+Laddon Anne,,,art_gallery,point_of_interest,establishment
 House of Bread,,4.5,bakery,food,store,point_of_interest,establishment
 LEFT FIELD,,4.6,art_gallery,point_of_interest,establishment
 Matt Clark Tile & Stone,,4.4,art_gallery,general_contractor,home_goods_store,store,point_of_interest,establishment
-The John Landon Gallery,,not found,art_gallery,point_of_interest,establishment
-Cupcake Stylist,,not found,bakery,food,store,point_of_interest,establishment
+The John Landon Gallery,,,art_gallery,point_of_interest,establishment
+Cupcake Stylist,,,bakery,food,store,point_of_interest,establishment
 SLO Donut Co.,,4.7,bakery,food,store,point_of_interest,establishment
 Fastframe,2,5,art_gallery,store,point_of_interest,establishment
-San Luis Cookies,,not found,bakery,food,store,point_of_interest,establishment
+San Luis Cookies,,,bakery,food,store,point_of_interest,establishment
 BlackHorse Espresso & Bakery,,4.2,cafe,bakery,food,store,point_of_interest,establishment
 Slo Baked Bakeries,,5,bakery,food,store,point_of_interest,establishment
 Cowboy Cookie & Ice Cream,,3.8,bakery,food,store,point_of_interest,establishment
@@ -31,17 +31,17 @@ Panera Bread,1,3.6,bakery,cafe,meal_takeaway,restaurant,food,store,point_of_inte
 Bliss Cafe,1,4.6,bakery,cafe,restaurant,food,store,point_of_interest,establishment
 SLO Brew,2,3.7,bar,restaurant,food,point_of_interest,establishment
 Gene Francis Gallery,,5,art_gallery,point_of_interest,establishment
-The Claassen Gallery,,not found,art_gallery,clothing_store,store,point_of_interest,establishment
+The Claassen Gallery,,,art_gallery,clothing_store,store,point_of_interest,establishment
 Drew Davis Fine Art,,5,art_gallery,point_of_interest,establishment
-Carol Astaire Fine Arts,,not found,art_gallery,point_of_interest,establishment
+Carol Astaire Fine Arts,,,art_gallery,point_of_interest,establishment
 Just Looking Gallery,,4.6,art_gallery,point_of_interest,establishment
 Novo Restaurant & Lounge,2,4.4,meal_takeaway,bar,night_club,restaurant,food,point_of_interest,establishment
 Cloud 9 Smoke Shop,,4.4,art_gallery,store,point_of_interest,establishment
-Spirits of Africa Gallery,,not found,art_gallery,point_of_interest,establishment
+Spirits of Africa Gallery,,,art_gallery,point_of_interest,establishment
 Sally Loo's Wholesome Cafe,,4.6,cafe,bakery,food,store,point_of_interest,establishment
-Blackhorse Espresso & Bakery,,not found,bakery,food,store,point_of_interest,establishment
+Blackhorse Espresso & Bakery,,,bakery,food,store,point_of_interest,establishment
 BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment
-Larry Rhodes Photography,,not found,art_gallery,point_of_interest,establishment
+Larry Rhodes Photography,,,art_gallery,point_of_interest,establishment
 Hempshak,,4.4,clothing_store,art_gallery,jewelry_store,store,point_of_interest,establishment
 Giuseppe's Cucina Rustica,2,4.6,bar,restaurant,food,point_of_interest,establishment
 Cerro Caliente Cellars,,5,bar,food,store,point_of_interest,establishment
@@ -63,14 +63,14 @@ Big Sky Cafe,2,4.4,cafe,restaurant,food,point_of_interest,establishment
 Frog & Peach Pub,,4.3,bar,point_of_interest,establishment
 Spike's Pub,,4.3,bar,liquor_store,store,point_of_interest,establishment
 Mustang Lanes,,4.1,bowling_alley,point_of_interest,establishment
-Kindred Books,,not found,book_store,store,point_of_interest,establishment
-Rib Squeak Inc,,not found,book_store,store,point_of_interest,establishment
+Kindred Books,,,book_store,store,point_of_interest,establishment
+Rib Squeak Inc,,,book_store,store,point_of_interest,establishment
 Barnes & Noble,2,4.3,book_store,electronics_store,home_goods_store,store,point_of_interest,establishment
 Starbucks,2,4.3,cafe,food,store,point_of_interest,establishment
 Coastal Peaks Coffee,,4.6,cafe,food,store,point_of_interest,establishment
 McCarthy's Irish Pub,,4.3,bar,point_of_interest,establishment
 Starbucks,2,4.4,cafe,food,store,point_of_interest,establishment
-Coffee Diva,,not found,cafe,food,store,point_of_interest,establishment
+Coffee Diva,,,cafe,food,store,point_of_interest,establishment
 Cal Poly University Store,,4.4,book_store,clothing_store,store,point_of_interest,establishment
 Starbucks,2,4,cafe,food,store,point_of_interest,establishment
 Appendage + Bough,,5,book_store,electronics_store,clothing_store,home_goods_store,store,point_of_interest,establishment
@@ -92,7 +92,7 @@ Men's Wearhouse,2,3.9,clothing_store,store,point_of_interest,establishment
 Ross Dress for Less,1,3.9,clothing_store,department_store,shoe_store,store,point_of_interest,establishment
 The Sock Drawer,,4.6,clothing_store,store,point_of_interest,establishment
 DICK'S Sporting Goods,,3.9,shoe_store,clothing_store,store,point_of_interest,establishment
-URBAN OUTFITTERS,3,not found,clothing_store,food,store,point_of_interest,establishment
+URBAN OUTFITTERS,3,,clothing_store,food,store,point_of_interest,establishment
 Ambiance Clothing Boutique,,4,clothing_store,store,point_of_interest,establishment
 Left Coast T-Shirt Co,,4.9,clothing_store,store,point_of_interest,establishment
 Avanti,,5,clothing_store,store,point_of_interest,establishment
@@ -121,11 +121,11 @@ GYROTONIC® San Luis Obispo,,5,gym,health,point_of_interest,establishment
 lululemon,3,4,shoe_store,gym,health,clothing_store,store,point_of_interest,establishment
 Performance Athletics,,4.2,gym,health,point_of_interest,establishment
 Balance A Pilates Studio,,4,gym,health,point_of_interest,establishment
-The Oxygen Studio mild Hyperbaric Oxygen,,not found,gym,hair_care,doctor,health,store,point_of_interest,establishment
+The Oxygen Studio mild Hyperbaric Oxygen,,,gym,hair_care,doctor,health,store,point_of_interest,establishment
 SLO Yoga Center,,4.7,gym,health,point_of_interest,establishment
 Sanctuary Tobacco Shop,,4.7,home_goods_store,store,point_of_interest,establishment
-Slo Activity Center,,not found,gym,health,point_of_interest,establishment
-Central Coast Krav Maga,,not found,gym,health,store,point_of_interest,establishment
+Slo Activity Center,,,gym,health,point_of_interest,establishment
+Central Coast Krav Maga,,,gym,health,store,point_of_interest,establishment
 Beverly's Fabric & Crafts,,4.4,home_goods_store,store,point_of_interest,establishment
 San Luis Obispo Library,,4.2,library,point_of_interest,establishment
 Wine Shed,,4.7,bar,liquor_store,food,store,point_of_interest,establishment
@@ -133,12 +133,12 @@ San Luis Obispo Law Library,,4,library,point_of_interest,establishment
 Robert E. Kennedy Library,,4.6,library,point_of_interest,establishment
 California Polytechnic State University 1 Grand Ave San Luis Obispo USA,,1,library,point_of_interest,establishment
 The Station,,4.9,cafe,bar,liquor_store,food,store,point_of_interest,establishment
-Lending Library,,not found,library,point_of_interest,establishment
-Proof Wine Collective,,not found,bar,liquor_store,food,store,point_of_interest,establishment
+Lending Library,,,library,point_of_interest,establishment
+Proof Wine Collective,,,bar,liquor_store,food,store,point_of_interest,establishment
 Graduate Restaurants Inc,,3.8,restaurant,night_club,food,point_of_interest,establishment
 Wingstop,1,3.3,meal_takeaway,restaurant,food,point_of_interest,establishment
 Broad Street Ribline,,4.5,meal_delivery,restaurant,food,point_of_interest,establishment
-Blockbuster Express,1,not found,movie_rental,store,point_of_interest,establishment
+Blockbuster Express,1,,movie_rental,store,point_of_interest,establishment
 The Habit Burger Grill,,4.4,meal_takeaway,restaurant,food,point_of_interest,establishment
 Gino's Pizza SLO,,4.4,meal_delivery,restaurant,food,point_of_interest,establishment
 Which Wich Superior Sandwiches,1,4.3,meal_takeaway,restaurant,food,point_of_interest,establishment
@@ -166,13 +166,13 @@ San Luis Obispo Railroad Museum,,4.5,museum,point_of_interest,establishment
 Palm Theatre,,4.7,movie_theater,electronics_store,home_goods_store,store,point_of_interest,establishment
 Buffalo Wild Wings,1,3.6,meal_takeaway,bar,restaurant,food,point_of_interest,establishment
 San Luis Obispo Museum of Art,,4.8,museum,point_of_interest,establishment
-San Diego Museum Of Arts,,not found,museum,point_of_interest,establishment
+San Diego Museum Of Arts,,,museum,point_of_interest,establishment
 San Luis Obispo County Historical Museum,,5,museum,point_of_interest,establishment
 History Center of San Luis Obispo County,,4.8,museum,point_of_interest,establishment
 Fremont Theater,,4.6,movie_theater,electronics_store,home_goods_store,store,point_of_interest,establishment
 Veterans Memorial Building,,4.2,museum,point_of_interest,establishment
 Cuesta Park,,4.5,park,point_of_interest,establishment
-Pet Boutique,,not found,pet_store,store,point_of_interest,establishment
+Pet Boutique,,,pet_store,store,point_of_interest,establishment
 Sinsheimer Park,,4.5,park,point_of_interest,establishment
 Cheng Park,,3.9,park,point_of_interest,establishment
 Dallidet Adobe & Gardens,,4.3,park,point_of_interest,establishment
@@ -180,7 +180,7 @@ Stoneridge Park,,4.1,park,point_of_interest,establishment
 Leaning Pine Arboretum,,4.4,park,point_of_interest,establishment
 Bishop's Foothill Trailhead,,4.6,park,point_of_interest,establishment
 Santa Rosa Park,,4.5,park,point_of_interest,establishment
-Meadow Park,,not found,park,point_of_interest,establishment
+Meadow Park,,,park,point_of_interest,establishment
 Jack House & Gardens,,4.2,park,point_of_interest,establishment
 San Luis Obispo Home Show,,4,park,lodging,point_of_interest,establishment
 Dexter Lawn Cal Poly,,4.7,park,point_of_interest,establishment
@@ -189,19 +189,19 @@ E A French Park,,4.2,park,point_of_interest,establishment
 San Luis Obispo Baseball Stadium,,4.2,park,point_of_interest,establishment
 Meadow Park,,4.3,park,point_of_interest,establishment
 Cerro San Luis Obispo,,4.8,park,point_of_interest,establishment
-Stockton Field,,not found,park,point_of_interest,establishment
+Stockton Field,,,park,point_of_interest,establishment
 Wild Birds Unlimited,3,5,pet_store,food,store,point_of_interest,establishment
 Tropics,,4.1,pet_store,general_contractor,store,point_of_interest,establishment
 PetDoors.com,,5,pet_store,store,point_of_interest,establishment
 Thai Palace,2,4.4,restaurant,food,point_of_interest,establishment
-Migrant Education Program,,not found,school,point_of_interest,establishment
+Migrant Education Program,,,school,point_of_interest,establishment
 SLO Classical Academy High School,,4,school,point_of_interest,establishment
-ShoeSurfing.com,,not found,shoe_store,store,point_of_interest,establishment
+ShoeSurfing.com,,,shoe_store,store,point_of_interest,establishment
 SUBWAY®Restaurants,1,3.8,restaurant,food,point_of_interest,establishment
 Blue Sky Preschool,,5,school,point_of_interest,establishment
 Sushi Kokku,,4.3,restaurant,food,point_of_interest,establishment
 Cal Poly Ticket Office,,5,university,school,store,point_of_interest,establishment
-The Laureate School,,not found,school,point_of_interest,establishment
+The Laureate School,,,school,point_of_interest,establishment
 Mike's Shoes,,5,shoe_store,store,point_of_interest,establishment
 G-Brothers Smokehouse,1,4.2,restaurant,food,point_of_interest,establishment
 Shalimar Restaurant Indian Food,2,4.3,restaurant,food,point_of_interest,establishment
@@ -211,16 +211,16 @@ Thai Boat,2,4.8,restaurant,food,point_of_interest,establishment
 SUBWAY®Restaurants,1,4,restaurant,food,point_of_interest,establishment
 Mission College Preparatory Catholic High School,,3.9,school,point_of_interest,establishment
 Woodstock's Pizza SLO,2,4.3,restaurant,food,point_of_interest,establishment
-Old Mission Pre-School,,not found,school,point_of_interest,establishment
+Old Mission Pre-School,,,school,point_of_interest,establishment
 Buona Tavola,2,4.5,restaurant,food,point_of_interest,establishment
-Olive Grove Charter School,,not found,school,point_of_interest,establishment
-Child Development Resource Center of the Central Coast,,not found,school,point_of_interest,establishment
+Olive Grove Charter School,,,school,point_of_interest,establishment
+Child Development Resource Center of the Central Coast,,,school,point_of_interest,establishment
 Foothill Preschool-Infant Care,,3.2,school,point_of_interest,establishment
 Birkenstock,,5,shoe_store,health,store,point_of_interest,establishment
 Pacific Beach High School,,5,school,point_of_interest,establishment
-School of Martial Arts,,not found,school,health,point_of_interest,establishment
+School of Martial Arts,,,school,health,point_of_interest,establishment
 Sinsheimer Elementary School,,4,school,point_of_interest,establishment
-Kidz Korner Preschool,,not found,school,point_of_interest,establishment
+Kidz Korner Preschool,,,school,point_of_interest,establishment
 Payless ShoeSource,1,3.2,shoe_store,store,point_of_interest,establishment
 C. L. Smith Elementary School,,4.6,school,point_of_interest,establishment
 threadHUB,,4.8,clothing_store,shoe_store,store,point_of_interest,establishment
@@ -232,39 +232,39 @@ Bishop's Peak Elementary School,,5,school,point_of_interest,establishment
 B Bella LLC,,5,store,shoe_store,clothing_store,point_of_interest,establishment
 GH Sports,,4.7,shoe_store,clothing_store,store,point_of_interest,establishment
 Lemos,,4.7,shopping_mall,store,point_of_interest,establishment
-Northwestboots,,not found,shoe_store,store,point_of_interest,establishment
-SheepskinShoes.com,,not found,shoe_store,store,point_of_interest,establishment
+Northwestboots,,,shoe_store,store,point_of_interest,establishment
+SheepskinShoes.com,,,shoe_store,store,point_of_interest,establishment
 United Methodist Children Center,,5,school,point_of_interest,establishment
 Sunglass Hut,3,3.5,shopping_mall,store,point_of_interest,establishment
-Romp,,not found,shoe_store,store,point_of_interest,establishment
+Romp,,,shoe_store,store,point_of_interest,establishment
 Shoe Palace,,4,shoe_store,clothing_store,store,point_of_interest,establishment
 Laguna Middle School,,4,school,point_of_interest,establishment
 Takken Enterprises Wherehouse,,1,shoe_store,store,point_of_interest,establishment
 Takkens - Shoes  Boots  Sandals,,4.5,shoe_store,store,point_of_interest,establishment
-Sale Shoe Shack,,not found,shoe_store,store,point_of_interest,establishment
-Fwria San Luis Obispo,,not found,shopping_mall,point_of_interest,establishment
-San Luis Obispo California Usa,,not found,shopping_mall,point_of_interest,establishment
+Sale Shoe Shack,,,shoe_store,store,point_of_interest,establishment
+Fwria San Luis Obispo,,,shopping_mall,point_of_interest,establishment
+San Luis Obispo California Usa,,,shopping_mall,point_of_interest,establishment
 Slo Promenade,,4.2,shopping_mall,point_of_interest,establishment
 Smoke & Vape,,5,shopping_mall,point_of_interest,establishment
-TENWISE PARK,,not found,shopping_mall,point_of_interest,establishment
-Laguna Smoke Shop,,not found,shopping_mall,point_of_interest,establishment
+TENWISE PARK,,,shopping_mall,point_of_interest,establishment
+Laguna Smoke Shop,,,shopping_mall,point_of_interest,establishment
 University Square,,4.1,shopping_mall,point_of_interest,establishment
 Central Coast Plaza Shopping Center,,3.9,shopping_mall,point_of_interest,establishment
 The Network Shopping Center,,4.1,shopping_mall,point_of_interest,establishment
 Madonna Plaza Shopping Center,,4.1,shopping_mall,point_of_interest,establishment
 Cal Poly Corporation,,5,university,point_of_interest,establishment
-Bear Valley Center,,not found,shopping_mall,point_of_interest,establishment
+Bear Valley Center,,,shopping_mall,point_of_interest,establishment
 Max Relax - Chinese Reflexology & Accupressure,,4.8,spa,health,point_of_interest,establishment
 Laurus College - San Luis Obispo,,3.8,university,point_of_interest,establishment
-Foot Spa,,not found,shopping_mall,point_of_interest,establishment
-Mind Spa Hypnosis,,not found,spa,health,point_of_interest,establishment
+Foot Spa,,,shopping_mall,point_of_interest,establishment
+Mind Spa Hypnosis,,,spa,health,point_of_interest,establishment
 Annie Laurie Whole Body Therapy and SLO Massage,,4.8,spa,health,point_of_interest,establishment
-Foothill Plaza Shopping Center,,not found,shopping_mall,premise,point_of_interest,establishment
+Foothill Plaza Shopping Center,,,shopping_mall,premise,point_of_interest,establishment
 Rejuvenation Medical Skincare,,1,spa,health,point_of_interest,establishment
 Sinsheimer Park Baseball Stdm,,4.6,stadium,point_of_interest,establishment
 Bob Janssen Field,,5,stadium,point_of_interest,establishment
 Face to Face,,5,spa,point_of_interest,establishment
-Signs of Success,,not found,store,point_of_interest,establishment
+Signs of Success,,,store,point_of_interest,establishment
 Rose Garden Inn,,3.4,spa,lodging,point_of_interest,establishment
 Spoke SLO,,4.6,spa,beauty_salon,point_of_interest,establishment
 Barefoot MomEase Wellness Spa,,5,spa,health,point_of_interest,establishment
@@ -272,21 +272,21 @@ Baggett Stadium,,4.6,stadium,point_of_interest,establishment
 Department Chair Computer Science and Software Engineering,,4,university,point_of_interest,establishment
 Alex G. Spanos Stadium,,4.2,stadium,point_of_interest,establishment
 Cal Poly Battery Lab,,5,university,point_of_interest,establishment
-Spandos Stadium,,not found,stadium,premise,point_of_interest,establishment
+Spandos Stadium,,,stadium,premise,point_of_interest,establishment
 Tennis Warehouse,,4.4,store,point_of_interest,establishment
-Track,,not found,stadium,premise,point_of_interest,establishment
+Track,,,stadium,premise,point_of_interest,establishment
 Mustang Village Apartments,,2.4,university,point_of_interest,establishment
-Chase Hall - 115,,not found,university,point_of_interest,establishment
+Chase Hall - 115,,,university,point_of_interest,establishment
 41A Brown Engineering,,5,university,point_of_interest,establishment
-University of La Verne Central,,not found,university,point_of_interest,establishment
+University of La Verne Central,,,university,point_of_interest,establishment
 Trinity Hall,,5,university,point_of_interest,establishment
-Faculty Offices North,,not found,university,point_of_interest,establishment
+Faculty Offices North,,,university,point_of_interest,establishment
 California Polytechnic State University,,4.7,university,point_of_interest,establishment
-1 Grand Ave,,not found,university,premise,point_of_interest,establishment
-PolyGAIT Center,,not found,university,point_of_interest,establishment
+1 Grand Ave,,,university,premise,point_of_interest,establishment
+PolyGAIT Center,,,university,point_of_interest,establishment
 192 Engineering IV,,5,university,point_of_interest,establishment
 Orfalea College Of Business,,5,university,point_of_interest,establishment
 PROVE Lab - Prototype Vehicles Laboratory,,5,university,point_of_interest,establishment
-ROLO - Residential Outreach & Leadership Office,,not found,university,point_of_interest,establishment
+ROLO - Residential Outreach & Leadership Office,,,university,point_of_interest,establishment
 Cal Poly Dining,,2.4,university,cafe,health,restaurant,food,store,point_of_interest,establishment
-Research Development Center,,not found,university,point_of_interest,establishment
+Research Development Center,,,university,point_of_interest,establishment

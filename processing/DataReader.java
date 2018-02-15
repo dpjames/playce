@@ -26,7 +26,7 @@ public class DataReader{
       for(Place p : places){
          System.out.print(p.name.replace(",","").replace("|","") + ",");
          System.out.print((p.price.equals("not found") ? "" : p.price.replace(",","").replace("|","") )+ ",");
-         System.out.print(p.rating.replace(",","").replace("|",""));
+         System.out.print((p.rating.equals("not found") ? "" : p.rating.replace(",","").replace("|","") ));
          for(String type : p.types){
             System.out.print(","+type.replace(",","").replace("|",""));
          }
