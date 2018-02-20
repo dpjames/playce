@@ -1,4 +1,6 @@
 #!/bin/bash
 
-javac *.java
-java DataReader betaDataPoints
+
+javac -cp '.:javax.json-1.1.jar' *.java
+
+java -cp '.:javax.json-1.1.jar' DataReader

@@ -1,28 +1,34 @@
 import java.util.*;
 import java.io.*;
-/*
- * the main program to read in data and parse it into a Place object
- * Data needs to be in the format given by the python file in ../datagrab/google/parse.py
- * see betaDataGrab for example.
- */
+
 public class DataReader{
-   public static void main(String[] args) throws Exception{
-      //System.out.println("readin file " + args[0]);
-      File f = new File(args[0]);
+   public static void main(String[] args){
       ArrayList<Place> places = new ArrayList<Place>();
-      Scanner scan = new Scanner(f);
-      while(scan.hasNextLine()){
-         places.add(new Place(scan));
-      }
-      //System.out.println(places.get(0));
-      makeExcelSheet(places);
+      System.out.println(places.size());
+      readGoogle(places);
+      //System.out.println(places);
+      System.out.println(places.size());
+      readYelp(places);
+      System.out.println(places.size());
    }
+   private static void readYelp(ArrayList<Place> places){
+      Grabber.yelp(places);
+   }
+   private static void readGoogle(ArrayList<Place> places){
+      try{
+         File f = new File("googleData");
+         Scanner scan = new Scanner(f);
+         while(scan.hasNextLine()){
+            places.add(new Place(scan));
+         }
+      }catch(Exception e){
+         e.printStackTrace();  
+         System.out.println("googleData could not be parsed. check the file");
+      }
+   }
+
+
    private static void makeExcelSheet(ArrayList<Place> places){
-   //String[] goodTypes = {"amusement_park","aquarium","art_gallery","bakery","bar","book_store","bowling_alley","cafe","campground","casino","clothing_store","department_store","gym","home_goods_store","library","meal_delivery","meal_takeaway","movie_rental","movie_theater","museum","night_club","park","pet_store","restaurant","school","shoe_store","shopping_mall","spa","stadium","store","university","zoo"};
-      //for(int i = 0 ; i < goodTypes.length-1; i++){
-      //   System.out.print(goodTypes[i] + ",");
-      //}
-      //System.out.println(goodTypes[goodTypes.length-1]);
       for(Place p : places){
          System.out.print(p.name.replace(",","").replace("|","") + ",");
          System.out.print((p.price.equals("not found") ? "" : p.price.replace(",","").replace("|","") )+ ",");

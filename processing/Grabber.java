@@ -4,10 +4,14 @@ import java.io.*;
 import javax.json.*;
 public class Grabber{
    private static ArrayList<Place> places = new ArrayList<Place>(); 
-   public static void main(String[] args) throws Exception{
-
-      sendGet();
-      System.out.println(places);
+   public static void yelp(ArrayList<Place> places){
+      try{
+         Grabber.places = places;
+         sendGet();
+      }catch(Exception e){
+         e.printStackTrace();
+         System.out.println("something went really wrong");
+      }
    }
 	private static void sendGet() throws Exception {
       for(int offset = 0; offset < 350; offset+=50){      
@@ -68,10 +72,7 @@ public class Grabber{
          //get phone
          String phone = curbiz.getJsonString("phone").toString().replace("\"", "");
          if(phone.equals("")) phone = "not found";
-         
-         //hours :(
-         String hours = "TODO"; //TODO
-
+        
          //price
          JsonString p = curbiz.getJsonString("price");
          String price = "";
@@ -87,18 +88,62 @@ public class Grabber{
 
          //rating
          String rating = ""+curbiz.getJsonNumber("rating").doubleValue();
+ 
          //reviews
-            ArrayList<Place.Review> reviews;
+         ArrayList<Place.Review> reviews;
          try{
             reviews = getReviews(curbiz.getJsonString("id").getString());
          }catch(Exception e){
             reviews = null;
          }
+         //hours
+         //
+         String hours = "not found";
+         try{
+            hours = getHours(curbiz.getJsonString("id").getString());
+         }catch(Exception e){
+            
+         }
          places.add(new Place(name, types, address, phone, hours, price, website, rating, reviews));
       }
    }
+   private static String getHours(String id) throws Exception{
+         String url = "https://api.yelp.com/v3/businesses/"+id;
+         URL obj = new URL(url);
+         HttpURLConnection con = (HttpURLConnection) obj.openConnection();
+         con.setRequestMethod("GET");
+         con.setRequestProperty("Authorization", "Bearer glpSGemo5dTZBl2LonEgLTDuiYZa_4p0QroONqgHxOnX1wFOAib951FMxOs_w6-gQoziXG4lPsX6pK6mX5b1JO0W6ZL_kNBDIPHKt9mJGMhLytwkt5OhPW7BYVpvWnYx");
+         int responseCode = con.getResponseCode();
+         BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+         String inputLine;
+         StringBuffer response = new StringBuffer();
+         while ((inputLine = in.readLine()) != null) {
+            response.append(inputLine);
+         }
+         in.close();
+
+         JsonReader jsonread = Json.createReader(new StringReader(response.toString()));
+         JsonObject ob = jsonread.readObject();
+         jsonread.close();
+         String ret = "";
+        try{ 
+         JsonArray hours = ob.getJsonArray("hours");
+         JsonArray open = hours.getJsonObject(0).getJsonArray("open");
+         String[] days = {"monday","tuesday","wednesday","thursday","friday","saturday","sunday"};
+         for(JsonValue day : open){
+            JsonObject curday = (JsonObject) day;
+            String strday = days[curday.getInt("day")];
+            ret += (strday + ": " + curday.getJsonString("start").getString() + " - " + curday.getJsonString("end").getString() + ", ");
+         }
+         System.out.println(ret);
+        }catch(Exception e){
+            ret = "not found";
+        }
+         return ret;
+
+   }
    private static ArrayList<Place.Review> getReviews(String id) throws Exception{
-      String url = "https://api.yelp.com/v3/businesses/"+id+"/reviews";
+         String url = "https://api.yelp.com/v3/businesses/"+id+"/reviews";
          URL obj = new URL(url);
          HttpURLConnection con = (HttpURLConnection) obj.openConnection();
          con.setRequestMethod("GET");

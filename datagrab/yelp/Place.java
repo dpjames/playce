@@ -10,7 +10,7 @@ public class Place{
    public String name;
    public String address;
    public String phone;
-   public String hours;
+   public String[] hours;
    public String price;
    public String rating;
    public ArrayList<String> types;
@@ -28,7 +28,7 @@ public class Place{
       scan.nextLine();
       this.phone = scan.nextLine();
       scan.nextLine();
-      this.hours = scan.nextLine();//parseHours(scan.nextLine());
+      this.hours = parseHours(scan.nextLine());
       scan.nextLine();
       this.price = scan.nextLine();
       scan.nextLine();
@@ -40,11 +40,12 @@ public class Place{
       this.reviews = parseReviews(scan);
       //System.out.println(this.toString());
    }
-   public Place(String name, ArrayList<String> types, String address, String phone, String hours, String price, String website, String rating, ArrayList<Review> reviews){
+   public Place(String name, ArrayList<String> types, String address, String phome, String hours, String price, String website, String rating, ArrayList<Review> reviews){
       this.name = name;
       this.address = address;
       this.phone = phone;
-      this.hours = hours;
+      this.hours = new String[1];
+      this.hours[0] = hours;
       this.price = price;
       this.rating = rating;
       this.types = types;
@@ -59,14 +60,11 @@ public class Place{
       ret+=this.name + "\n";
       ret+=this.address + "\n";
       ret+=this.phone + "\n";
-      /*
       for(int i = 0; i < 7 ;i ++){
          if(this.hours != null){
             ret+=this.hours[i] + " ";
          }
       }
-      */
-      ret+=hours;
       ret+="\n";
       ret+=this.price + "\n";
       ret+=this.rating + "\n";
@@ -140,7 +138,6 @@ public class Place{
       return ret;
 
    }
-
    public static class Review{
       String text;
       String rating;
