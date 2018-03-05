@@ -6,9 +6,64 @@ public class DataReader{
       ArrayList<Place> places = new ArrayList<Place>();
       //readGoogle(places);
       //readYelp(places);
-      readFromFile(places);
       //writeToFile(places);
-      System.out.println(places.size());
+      readFromFile(places);
+      unDup(places);
+      findKnowledge(places); 
+      //System.out.println(places);
+      makeExcelSheet(places);
+   }
+   private static void findKnowledge(ArrayList<Place> places){
+      for(Place p : places){
+         int outdoor = 0;
+         int dance = 0;
+         int date = 0;
+         int bike = 0;
+         for(Place.Review r : p.reviews){
+            String[] text = r.text.split("\\s+");
+            for (String s : text){
+               outdoor+= s.equalsIgnoreCase("outside")
+                  || s.equalsIgnoreCase("outdoor")
+                  || s.equalsIgnoreCase("hike") 
+                  || s.equalsIgnoreCase("hiking") 
+                  || s.equalsIgnoreCase("peak") 
+                  || s.equalsIgnoreCase("trail") 
+                  ? 1 : 0;
+               date+= s.equalsIgnoreCase("date") ? 1 : 0;
+               dance+= s.equalsIgnoreCase("dance") ? 1 : 0;
+               bike+= s.equalsIgnoreCase("bike") ? 1 : 0;
+               
+            }
+            
+         }
+         if(outdoor != 0){
+            p.types.add("outdoor");
+         }
+         if(date != 0){
+            p.types.add("date");
+         }
+         if(dance !=0){
+            p.types.add("dance");
+         }
+      }
+   }
+   private static void unDup(ArrayList<Place> places){
+      for(int i = 0; i < places.size();i++){
+         String name = places.get(i).name;
+         //System.out.println(name);
+         for(int j = i + 1; j < places.size();j++){
+            if(places.get(j).name.replace("\"","").equalsIgnoreCase(name) && places.get(j).address.charAt(0) == places.get(i).address.charAt(0)){
+               //System.out.println(places.get(j).name);
+               
+               //System.out.println(name);
+               //Will implement data merge here
+               Place other = places.get(j);
+               places.remove(j--);
+               places.get(i).types.addAll(other.types);
+               places.get(i).reviews.addAll(other.reviews);
+            }
+         }
+      }
    }
    private static void readFromFile(ArrayList<Place> places) throws Exception{
       Scanner scan = new Scanner(new File("places.txt"));

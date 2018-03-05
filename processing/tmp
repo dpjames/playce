@@ -1,15 +1,15 @@
-Steynberg Gallery,,4.6,art_gallery,cafe,food,store,point_of_interest,establishment
-Hands Gallery,,4.5,art_gallery,point_of_interest,establishment
-BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment
+Steynberg Gallery,,4.6,art_gallery,cafe,food,store,point_of_interest,establishment,"Art Galleries","Coffee & Tea","Music Venues"
+Hands Gallery,,4.5,art_gallery,point_of_interest,establishment,outdoor
+BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment,cafe,bakery,food,store,point_of_interest,establishment,bakery,food,store,point_of_interest,establishment
 Frame Works,,,art_gallery,store,point_of_interest,establishment
 Poster Markei,,,art_gallery,store,point_of_interest,establishment
-Ascendo Coffee,,4.6,cafe,bakery,food,store,point_of_interest,establishment
-Copper Cafe,,3.7,cafe,bakery,restaurant,food,store,point_of_interest,establishment
+Ascendo Coffee,,4.6,cafe,bakery,food,store,point_of_interest,establishment,"Coffee & Tea","Bakeries","Cafes"
+Copper Cafe,,3.7,cafe,bakery,restaurant,food,store,point_of_interest,establishment,dance
 Creature Comfortz,,,aquarium,point_of_interest,establishment
-BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment
+BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment,outdoor
 Art Central,,4.6,art_gallery,store,point_of_interest,establishment
 Laddon Anne,,,art_gallery,point_of_interest,establishment
-House of Bread,,4.5,bakery,food,store,point_of_interest,establishment
+House of Bread,,4.5,bakery,food,store,point_of_interest,establishment,"Bakeries","Delis"
 LEFT FIELD,,4.6,art_gallery,point_of_interest,establishment
 Matt Clark Tile & Stone,,4.4,art_gallery,general_contractor,home_goods_store,store,point_of_interest,establishment
 The John Landon Gallery,,,art_gallery,point_of_interest,establishment
@@ -17,82 +17,79 @@ Cupcake Stylist,,,bakery,food,store,point_of_interest,establishment
 SLO Donut Co.,,4.7,bakery,food,store,point_of_interest,establishment
 Fastframe,2,5,art_gallery,store,point_of_interest,establishment
 San Luis Cookies,,,bakery,food,store,point_of_interest,establishment
-BlackHorse Espresso & Bakery,,4.2,cafe,bakery,food,store,point_of_interest,establishment
 Slo Baked Bakeries,,5,bakery,food,store,point_of_interest,establishment
 Cowboy Cookie & Ice Cream,,3.8,bakery,food,store,point_of_interest,establishment
 Einstein Bros. Bagels,1,3.6,bakery,cafe,restaurant,food,store,point_of_interest,establishment
 Splash Café,2,4.4,bakery,restaurant,food,store,point_of_interest,establishment
-Laguna Grill,,4.3,bar,restaurant,food,point_of_interest,establishment
-Luna Red,2,4.3,bar,restaurant,food,point_of_interest,establishment
+Laguna Grill,,4.3,bar,restaurant,food,point_of_interest,establishment,"Burgers","Sports Bars","Barbeque"
+Luna Red,2,4.3,bar,restaurant,food,point_of_interest,establishment,"Tapas/Small Plates","American (New)","Latin American"
 Emily’s Cinnamon Rolls,,3.5,bakery,food,store,point_of_interest,establishment
-House of Bagels Central Coast,1,4.2,bakery,food,store,point_of_interest,establishment
-Tahoe Joe's,2,4,bar,restaurant,food,point_of_interest,establishment
-Panera Bread,1,3.6,bakery,cafe,meal_takeaway,restaurant,food,store,point_of_interest,establishment
-Bliss Cafe,1,4.6,bakery,cafe,restaurant,food,store,point_of_interest,establishment
-SLO Brew,2,3.7,bar,restaurant,food,point_of_interest,establishment
+House of Bagels Central Coast,1,4.2,bakery,food,store,point_of_interest,establishment,"Coffee & Tea","Breakfast & Brunch","Sandwiches"
+Tahoe Joe's,2,4,bar,restaurant,food,point_of_interest,establishment,"Steakhouses","American (Traditional)","Bars"
+Panera Bread,1,3.6,bakery,cafe,meal_takeaway,restaurant,food,store,point_of_interest,establishment,"Sandwiches","Salad","Soup"
+Bliss Cafe,1,4.6,bakery,cafe,restaurant,food,store,point_of_interest,establishment,"Juice Bars & Smoothies","Vegan","Vegetarian"
+SLO Brew,2,3.7,bar,restaurant,food,point_of_interest,establishment,"Music Venues","Gastropubs","Breweries",outdoor
 Gene Francis Gallery,,5,art_gallery,point_of_interest,establishment
 The Claassen Gallery,,,art_gallery,clothing_store,store,point_of_interest,establishment
 Drew Davis Fine Art,,5,art_gallery,point_of_interest,establishment
 Carol Astaire Fine Arts,,,art_gallery,point_of_interest,establishment
 Just Looking Gallery,,4.6,art_gallery,point_of_interest,establishment
-Novo Restaurant & Lounge,2,4.4,meal_takeaway,bar,night_club,restaurant,food,point_of_interest,establishment
+Novo Restaurant & Lounge,2,4.4,meal_takeaway,bar,night_club,restaurant,food,point_of_interest,establishment,"American (New)","Lounges",outdoor,date
 Cloud 9 Smoke Shop,,4.4,art_gallery,store,point_of_interest,establishment
 Spirits of Africa Gallery,,,art_gallery,point_of_interest,establishment
-Sally Loo's Wholesome Cafe,,4.6,cafe,bakery,food,store,point_of_interest,establishment
-Blackhorse Espresso & Bakery,,,bakery,food,store,point_of_interest,establishment
+Sally Loo's Wholesome Cafe,,4.6,cafe,bakery,food,store,point_of_interest,establishment,"Cafes","Breakfast & Brunch",outdoor
 BlackHorse Espresso & Bakery,,4.4,cafe,bakery,food,store,point_of_interest,establishment
 Larry Rhodes Photography,,,art_gallery,point_of_interest,establishment
 Hempshak,,4.4,clothing_store,art_gallery,jewelry_store,store,point_of_interest,establishment
-Giuseppe's Cucina Rustica,2,4.6,bar,restaurant,food,point_of_interest,establishment
+Giuseppe's Cucina Rustica,2,4.6,bar,restaurant,food,point_of_interest,establishment,"Italian","Bars","Pizza",outdoor,date
 Cerro Caliente Cellars,,5,bar,food,store,point_of_interest,establishment
-Central Coast Brewing,,4.8,bar,liquor_store,food,store,point_of_interest,establishment
-Koberl At Blue,2,4.4,bar,restaurant,food,point_of_interest,establishment
-Luis Wine Bar,,4.5,bar,night_club,food,point_of_interest,establishment
-Central Coast Wines,,4.7,bar,liquor_store,food,store,point_of_interest,establishment
-Tap It Brewing Co.,,4.7,bar,restaurant,food,point_of_interest,establishment
-Creeky Tiki,,3.6,bar,restaurant,food,point_of_interest,establishment
-Sidecar,,4.4,bar,restaurant,food,point_of_interest,establishment
-Mo's Smokehouse BBQ,2,3.9,restaurant,bar,food,point_of_interest,establishment
-Black Sheep Bar & Grill,,4.4,bar,restaurant,food,point_of_interest,establishment
-McDonald's,1,3.4,cafe,restaurant,food,store,point_of_interest,establishment
+Central Coast Brewing,,4.8,bar,liquor_store,food,store,point_of_interest,establishment,outdoor
+Koberl At Blue,2,4.4,bar,restaurant,food,point_of_interest,establishment,"American (New)",date
+Luis Wine Bar,,4.5,bar,night_club,food,point_of_interest,establishment,"Wine Bars","Beer Wine & Spirits","Lounges",outdoor
+Central Coast Wines,,4.7,bar,liquor_store,food,store,point_of_interest,establishment,"Beer Wine & Spirits","Wine Bars"
+Tap It Brewing Co.,,4.7,bar,restaurant,food,point_of_interest,establishment,outdoor
+Creeky Tiki,,3.6,bar,restaurant,food,point_of_interest,establishment,outdoor
+Sidecar,,4.4,bar,restaurant,food,point_of_interest,establishment,"American (New)","Cocktail Bars"
+Mo's Smokehouse BBQ,2,3.9,restaurant,bar,food,point_of_interest,establishment,"Barbeque","Burgers","Smokehouse","Barbeque"
+Black Sheep Bar & Grill,,4.4,bar,restaurant,food,point_of_interest,establishment,"Bars","American (New)"
+McDonald's,1,3.4,cafe,restaurant,food,store,point_of_interest,establishment,"Fast Food","Burgers","Coffee & Tea"
 Phoenix Books,,4.6,book_store,store,point_of_interest,establishment
-Del Monte Cafe,1,4.2,cafe,restaurant,food,point_of_interest,establishment
-Peet's Coffee,1,4.4,cafe,food,store,point_of_interest,establishment
-Gennaro's Grill & Garden,,4.7,bar,restaurant,food,point_of_interest,establishment
-Big Sky Cafe,2,4.4,cafe,restaurant,food,point_of_interest,establishment
-Frog & Peach Pub,,4.3,bar,point_of_interest,establishment
-Spike's Pub,,4.3,bar,liquor_store,store,point_of_interest,establishment
-Mustang Lanes,,4.1,bowling_alley,point_of_interest,establishment
+Del Monte Cafe,1,4.2,cafe,restaurant,food,point_of_interest,establishment,"American (Traditional)","Breakfast & Brunch",outdoor
+Peet's Coffee,1,4.4,cafe,food,store,point_of_interest,establishment,"Coffee & Tea"
+Gennaro's Grill & Garden,,4.7,bar,restaurant,food,point_of_interest,establishment,"American (Traditional)","Italian","Seafood"
+Big Sky Cafe,2,4.4,cafe,restaurant,food,point_of_interest,establishment,"Vegetarian","American (New)","Mediterranean"
+Frog & Peach Pub,,4.3,bar,point_of_interest,establishment,"Pubs","Music Venues",outdoor
+Spike's Pub,,4.3,bar,liquor_store,store,point_of_interest,establishment,"Pubs","American (Traditional)"
+Mustang Lanes,,4.1,bowling_alley,point_of_interest,establishment,outdoor
 Kindred Books,,,book_store,store,point_of_interest,establishment
 Rib Squeak Inc,,,book_store,store,point_of_interest,establishment
 Barnes & Noble,2,4.3,book_store,electronics_store,home_goods_store,store,point_of_interest,establishment
-Starbucks,2,4.3,cafe,food,store,point_of_interest,establishment
-Coastal Peaks Coffee,,4.6,cafe,food,store,point_of_interest,establishment
-McCarthy's Irish Pub,,4.3,bar,point_of_interest,establishment
-Starbucks,2,4.4,cafe,food,store,point_of_interest,establishment
-Coffee Diva,,,cafe,food,store,point_of_interest,establishment
+Starbucks,2,4.3,cafe,food,store,point_of_interest,establishment,"Coffee & Tea",outdoor
+Coastal Peaks Coffee,,4.6,cafe,food,store,point_of_interest,establishment,"Coffee & Tea","Cafes","Bagels"
+McCarthy's Irish Pub,,4.3,bar,point_of_interest,establishment,"Pubs","Dive Bars",outdoor
+Starbucks,2,4.4,cafe,food,store,point_of_interest,establishment,"Coffee & Tea","Coffee & Tea","Coffee & Tea"
+Coffee Diva,,,cafe,food,store,point_of_interest,establishment,"Coffee & Tea"
 Cal Poly University Store,,4.4,book_store,clothing_store,store,point_of_interest,establishment
-Starbucks,2,4,cafe,food,store,point_of_interest,establishment
-Appendage + Bough,,5,book_store,electronics_store,clothing_store,home_goods_store,store,point_of_interest,establishment
-Nautical Bean,1,4.7,cafe,restaurant,food,store,point_of_interest,establishment
+Starbucks,2,4,cafe,food,store,point_of_interest,establishment,"Coffee & Tea","Coffee & Tea",outdoor
+Appendage + Bough,,5,book_store,electronics_store,clothing_store,home_goods_store,store,point_of_interest,establishment,outdoor
+Nautical Bean,1,4.7,cafe,restaurant,food,store,point_of_interest,establishment,outdoor
 Kreuzberg,1,4.4,cafe,food,store,point_of_interest,establishment
 Jaffa Café,,4.7,cafe,restaurant,food,point_of_interest,establishment
 Boo Boo Records Inc,,4.7,book_store,electronics_store,clothing_store,home_goods_store,store,point_of_interest,establishment
-Linnaea's Cafe,2,4.5,cafe,restaurant,food,point_of_interest,establishment
-Starbucks,2,4.3,cafe,food,store,point_of_interest,establishment
+Linnaea's Cafe,2,4.5,cafe,restaurant,food,point_of_interest,establishment,"Coffee & Tea","Cafes","American (Traditional)",outdoor
+Starbucks,2,4.3,cafe,food,store,point_of_interest,establishment,"Coffee & Tea"
 The Parable Group,,5,book_store,store,point_of_interest,establishment
 Captain Nemo Games & Comics,,4.5,book_store,clothing_store,store,point_of_interest,establishment
 Dr. Cain's Comics and Games,,4.7,book_store,store,point_of_interest,establishment
 Beautiful Feet Books,,4.9,book_store,store,point_of_interest,establishment
 Bath & Body Works,2,4.5,clothing_store,home_goods_store,store,point_of_interest,establishment
-Urban Outfitters,3,3.7,clothing_store,shoe_store,electronics_store,home_goods_store,store,point_of_interest,establishment
+Urban Outfitters,3,3.7,clothing_store,shoe_store,electronics_store,home_goods_store,store,point_of_interest,establishment,clothing_store,food,store,point_of_interest,establishment
 Let's Party halloween,,3.6,clothing_store,home_goods_store,store,point_of_interest,establishment
 Target,2,4.1,department_store,electronics_store,grocery_or_supermarket,food,clothing_store,furniture_store,home_goods_store,store,point_of_interest,establishment
 Men's Wearhouse,2,3.9,clothing_store,store,point_of_interest,establishment
 Ross Dress for Less,1,3.9,clothing_store,department_store,shoe_store,store,point_of_interest,establishment
 The Sock Drawer,,4.6,clothing_store,store,point_of_interest,establishment
 DICK'S Sporting Goods,,3.9,shoe_store,clothing_store,store,point_of_interest,establishment
-URBAN OUTFITTERS,3,,clothing_store,food,store,point_of_interest,establishment
 Ambiance Clothing Boutique,,4,clothing_store,store,point_of_interest,establishment
 Left Coast T-Shirt Co,,4.9,clothing_store,store,point_of_interest,establishment
 Avanti,,5,clothing_store,store,point_of_interest,establishment
@@ -128,58 +125,58 @@ Slo Activity Center,,,gym,health,point_of_interest,establishment
 Central Coast Krav Maga,,,gym,health,store,point_of_interest,establishment
 Beverly's Fabric & Crafts,,4.4,home_goods_store,store,point_of_interest,establishment
 San Luis Obispo Library,,4.2,library,point_of_interest,establishment
-Wine Shed,,4.7,bar,liquor_store,food,store,point_of_interest,establishment
+Wine Shed,,4.7,bar,liquor_store,food,store,point_of_interest,establishment,"Wine Bars","Lounges"
 San Luis Obispo Law Library,,4,library,point_of_interest,establishment
 Robert E. Kennedy Library,,4.6,library,point_of_interest,establishment
 California Polytechnic State University 1 Grand Ave San Luis Obispo USA,,1,library,point_of_interest,establishment
-The Station,,4.9,cafe,bar,liquor_store,food,store,point_of_interest,establishment
+The Station,,4.9,cafe,bar,liquor_store,food,store,point_of_interest,establishment,"Wine Bars","Specialty Food","Venues & Event Spaces"
 Lending Library,,,library,point_of_interest,establishment
 Proof Wine Collective,,,bar,liquor_store,food,store,point_of_interest,establishment
-Graduate Restaurants Inc,,3.8,restaurant,night_club,food,point_of_interest,establishment
-Wingstop,1,3.3,meal_takeaway,restaurant,food,point_of_interest,establishment
+Graduate Restaurants Inc,,3.8,restaurant,night_club,food,point_of_interest,establishment,dance
+Wingstop,1,3.3,meal_takeaway,restaurant,food,point_of_interest,establishment,"Chicken Wings"
 Broad Street Ribline,,4.5,meal_delivery,restaurant,food,point_of_interest,establishment
 Blockbuster Express,1,,movie_rental,store,point_of_interest,establishment
-The Habit Burger Grill,,4.4,meal_takeaway,restaurant,food,point_of_interest,establishment
+The Habit Burger Grill,,4.4,meal_takeaway,restaurant,food,point_of_interest,establishment,"Burgers","Sandwiches"
 Gino's Pizza SLO,,4.4,meal_delivery,restaurant,food,point_of_interest,establishment
 Which Wich Superior Sandwiches,1,4.3,meal_takeaway,restaurant,food,point_of_interest,establishment
-Downtown Centre Cinemas,,4.4,movie_theater,electronics_store,home_goods_store,store,point_of_interest,establishment
-Mother's Tavern,2,3.8,restaurant,night_club,food,point_of_interest,establishment
+Downtown Centre Cinemas,,4.4,movie_theater,electronics_store,home_goods_store,store,point_of_interest,establishment,date
+Mother's Tavern,2,3.8,restaurant,night_club,food,point_of_interest,establishment,"American (New)","Burgers","Beer Wine & Spirits"
 SLO Provisions,,4.6,cafe,meal_takeaway,restaurant,food,point_of_interest,establishment
 Palo Mesa Pizza III,,4.5,meal_delivery,meal_takeaway,restaurant,food,store,point_of_interest,establishment
-Pizza Solo,1,4.5,meal_delivery,meal_takeaway,restaurant,food,point_of_interest,establishment
-Round Table Pizza,2,3.5,meal_delivery,meal_takeaway,restaurant,food,point_of_interest,establishment
-Mama's Meatball,2,4.2,meal_takeaway,restaurant,food,point_of_interest,establishment
+Pizza Solo,1,4.5,meal_delivery,meal_takeaway,restaurant,food,point_of_interest,establishment,"Pizza","Salad",outdoor
+Round Table Pizza,2,3.5,meal_delivery,meal_takeaway,restaurant,food,point_of_interest,establishment,"Pizza","Buffets"
+Mama's Meatball,2,4.2,meal_takeaway,restaurant,food,point_of_interest,establishment,"Italian",date
 Sunset Drive-In,,4.6,movie_theater,electronics_store,home_goods_store,store,point_of_interest,establishment
-Panda Express,1,3.8,meal_takeaway,restaurant,food,point_of_interest,establishment
-Dream Dinners,3,4.9,meal_takeaway,restaurant,food,point_of_interest,establishment
-Kona's Deli,,4.5,meal_takeaway,restaurant,food,store,point_of_interest,establishment
-Domino's Pizza,1,2.9,meal_delivery,meal_takeaway,restaurant,food,point_of_interest,establishment
-Taco Bell,1,3.7,meal_takeaway,restaurant,food,point_of_interest,establishment
+Panda Express,1,3.8,meal_takeaway,restaurant,food,point_of_interest,establishment,"Chinese","Fast Food"
+Dream Dinners,3,4.9,meal_takeaway,restaurant,food,point_of_interest,establishment,"Diners"
+Kona's Deli,,4.5,meal_takeaway,restaurant,food,store,point_of_interest,establishment,"Delis","Sandwiches",outdoor
+Domino's Pizza,1,2.9,meal_delivery,meal_takeaway,restaurant,food,point_of_interest,establishment,"Pizza","Chicken Wings","Sandwiches",outdoor
+Taco Bell,1,3.7,meal_takeaway,restaurant,food,point_of_interest,establishment,"Fast Food","Tex-Mex","Mexican"
 Crossroads Video,,4.5,movie_rental,point_of_interest,establishment
 Blaze Pizza,,4.4,meal_takeaway,restaurant,food,point_of_interest,establishment
-Panda Express,1,3.7,meal_takeaway,restaurant,food,point_of_interest,establishment
-Olive Garden Italian Restaurant,2,4.2,meal_takeaway,restaurant,food,point_of_interest,establishment
-Costco Food Court,2,4.2,meal_takeaway,restaurant,food,point_of_interest,establishment
-Jersey Mike's Subs,1,4,meal_takeaway,restaurant,food,store,point_of_interest,establishment
-Foremost Wine Company,,4.3,bar,night_club,restaurant,food,point_of_interest,establishment
+Panda Express,1,3.7,meal_takeaway,restaurant,food,point_of_interest,establishment,"Chinese","Fast Food"
+Olive Garden Italian Restaurant,2,4.2,meal_takeaway,restaurant,food,point_of_interest,establishment,"Italian","Salad","Wine Bars"
+Costco Food Court,2,4.2,meal_takeaway,restaurant,food,point_of_interest,establishment,outdoor
+Jersey Mike's Subs,1,4,meal_takeaway,restaurant,food,store,point_of_interest,establishment,"Sandwiches","Fast Food","Delis"
+Foremost Wine Company,,4.3,bar,night_club,restaurant,food,point_of_interest,establishment,"American (New)","Wine Bars",date
 San Luis Obispo Railroad Museum,,4.5,museum,point_of_interest,establishment
 Palm Theatre,,4.7,movie_theater,electronics_store,home_goods_store,store,point_of_interest,establishment
-Buffalo Wild Wings,1,3.6,meal_takeaway,bar,restaurant,food,point_of_interest,establishment
+Buffalo Wild Wings,1,3.6,meal_takeaway,bar,restaurant,food,point_of_interest,establishment,"Chicken Wings","Sports Bars","American (Traditional)"
 San Luis Obispo Museum of Art,,4.8,museum,point_of_interest,establishment
 San Diego Museum Of Arts,,,museum,point_of_interest,establishment
 San Luis Obispo County Historical Museum,,5,museum,point_of_interest,establishment
 History Center of San Luis Obispo County,,4.8,museum,point_of_interest,establishment
 Fremont Theater,,4.6,movie_theater,electronics_store,home_goods_store,store,point_of_interest,establishment
-Veterans Memorial Building,,4.2,museum,point_of_interest,establishment
-Cuesta Park,,4.5,park,point_of_interest,establishment
+Veterans Memorial Building,,4.2,museum,point_of_interest,establishment,dance
+Cuesta Park,,4.5,park,point_of_interest,establishment,outdoor
 Pet Boutique,,,pet_store,store,point_of_interest,establishment
 Sinsheimer Park,,4.5,park,point_of_interest,establishment
 Cheng Park,,3.9,park,point_of_interest,establishment
 Dallidet Adobe & Gardens,,4.3,park,point_of_interest,establishment
-Stoneridge Park,,4.1,park,point_of_interest,establishment
+Stoneridge Park,,4.1,park,point_of_interest,establishment,"Dog Parks"
 Leaning Pine Arboretum,,4.4,park,point_of_interest,establishment
-Bishop's Foothill Trailhead,,4.6,park,point_of_interest,establishment
-Santa Rosa Park,,4.5,park,point_of_interest,establishment
+Bishop's Foothill Trailhead,,4.6,park,point_of_interest,establishment,outdoor
+Santa Rosa Park,,4.5,park,point_of_interest,establishment,"Parks"
 Meadow Park,,,park,point_of_interest,establishment
 Jack House & Gardens,,4.2,park,point_of_interest,establishment
 San Luis Obispo Home Show,,4,park,lodging,point_of_interest,establishment
@@ -187,32 +184,32 @@ Dexter Lawn Cal Poly,,4.7,park,point_of_interest,establishment
 O'Neill Green,,4,park,point_of_interest,establishment
 E A French Park,,4.2,park,point_of_interest,establishment
 San Luis Obispo Baseball Stadium,,4.2,park,point_of_interest,establishment
-Meadow Park,,4.3,park,point_of_interest,establishment
-Cerro San Luis Obispo,,4.8,park,point_of_interest,establishment
+Meadow Park,,4.3,park,point_of_interest,establishment,"Parks"
+Cerro San Luis Obispo,,4.8,park,point_of_interest,establishment,outdoor
 Stockton Field,,,park,point_of_interest,establishment
 Wild Birds Unlimited,3,5,pet_store,food,store,point_of_interest,establishment
 Tropics,,4.1,pet_store,general_contractor,store,point_of_interest,establishment
 PetDoors.com,,5,pet_store,store,point_of_interest,establishment
-Thai Palace,2,4.4,restaurant,food,point_of_interest,establishment
+Thai Palace,2,4.4,restaurant,food,point_of_interest,establishment,"Thai"
 Migrant Education Program,,,school,point_of_interest,establishment
 SLO Classical Academy High School,,4,school,point_of_interest,establishment
 ShoeSurfing.com,,,shoe_store,store,point_of_interest,establishment
 SUBWAY®Restaurants,1,3.8,restaurant,food,point_of_interest,establishment
 Blue Sky Preschool,,5,school,point_of_interest,establishment
-Sushi Kokku,,4.3,restaurant,food,point_of_interest,establishment
+Sushi Kokku,,4.3,restaurant,food,point_of_interest,establishment,"Japanese","Sushi Bars"
 Cal Poly Ticket Office,,5,university,school,store,point_of_interest,establishment
 The Laureate School,,,school,point_of_interest,establishment
 Mike's Shoes,,5,shoe_store,store,point_of_interest,establishment
 G-Brothers Smokehouse,1,4.2,restaurant,food,point_of_interest,establishment
 Shalimar Restaurant Indian Food,2,4.3,restaurant,food,point_of_interest,establishment
-Firestone Grill,1,4.5,restaurant,food,point_of_interest,establishment
+Firestone Grill,1,4.5,restaurant,food,point_of_interest,establishment,"Barbeque","American (Traditional)",outdoor
 Eureka! San Luis Obispo,2,4.4,restaurant,food,point_of_interest,establishment
-Thai Boat,2,4.8,restaurant,food,point_of_interest,establishment
+Thai Boat,2,4.8,restaurant,food,point_of_interest,establishment,"Thai","Seafood","Soup"
 SUBWAY®Restaurants,1,4,restaurant,food,point_of_interest,establishment
 Mission College Preparatory Catholic High School,,3.9,school,point_of_interest,establishment
 Woodstock's Pizza SLO,2,4.3,restaurant,food,point_of_interest,establishment
 Old Mission Pre-School,,,school,point_of_interest,establishment
-Buona Tavola,2,4.5,restaurant,food,point_of_interest,establishment
+Buona Tavola,2,4.5,restaurant,food,point_of_interest,establishment,"Italian"
 Olive Grove Charter School,,,school,point_of_interest,establishment
 Child Development Resource Center of the Central Coast,,,school,point_of_interest,establishment
 Foothill Preschool-Infant Care,,3.2,school,point_of_interest,establishment
@@ -239,7 +236,7 @@ Sunglass Hut,3,3.5,shopping_mall,store,point_of_interest,establishment
 Romp,,,shoe_store,store,point_of_interest,establishment
 Shoe Palace,,4,shoe_store,clothing_store,store,point_of_interest,establishment
 Laguna Middle School,,4,school,point_of_interest,establishment
-Takken Enterprises Wherehouse,,1,shoe_store,store,point_of_interest,establishment
+Takken Enterprises Wherehouse,,1,shoe_store,store,point_of_interest,establishment,outdoor
 Takkens - Shoes  Boots  Sandals,,4.5,shoe_store,store,point_of_interest,establishment
 Sale Shoe Shack,,,shoe_store,store,point_of_interest,establishment
 Fwria San Luis Obispo,,,shopping_mall,point_of_interest,establishment
@@ -265,7 +262,7 @@ Sinsheimer Park Baseball Stdm,,4.6,stadium,point_of_interest,establishment
 Bob Janssen Field,,5,stadium,point_of_interest,establishment
 Face to Face,,5,spa,point_of_interest,establishment
 Signs of Success,,,store,point_of_interest,establishment
-Rose Garden Inn,,3.4,spa,lodging,point_of_interest,establishment
+Rose Garden Inn,,3.4,spa,lodging,point_of_interest,establishment,outdoor
 Spoke SLO,,4.6,spa,beauty_salon,point_of_interest,establishment
 Barefoot MomEase Wellness Spa,,5,spa,health,point_of_interest,establishment
 Baggett Stadium,,4.6,stadium,point_of_interest,establishment
@@ -290,3 +287,240 @@ PROVE Lab - Prototype Vehicles Laboratory,,5,university,point_of_interest,establ
 ROLO - Residential Outreach & Leadership Office,,,university,point_of_interest,establishment
 Cal Poly Dining,,2.4,university,cafe,health,restaurant,food,store,point_of_interest,establishment
 Research Development Center,,,university,point_of_interest,establishment
+"High Street Market & Deli",1,4.5,"Delis","Sandwiches"
+"Goshi Japanese Restaurant",2,4.5,"Sushi Bars","Japanese","Bars",date
+"Scout Coffee Company",2,4.5,"Coffee & Tea","Bakeries"
+"Petra",1,4.5,"Mediterranean","Pizza"
+"Old San Luis BBQ Co",1,4.5,"Barbeque"
+"Ciopinot",3,4.5,"Seafood"
+"SloDoCo Donuts",1,4.5,"Donuts","Coffee & Tea","Bakeries"
+"Splash Café Monterey St.",1,4.0,"Bakeries","Cafes"
+"Kreuzberg Coffee Company",2,4.0,"Coffee & Tea"
+"Eureka!",2,4.0,"Burgers","Bars","American (New)"
+"Jaffa Cafe",1,4.5,"Greek","Mediterranean","Gluten-Free"
+"The Nautical Bean Coffee House & Bistro",1,4.5,"Cafes","Bars","Breakfast & Brunch"
+"TASTE",2,4.5,"American (New)","Tapas/Small Plates","Gluten-Free",outdoor
+"Shalimar",2,4.0,"Indian","Vegan","Gluten-Free"
+"Urbane Cafe",1,4.5,"American (New)","Sandwiches","Salad"
+"Blast 825 Taproom",2,4.0,"Pizza","Beer Bar","Desserts"
+"Granada Hotel & Bistro",2,4.0,"American (New)","French","Cocktail Bars"
+"Bon Temps Creole Cafe",2,4.0,"Cajun/Creole","American (Traditional)","Breakfast & Brunch"
+"Taqueria Santa Cruz Express",1,4.0,"Mexican"
+"Madonna Inn Copper Cafe",2,3.5,"American (Traditional)","Bakeries"
+"The Naked Fish",2,4.0,"Sushi Bars","Asian Fusion"
+"Oasis Restaurant & Catering",2,4.0,"Moroccan","Mediterranean","Desserts"
+"La Locanda",2,4.5,"Italian",date
+"Mr. Pickle's Sandwich Shop",1,4.5,"Sandwiches","Soup","Delis"
+"Sweetie Cup Tea House",1,4.0,"Coffee & Tea","Bubble Tea"
+"Broad Street Giant Grinder",1,4.5,"Sandwiches"
+"Natural Cafe",2,4.0,"Vegetarian","Cafes","Gluten-Free"
+"Louisa's Place",2,3.5,"Breakfast & Brunch","American (Traditional)"
+"Woodstocks Pizza",2,3.5,"Pizza","Gluten-Free","Vegetarian"
+"Cowboy Cookie N' Grub",1,4.0,"Desserts","Cafes","Ice Cream & Frozen Yogurt"
+"Bubblegum Alley",,4.0,"Local Flavor"
+"Gus's Grocery",1,4.0,"Delis","Sandwiches"
+"Flour House SLO",2,4.0,"Pizza","Italian"
+"Oki Momo Asian Grill",2,4.5,"Asian Fusion","Gluten-Free","Vegetarian"
+"MyThai Restaurant",2,4.0,"Thai"
+"Sumo Sushi",2,3.5,"Japanese","Sushi Bars","Salad"
+"Poke Chef",2,4.5,"Poke","Asian Fusion","Seafood"
+"Taco King",2,4.0,"Mexican"
+"Thai Classic",2,4.0,"Thai","Vegetarian"
+"Black Horse Coffee",1,4.0,"Coffee & Tea","Bakeries"
+"Alex Madonna's Gold Rush Steak House",3,3.0,"Steakhouses"
+"Seeds",1,4.5,"Breakfast & Brunch","Juice Bars & Smoothies","Acai Bowls"
+"PokiRito",2,4.0,"Seafood","Poke","Hawaiian"
+"Rib Line BBQ & Grill LOVR",2,4.0,"Barbeque","Breakfast & Brunch","Sandwiches"
+"Yanagi Sushi & Grill",2,4.0,"Sushi Bars","Japanese","Asian Fusion"
+"Haha Sushi & Grill",2,4.0,"Japanese","Korean"
+"F. McLintock's",2,3.5,"Steakhouses","Bars"
+"Vegetable Butcher",2,4.0,"Latin American","Mexican","Seafood"
+"Beda's Biergarten",2,4.0,"German","Beer Gardens"
+"Cafe Roma - San Luis Obispo",2,4.0,"Italian"
+"Which Wich",1,4.0,"Sandwiches"
+"Las Delicias De Zacatecas",2,4.5,"Mexican","Breakfast & Brunch","Vegetarian"
+"Apple Farm - Restaurant",2,3.5,"American (Traditional)"
+"SLO Provisions",2,4.5,"American (New)","Cafes","Salad"
+"Raku Ramen",2,3.5,"Ramen"
+"Buffalo Pub and Grill",2,4.0,"Pubs","American (Traditional)",outdoor
+"Tacos De Acapulco",1,4.0,"Mexican"
+"Ben Franklin's",1,4.0,"Sandwiches"
+"Grill House",2,4.0,"German","Burgers","American (New)"
+"Cool Cat Cafe - San Luis Obispo",2,4.0,"Desserts","American (Traditional)","Music Venues"
+"The Breakfast Buzz",1,3.5,"Breakfast & Brunch"
+"Gino's Pizza",2,4.5,"Pizza","Italian","Sandwiches"
+"Milestone Tavern",2,4.0,"American (Traditional)","Pizza","Bars"
+"Mint + Craft",2,4.5,"Cafes","Specialty Food","Breakfast & Brunch"
+"Mandarin Gourmet",2,3.5,"Chinese"
+"Taco De Mexico",1,4.0,"Mexican"
+"Libertine Brewing Company",2,4.0,"Breweries","Coffee & Tea","American (Traditional)"
+"Creeky Tiki Bar & Island Grill",2,3.5,"American (Traditional)","Tiki Bars",outdoor,date
+"Taj Palace Cuisine of India",2,3.5,"Indian"
+"Village Host Pizza",2,4.0,"Pizza","American (Traditional)"
+"Blaze Fast Fire'd Pizza",1,4.0,"Salad","Pizza","Fast Food"
+"Margie's Diner",2,3.5,"Diners","American (Traditional)","Breakfast & Brunch"
+"Scout Coffee",1,4.0,"Coffee & Tea"
+"Thai-rrific",2,4.0,"Thai","Seafood","Soup"
+"The Bobastop",1,4.0,"Bubble Tea","Coffee & Tea","Creperies"
+"Upper Crust Trattoria",2,3.5,"Pizza","Italian","Cocktail Bars"
+"Breaking Bread Bakery",1,4.5,"Cafes","Bakeries"
+"Tiki Hut",1,4.0,"Chinese","Japanese","Italian"
+"Fatte's Pizza",1,3.5,"Pizza"
+"Eddie's Grill",1,5.0,"Burgers","Sandwiches","Juice Bars & Smoothies"
+"Franks Famous Hot Dogs",1,3.0,"American (Traditional)"
+"G Brothers Smokehouse",1,3.5,"Smokehouse","Barbeque","Breakfast & Brunch"
+"Sushiya",2,3.5,"Japanese","Sushi Bars"
+"Le Ciel Crepes Cafe",2,4.0,"Creperies"
+"Fattoush",1,3.5,"Mediterranean"
+"Lotus",2,3.5,"Vietnamese"
+"Emily's Cinnamon Rolls",1,4.0,"Bakeries","Coffee & Tea","Desserts"
+"Mee Heng Low Noodle House",1,3.5,"Chinese","Noodles"
+"California Pizza Kitchen at San Luis Obispo",2,3.5,"Pizza","American (New)","Salad"
+"San Luis Fish & BBQ",1,3.5,"Seafood","Barbeque"
+"Kumi Ko",2,4.0,"Japanese","Tapas Bars"
+"Nucci's",2,4.0,"Pizza"
+"La Esquina Taqueria",2,4.5,"Mexican","Bars"
+"Cowgirl Cafe",2,3.5,"Cafes"
+"Aisuru Sushi",2,3.5,"Sushi Bars"
+"The Rib Line",2,3.5,"Barbeque","Wine Bars",date
+"Piemonte's Italian Delicatessen",1,4.0,"Delis","Italian","Sandwiches"
+"El Matador Authentic Mexican Food And Craft Beer",2,3.5,"Mexican",outdoor
+"Marston's Bar & Grill",2,3.5,"American (Traditional)","Sports Bars","Barbeque",outdoor
+"Charlie's Place",2,3.5,"Breakfast & Brunch","Burgers","Mexican"
+"Nucci's",2,4.0,"Italian","Pizza"
+"Haute Skillet Truck",1,5.0,"Sandwiches","Food Trucks","Caterers"
+"Lucy's Coffee",1,4.5,"Coffee & Tea","Breakfast & Brunch"
+"Pizza La Nova New York Style",2,4.0,"Pizza","Gluten-Free"
+"Cinco De Mayo Restaurant",1,3.5,"Mexican"
+"Sidewalk Market",1,4.5,"Grocery","Delis","Beer Wine & Spirits"
+"Chipotle Mexican Grill",1,3.5,"Mexican","Fast Food"
+"Pepe Delgado's Mexican Restaurant",2,3.0,"Mexican"
+"Laguna Lake Park",,3.5,"Hiking","Parks"
+"New Earth Superfoods",2,4.0,"Juice Bars & Smoothies","Vegan","Live/Raw Food"
+"Chili Peppers Restaurant",1,3.0,"Mexican","Bars","Breakfast & Brunch"
+"Libertine Coffee Bar",1,5.0,"Coffee & Tea"
+"The Library",2,3.0,"Bars",date
+"Pizza Republic",1,4.0,"Pizza","Salad","Sandwiches",outdoor
+"Chipotle Mexican Grill",1,3.0,"Mexican","Fast Food"
+"Golden Gong",2,3.0,"Chinese"
+"Pita Pit",1,3.5,"Mediterranean","Sandwiches","Fast Food"
+"BlackHorse On Foothill",1,3.5,"Coffee & Tea","Bakeries","Cafes"
+"Royal Thai",2,3.5,"Thai"
+"BlackHorse Espresso and Bakery",1,3.5,"Coffee & Tea","Bakeries"
+"Kacey Cakes",2,5.0,"Desserts","Gluten-Free"
+"Tonita's Mexican Food",1,3.0,"Mexican"
+"Taco Roco",1,3.0,"Mexican"
+"Yelp Celebrates 2018 at Central Coast Brewing",,5.0,"Yelp Events"
+"Lahaina's",1,3.5,"Burgers","Salad","Seafood"
+"Lassens Natural Foods & Vitamins",2,3.5,"Health Markets","Organic Stores","Delis"
+"Cork 'n' Bottle Liquor Store & Deli",1,3.5,"Beer Wine & Spirits","Burgers"
+"Taco Roco",1,3.0,"Mexican"
+"Palo Mesa Pizza",2,3.5,"Pizza"
+"Bull's Tavern",1,3.0,"Dive Bars"
+"Chilie Peppers",1,3.0,"Mexican"
+"BlackHorse on Broad",1,3.5,"Coffee & Tea","Bakeries"
+"NP Grill Cafe",1,4.5,"Cafes"
+"Taco Rico",1,3.5,"Mexican"
+"Chronic Tacos",1,2.5,"Mexican"
+"Mission Plaza",,4.5,"Landmarks & Historical Buildings"
+"Popeyes Louisiana Kitchen",1,3.0,"Fast Food","Chicken Wings"
+"Jack House and Gardens",,4.5,"Landmarks & Historical Buildings",outdoor
+"SLO Coast Coffee",1,5.0,"Food Trucks","Coffee & Tea"
+"11th Hole Grill",1,5.0,"Breakfast & Brunch","Cafes","American (Traditional)"
+"Pancho's Mexican Foods",2,3.0,"Mexican"
+"Budget Cafe",1,3.0,"Cafes"
+"Denny's",1,2.5,"Breakfast & Brunch","American (Traditional)","Diners"
+"Edna Valley Market",1,3.5,"Delis"
+"Sinsheimer Park",,5.0,"Disc Golf","Parks"
+"IHOP",2,2.5,"Breakfast & Brunch","American (Traditional)"
+"Deli Delicious",1,4.0,"Sandwiches","Delis"
+"Spirit of San Luis Restaurant",2,3.5,"American (Traditional)"
+"South Hills Open Space",,5.0,"Hiking","Parks",outdoor
+"Pancho Villa's",1,3.0,"Mexican"
+"Mitchell Park",,4.0,"Parks","Playgrounds"
+"Crossroads Liquor & Deli",1,4.0,"Beer Wine & Spirits","Delis"
+"Poke Chef",2,4.5,"Poke","Asian Fusion","Bubble Tea"
+"Armando's Restaurant",2,4.0,"Mexican","Seafood"
+"The Mandala Tree",1,5.0,"Massage Therapy","Coffee & Tea"
+"The Graduate",2,2.5,"Burgers","Bars",dance
+"Burger King",1,3.0,"Fast Food","Burgers"
+"Jack in the Box",1,2.0,"Fast Food"
+"Carl's Jr Restaurants",1,3.5,"Fast Food"
+"Courthouse Cafeteria",,4.0,"Cafes"
+"Chick-fil-A",1,5.0,"Fast Food"
+"Padre Deli",1,3.5,"Caterers","Delis"
+"Carl's Jr",1,2.0,"Fast Food"
+"Cuesta Canyon County Park",,3.5,"Local Flavor","Dog Parks"
+"Yelpers Love SLO Farmers Market",,5.0,"Yelp Events"
+"Poly Canyon Trail",,4.0,"Hiking","Local Flavor",outdoor
+"Greenhouse Grill and Cafe",2,3.0,"Cafes","American (Traditional)","Pizza"
+"Taqueria 805",1,4.5,"Food Trucks","Tacos","Caterers"
+"Front Porch",,4.5,"Coffee & Tea"
+"Subway",1,4.0,"Sandwiches","Fast Food"
+"Subway",1,2.5,"Sandwiches","Fast Food"
+"Throop Park",,4.5,"Parks"
+"Shake Smart",,4.5,"Juice Bars & Smoothies","Acai Bowls","Sandwiches"
+"Subway",1,2.5,"Sandwiches","Fast Food"
+"Atrium Cafe",2,3.5,"Restaurants"
+"Phanom Project",,5.0,"Art Galleries","Local Flavor"
+"Subway",1,2.0,"Sandwiches","Fast Food"
+"BBQ In The Stix",2,5.0,"Food Trucks","Barbeque"
+"Mission Pizza",,4.5,"Pizza"
+"Slo Hub Eatery",1,3.0,"American (Traditional)"
+"Julian's Patisserie",1,2.5,"Coffee & Tea"
+"LC YC Cheng Park",,5.0,"Parks"
+"Sustenance Studio",,4.5,"Cooking Schools"
+"Subway",1,2.0,"Sandwiches","Fast Food","Breakfast & Brunch"
+"Taco Bell",1,1.5,"Fast Food","Mexican","Tex-Mex"
+"San Luis Obispo Lighthouse",,3.0,"Landmarks & Historical Buildings"
+"Metro Station 19",1,2.5,"American (Traditional)"
+"Sue's Sandos",1,3.5,"Sandwiches"
+"Laguna Hills Park",,4.0,"Parks"
+"GDI Geoff's Frat Snacks",1,4.0,"Fast Food"
+"Einstein Bros Bagels",2,2.5,"Bagels","Coffee & Tea"
+"Terrace Hill",,4.0,"Hiking","Parks"
+"Chinatown San Luis Obispo - Ah Louis - National Landmark",,3.0,"Landmarks & Historical Buildings"
+"Priolo-Martin Park",,3.0,"Parks"
+"Sands Liquor Deli",1,4.0,"Beer Wine & Spirits","Delis"
+"Tacos To Go",1,2.5,"Mexican"
+"French Park",,5.0,"Parks","Playgrounds"
+"Wine Sneak",,5.0,"Wine Bars"
+"Backstage Pizza",,2.5,"Pizza"
+"Pasta Pronto",,2.0,"Italian"
+"Bacon & Barrels",,0.0,"Festivals","Local Flavor"
+"Nautical Bean",,5.0,"Coffee & Tea","Breakfast & Brunch"
+"Jumping Java Bean",,1.0,"Coffee & Tea"
+"Emerson Park",,0.0,"Parks","Playgrounds","Basketball Courts"
+"Ciopino",,0.0,"Restaurants"
+"Restaurante de Michelangelo",,0.0,"Bars","Italian"
+"Discovery San Luis Obispo",,0.0,"American (New)","Bowling","Bars"
+"Live Local Apparel",,0.0,"Bespoke Clothing","Personal Shopping","Local Flavor"
+"The Cellar",,0.0,"Wine Bars"
+"Mo's Smokehouse Bbq",,0.0,"Caterers","Barbeque"
+"MO'S SMOKEHOUSE BBQ",,0.0,"Caterers","Barbeque"
+"Main St Grill",,0.0,"American (Traditional)"
+"Slo Coast Cocktails",,0.0,"Cocktail Bars"
+"Eto Park",,0.0,"Parks"
+"SLO Skate Park",,5.0,"Parks"
+"Ace Express Fresh Sushi",,0.0,"Sushi Bars"
+"Scolaris Food Company Service Deli",,0.0,"Delis"
+"Milagros Mexican Restaurant",,0.0,"Mexican"
+"Taqueria",,0.0,"Mexican"
+"Mullarkey's Food & Spirits",,0.0,"American (Traditional)"
+"Vista Lago Park",,0.0,"Parks"
+"Goat Hill",,0.0,"Pizza"
+"Ellsford Park",,0.0,"Parks"
+"Stanton Mike & Ellen",,0.0,"Restaurants"
+"Tacos To-Go Mexican Grill",,0.0,"Mexican"
+"Curbside Grill",,0.0,"Burgers"
+"End Of The Line Cafe",,0.0,"Cafes"
+"New York Style Giant Pizza",,0.0,"Pizza","Donuts"
+"Johnson Park",,0.0,"Parks"
+"Mustang Station",,0.0,"Pizza","Pubs"
+"Village Market",,0.0,"Grocery","Sandwiches"
+"Monterey Street Cafe",,0.0,"American (Traditional)"
+"Crossroads Sports Deli & Pub",,0.0,"Sports Bars","Delis"
+"Julians",,0.0,"Coffee & Tea"
+"Tio Alberto's",,0.0,"Mexican"
+"Linnaea's Kitchen",,0.0,"Restaurants"
+"The Octagon Barn Center",,0.0,"Landmarks & Historical Buildings"
