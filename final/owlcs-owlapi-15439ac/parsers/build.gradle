@@ -1,0 +1,6 @@
+
+description = 'OWLAPI :: Parsers'
+dependencies {
+  compile project(':owlapi-api')
+  compile project(':owlapi-tools')
+}

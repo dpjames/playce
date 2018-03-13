@@ -1,0 +1,149 @@
+import aQute.bnd.version.MavenVersion
+import me.champeau.gradle.ArtifactJapicmpTask
+import org.semanticweb.owlapi.gradle.osgi.BundleTask
+import org.semanticweb.owlapi.gradle.osgi.OSGIWrapTask
+
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+        mavenLocal()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+
+    }
+    dependencies {
+        classpath fileTree('buildSrc/lib/')
+        classpath 'me.champeau.gradle:japicmp-gradle-plugin:latest.integration'
+        classpath 'biz.aQute.bnd:biz.aQute.bnd.gradle:3.5.0'
+    }
+}
+
+plugins {
+  id 'com.github.ben-manes.versions' version '0.17.0'
+}
+
+allprojects {
+    apply plugin: 'maven'
+
+    group = 'net.sourceforge.owlapi'
+    version = '6.0.0-SNAPSHOT'
+    ext {
+        baselineVersion = '5.1.4'
+    }
+
+}
+
+subprojects {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+    }
+
+    apply plugin: 'java'
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+    tasks.withType(JavaCompile) {
+        options.encoding = 'UTF-8'
+    }
+    apply plugin: 'me.champeau.gradle.japicmp'
+    javadoc {
+        options.links += "https://docs.oracle.com/javase/8/docs/api/"
+    }
+    task packageSources(type: Jar) {
+
+        classifier = 'sources'
+        from sourceSets.main.allSource
+    }
+    task packageJavadoc(type: Jar) {
+        dependsOn javadoc
+        classifier = 'javadoc'
+        from javadoc.outputs
+    }
+    artifacts.archives packageSources
+    artifacts.archives packageJavadoc
+
+    dependencies {
+        compile 'net.sf.trove4j:trove4j:[3.0.3,4)'
+        compile 'com.github.ben-manes.caffeine:caffeine:[2.6,3)'
+        compile 'com.google.guava:guava:[19.0,22.0]'
+        compile 'com.google.inject:guice:[4.0.0,4.1.0]'
+        compile 'com.google.inject.extensions:guice-multibindings:[4.0.0,4.1.0]'
+        compile 'com.google.code.findbugs:jsr305:[2.0.0,4)'
+        compile 'org.slf4j:slf4j-api:[1.7.0,1.7.26)'
+        compile 'commons-io:commons-io:[2.4,3)'
+        testCompile 'org.hamcrest:hamcrest-core:[1.3,2)'
+        testCompile 'junit:junit:[4.12,5)'
+        testCompile 'org.mockito:mockito-core:[2.8.47,3)'
+        testCompile 'org.slf4j:slf4j-simple:[1.7.0,1.7.26)'
+    }
+
+    task wrap(type: OSGIWrapTask) {
+        dependsOn compileJava
+        configuration = project.configurations.compile
+        copyExistingBundles=true
+        walkExistingBundles=true
+    }
+    jar {
+        from(sourceSets.main.allSource) {
+            include "**/packageinfo"
+        }
+    }
+    classes {
+        copy {
+            into sourceSets.main.output.classesDir
+            from sourceSets.main.allSource
+            include "**/packageinfo"
+        }
+    }
+
+
+    task bundle(type: BundleTask) {
+        dependsOn jar
+        dependsOn wrap
+        bundleClasspath = project.fileTree(wrap.bundleOutputDir).files
+        //classifier="osgi"
+        
+        manifest {
+            attributes('Export-Package': "{local-packages}",
+
+
+                    "Import-Package": "com.github.benmanes.*;resolution:=optional,*",
+
+                    "Bundle-SymbolicName": "${project.group}.${project.name}"
+
+            )
+        }
+    }
+
+    task initPackageInfo {
+        doFirst {
+            sourceSets.main.allJava*.parentFile.unique().each {
+                File packageInfoFile = new File(it, "packageinfo")
+                if (!packageInfoFile.exists()) {
+                    println "iPi ${it}"
+                    def out = packageInfoFile.newPrintWriter()
+                    MavenVersion v = MavenVersion.parseMavenString(project.version.toString())
+                    out.println "version 6"
+                    out.close()
+                }
+
+            }
+        }
+    }
+    if (!(project.name in ["benchmarks"])) {
+        task japicmp(type: ArtifactJapicmpTask) {
+            description "compare project api to baselineVersion"
+            group "verification"
+            baseline = "${project.group}:${project.name}:${project.baselineVersion}"
+            to = project.jar.archivePath
+            ignoreAllMissingClasses = true
+            noAnnotations = true
+            onlyModified = true
+            failOnModification = false
+            htmlOutputFile = file("$buildDir/reports/japi.html")
+        }
+    }
+}

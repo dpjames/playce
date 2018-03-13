@@ -31,7 +31,7 @@ import java.util.*;
  */
 public class Tutorial {
 
-    private static final String BASE_URL = "http://acrab.ics.muni.cz/ontologies/tutorial.owl";
+    private static final String BASE_URL = "http://users.csc.calpoly.edu/~dpjames/deadweekfinal.owl";
     private static OWLObjectRenderer renderer = new DLSyntaxObjectRenderer();
 
     public static void main(String[] args) throws OWLOntologyCreationException {
@@ -43,15 +43,48 @@ public class Tutorial {
         OWLReasoner reasoner = reasonerFactory.createReasoner(ontology, new SimpleConfiguration());
         OWLDataFactory factory = manager.getOWLDataFactory();
         PrefixDocumentFormat pm = manager.getOntologyFormat(ontology).asPrefixOWLOntologyFormat();
-        pm.setDefaultPrefix(BASE_URL + "#");
+        pm.setDefaultPrefix("http://www.semanticweb.org/katie/ontologies/2018/2/untitled-ontology-17" + "#");
 
+        System.out.println("our stuff");
+        
+        System.out.println(ontology);
+        OWLClass barClass = factory.getOWLClass(":bar", pm);
+        System.out.println(barClass);
+        System.out.println(reasoner.getInstances(barClass, false));
+        System.out.println(reasoner.getInstances(barClass, false).getFlattened());
+        
+        OWLNamedIndividual LunaRed = factory.getOWLNamedIndividual(":LunaRed", pm);
+        OWLDataProperty property = factory.getOWLDataProperty(":hasPrice", pm);
+        System.out.println(reasoner.getDataPropertyValues(LunaRed, property));
+        
+        for (OWLLiteral pp : reasoner.getDataPropertyValues(LunaRed, property)) {
+            System.out.println("LunaRed" + pp.getLiteral());
+        }
+        System.out.println("bel");
+        //System.out.println(LunaRed.data);
+        
+        Hashtable<String, Integer> pref = getPref();
+        System.out.println(pref);
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        //--------------------------------------------------------------------------------------------------------
+        System.out.println("end our stuff");
+        
         //get class and its individuals
         OWLClass personClass = factory.getOWLClass(":Person", pm);
 
         for (OWLNamedIndividual person : reasoner.getInstances(personClass, false).getFlattened()) {
             System.out.println("person : " + renderer.render(person));
         }
-
         //get a given individual
         OWLNamedIndividual martin = factory.getOWLNamedIndividual(":Martin", pm);
 
@@ -197,4 +230,38 @@ public class Tutorial {
             return null;
         }
     }
+    
+    
+    private static Hashtable<String, Integer>  getPref(){
+        Hashtable<String, Integer> pref = new Hashtable<String, Integer>();
+
+        String temp;
+        boolean b;
+        getInput("How many people (including you?): ", "numPeople", pref); 
+        getInput("How much money? (0-4): ", "price", pref); 
+        getInput("Is this a date? (0 || 1): ", "isDate", pref); 
+        getInput("Are you hungry (0 || 1): ", "isHungry", pref); 
+        getInput("Are you feeling active? (0 || 1): ", "isActive", pref); 
+        getInput("Are you feeling like being around people? (0 || 1): ", "isSocial", pref); 
+        getInput("Are you (and everyone in your group) 21+? (0 || 1): ", "is21", pref); 
+        //pref.put("key",0); 
+        return pref;
+     }
+     private static void getInput(String question, String key,Hashtable<String, Integer> pref){
+        Scanner input = new Scanner(System.in);
+        boolean b;
+        String temp;
+        do{
+           System.out.print(question); 
+           temp = input.nextLine();
+           try{
+              b = false;
+              int val = Integer.parseInt(temp);
+              pref.put(key, val);
+           }catch(NumberFormatException e){
+              b = true;
+              System.out.println("bad input");
+           }
+        } while(b);  
+     }
 }

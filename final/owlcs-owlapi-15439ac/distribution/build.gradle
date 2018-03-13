@@ -1,0 +1,87 @@
+plugins {
+  id 'maven'
+  id 'java'
+  id 'com.github.johnrengelman.shadow' version '1.2.4'
+  //id 'com.github.ben-manes.versions' version '0.17.0'
+}
+description = 'OWLAPI :: Distribution'
+
+configurations {
+  faux
+}
+
+dependencies {
+  faux project(':owlapi-apibinding')
+  faux project(':owlapi-tools')
+  faux project(':owlapi-impl')
+  faux project(':owlapi-parsers')
+  faux project(':owlapi-oboformat')
+  faux project(':owlapi-rio')
+  faux project(':owlapi-api')
+}
+bundle {
+  deleteAllActions()
+}
+shadowJar {
+  configurations = []
+}
+install {
+  dependsOn javadoc
+}
+def prototype = install.repositories.mavenInstaller.pom.effectivePom.dependencies[0]
+Closure mavenDependencyComparator = {
+  a, b ->
+    int tmp = a.groupId <=> b.groupId
+    if (tmp == 0) {
+      tmp = a.artifactId <=> b.artifactId
+    }
+    if (tmp == 0) {
+      tmp = a.version <=> b.version
+    }
+    return tmp
+}
+Set subDeps = new TreeSet(new ClosureComparator<>(mavenDependencyComparator))
+Set projNames = new HashSet()
+configurations.faux.allDependencies.withType(ProjectDependency).each {
+  if (it.group == project.group) {
+    projNames += it.name
+  }
+  Project project = it.dependencyProject
+  def mainSet = project.sourceSets.main
+  packageSources {
+    from mainSet.allSource
+  }
+  javadoc {
+    classpath.add( mainSet.compileClasspath)
+    source mainSet.allJava
+  }
+  shadowJar {
+    classifier ''
+    from mainSet.output
+    mergeServiceFiles()
+  }
+  ResolvedConfiguration resolvedConfiguration = project.configurations.compile.getResolvedConfiguration()
+  resolvedConfiguration.firstLevelModuleDependencies.each { dep ->
+    def fred = prototype.clone()
+    fred.groupId = dep.moduleGroup
+    fred.artifactId = dep.moduleName
+    fred.version = dep.moduleVersion
+    subDeps.add(fred)
+  }
+}
+install {
+  def list = new ArrayList(subDeps)
+  list.removeAll { dep ->
+    def result = dep.groupId == project.group && projNames.contains(dep.artifactId)
+    return result
+  }
+  MavenPom pom = repositories.mavenInstaller.pom
+  pom.scopeMappings.mappings.clear()
+  repositories.mavenInstaller.pom.dependencies = list
+
+}
+
+jar {
+  dependsOn shadowJar
+  deleteAllActions()
+}

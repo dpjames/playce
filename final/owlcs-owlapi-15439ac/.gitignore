@@ -1,0 +1,16 @@
+.classpath
+.gradle
+.project
+.settings
+*.iml
+*.class
+target/
+build/
+bin/
+.idea
+*.iws
+*.ipr
+.DS_Store
+felix-cache
+dependency-reduced-pom.xml
+/reports/

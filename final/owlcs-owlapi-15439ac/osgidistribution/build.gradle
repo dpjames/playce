@@ -1,0 +1,139 @@
+buildscript {
+    repositories {
+        maven {
+            url 'https://repository.apache.org/content/groups/public'
+        }
+    }
+}
+description = 'OWLAPI :: OSGi and Compatibility Distribution'
+
+configurations {
+    bundlePath {
+    }
+}
+
+
+dependencies {
+    compile project(':owlapi-apibinding')
+    compile project(':owlapi-tools')
+    compile project(':owlapi-impl')
+    compile project(':owlapi-parsers')
+    compile project(':owlapi-oboformat')
+    compile project(':owlapi-rio')
+    compile project(':owlapi-api')
+    compile 'org.apache.servicemix.bundles:org.apache.servicemix.bundles.javax-inject:1_2'
+    compile 'org.apache.servicemix.bundles:org.apache.servicemix.bundles.aopalliance:1.0_6'
+    testCompile 'biz.aQute.bnd:biz.aQute.bndlib:3.5.0'
+    testCompile 'org.apache.felix:org.apache.felix.framework:5.6.1'
+    testCompile 'org.osgi:osgi.core:6.0.0'
+    testCompile 'org.apache.felix:org.apache.felix.bundlerepository:latest.release'
+    testCompile 'org.apache.felix:org.apache.felix.dependencymanager:4.3.0'
+    testCompile 'org.osgi:osgi.cmpn:6.0.0'
+    testCompile 'org.ops4j.pax.exam:pax-exam-container-native:4.11.0'
+    testCompile 'org.ops4j.pax.exam:pax-exam-junit4:4.11.0'
+    testCompile 'org.ops4j.pax.exam:pax-exam-link-mvn:4.11.0'
+    testCompile 'org.slf4j:slf4j-simple:[1.7.0,1.7.26)'
+}
+
+apply plugin: 'java'
+
+
+import org.semanticweb.owlapi.gradle.osgi.BundleTask
+import org.semanticweb.owlapi.gradle.osgi.OSGIWrapTask
+import org.semanticweb.owlapi.gradle.osgi.ReBaselineTask
+
+task swrap(type: OSGIWrapTask) {
+    dependsOn compileJava
+    configuration = project.configurations.compile
+    copyExistingBundles = true
+    walkExistingBundles = true
+}
+
+
+
+task sbundle(type: BundleTask) {
+    dependsOn classes
+    dependsOn swrap
+    //bundleClasspath = project.fileTree(swrap.bundleOutputDir).files
+    bundleClasspath = bundleClasspath = project.fileTree(wrap.bundleOutputDir).files
+
+    doFirst {
+        println "swap outputs = $swrap.outputs.properties   "
+    }
+    manifest {
+        attributes('Export-Package': "" +
+                "com.clarkparsia.*," +
+                "org.semanticweb.owlapi.*;-split-package:=merge-first," +
+                "org.semanticweb.owlapitools.*;-split-package:=merge-first," +
+                "uk.ac.manchester.*;-split-package:=merge-first," +
+                "org.obolibrary.*;-split-package:=merge-first," +
+                "org.coode.*;-split-package:=merge-first," +
+                "de.uulm.*;-split-package:=merge-first",
+
+                "Import-Package": "com.github.benmanes.*;resolution:=optional,*",
+
+                "Bundle-SymbolicName": "org.semanticweb.owl.owlapi" ,
+                "Bundle-Version": "10.0.0"
+        )
+    }
+}
+test {
+    dependsOn sbundle
+    doFirst {
+        File bundleName = new File(temporaryDir, "bundle-files.txt")
+
+        PrintStream out = new PrintStream(bundleName)
+        out.println(bundle.archivePath.toURI())
+        swrap.bundleOutputDir.eachFile { out.println it.toURI() }
+        out.close()
+    }
+}
+
+task foo(type: ReBaselineTask) {
+    rebaseVersionRange = "[5,$version)"
+    includeSnapshots = false
+    currentBundle = sbundle
+    doLast {
+        Collection<SourceDirectorySet> allSrcDirs = rootProject.allprojects.findResults {
+
+            if (it.hasProperty("sourceSets")) {
+                SourceSetContainer ss = it.sourceSets
+                SourceDirectorySet allJava = ss.main.allJava
+            }
+
+        }.flatten()
+
+        Map<String, Set> packageDirs = [:].withDefault { new TreeSet<>() }
+
+        allSrcDirs.each {
+            def base = it.sourceDirectories.singleFile.toPath()
+            for (File file : it) {
+                def parent = file.toPath().parent
+                def packageName = base.relativize(parent).toString().replace('/', '.')
+                packageDirs[packageName] += parent.toFile()
+            }
+        }
+        packageDirs.each { packName, dirs ->
+            def bndVersion = packageVersions[packName]
+            println "$packName is $bndVersion"
+            if (bndVersion) {
+                dirs.each { dir ->
+                    File packageinfo = new File(dir, "packageinfo")
+                    if (packageinfo.exists()) {
+                        packageinfo.delete()
+                    }
+                    packageinfo.newPrintWriter().withCloseable { out ->
+                        out.println "version $bndVersion"
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+jar {
+    dependsOn sbundle
+    deleteAllActions()
+}
+
