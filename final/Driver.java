@@ -10,14 +10,13 @@ public class Driver {
       String temp;
       boolean b;
       getInput("How many people (including you?): ", "numPeople", pref); 
-      getInput("How much money? (0-10): ", "price", pref); 
+      getInput("How much money? (0-4): ", "price", pref); 
       getInput("Is this a date? (0 || 1): ", "isDate", pref); 
       getInput("Are you hungry (0 || 1): ", "isHungry", pref); 
       getInput("Are you feeling active? (0 || 1): ", "isActive", pref); 
       getInput("Are you feeling like being around people? (0 || 1): ", "isSocial", pref); 
       getInput("Are you (and everyone in your group) 21+? (0 || 1): ", "is21", pref); 
       //pref.put("key",0); 
-
       return pref;
    }
    private static void getInput(String question, String key,Hashtable<String, Integer> pref){
