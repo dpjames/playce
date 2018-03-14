@@ -1,9 +1,12 @@
 package cz.makub;
-
+import java.util.*;
+import java.net.*;
+import java.io.*;
 import com.clarkparsia.owlapi.explanation.DefaultExplanationGenerator;
 import com.clarkparsia.owlapi.explanation.util.SilentExplanationProgressMonitor;
 import com.clarkparsia.pellet.owlapiv3.PelletReasonerFactory;
 import com.google.common.collect.Multimap;
+
 import org.semanticweb.owlapi.apibinding.OWLManager;
 import org.semanticweb.owlapi.dlsyntax.renderer.DLSyntaxObjectRenderer;
 import org.semanticweb.owlapi.formats.PrefixDocumentFormat;
@@ -20,6 +23,16 @@ import uk.ac.manchester.cs.owl.explanation.ordering.ExplanationOrdererImpl;
 import uk.ac.manchester.cs.owl.explanation.ordering.ExplanationTree;
 import uk.ac.manchester.cs.owl.explanation.ordering.Tree;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.nio.channels.Channels;
+import java.nio.channels.ReadableByteChannel;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.util.*;
 
 /**
@@ -35,7 +48,7 @@ public class Tutorial {
     private static OWLObjectRenderer renderer = new DLSyntaxObjectRenderer();
 
     public static void main(String[] args) throws OWLOntologyCreationException {
-
+    	
         //prepare ontology and reasoner
         OWLOntologyManager manager = OWLManager.createOWLOntologyManager();
         OWLOntology ontology = manager.loadOntologyFromOntologyDocument(IRI.create(BASE_URL));
@@ -46,7 +59,7 @@ public class Tutorial {
         pm.setDefaultPrefix("http://www.semanticweb.org/katie/ontologies/2018/2/untitled-ontology-17" + "#");
 
         System.out.println("our stuff");
-        
+        /*
         System.out.println(ontology);
         OWLClass barClass = factory.getOWLClass(":bar", pm);
         System.out.println(barClass);
@@ -62,15 +75,46 @@ public class Tutorial {
         }
         System.out.println("bel");
         //System.out.println(LunaRed.data);
+        */
         
+        
+        
+        
+        
+        
+        boolean isOutdoor = isOutdoor(); 
+
         Hashtable<String, Integer> pref = getPref();
+
+        int maxPrice = pref.get("price");
         System.out.println(pref);
+        System.out.println("class name is " + findClassName(pref));
+        OWLClass results = factory.getOWLClass(findClassName(pref), pm);
         
+        ArrayList<String> names = new ArrayList<String>();
+        OWLClass outdoor = factory.getOWLClass(":outdoor", pm);
+        //System.out.println(isOutdoor);
         
+        for(OWLNamedIndividual result : reasoner.getInstances(results, false).getFlattened()) {
+        	//loop through all results and filter them out and grab the names.
+        	
+        	//System.out.println("this is where we need to filter by outdoor");
+        	//System.out.println(result.getClass());
+        	
+        	
+        	OWLDataProperty price = factory.getOWLDataProperty(":hasPrice", pm);
+        	String pstring = "0";
+        	for(OWLLiteral p : reasoner.getDataPropertyValues(result, price)) {
+        		pstring = p.getLiteral();
+        	}
+        	int thePrice = Integer.parseInt(pstring);
+        	if(thePrice <= maxPrice) {
+        		names.add(renderer.render(result));
+        	}
+        	
+        }
         
-        
-        
-        
+        System.out.println(names);
         
         
         
@@ -160,7 +204,9 @@ public class Tutorial {
         printIndented(explanationTree, "");
     }
 
-    private static void printIndented(Tree<OWLAxiom> node, String indent) {
+
+
+	private static void printIndented(Tree<OWLAxiom> node, String indent) {
         OWLAxiom axiom = node.getUserObject();
         System.out.println(indent + renderer.render(axiom));
         if (!node.isLeaf()) {
@@ -232,18 +278,25 @@ public class Tutorial {
     }
     
     
+    
+    /*
+     * 
+     *   
+     * 
+     * 
+     * 
+     * 
+     * 
+     */
+
     private static Hashtable<String, Integer>  getPref(){
         Hashtable<String, Integer> pref = new Hashtable<String, Integer>();
-
-        String temp;
-        boolean b;
-        getInput("How many people (including you?): ", "numPeople", pref); 
-        getInput("How much money? (0-4): ", "price", pref); 
-        getInput("Is this a date? (0 || 1): ", "isDate", pref); 
-        getInput("Are you hungry (0 || 1): ", "isHungry", pref); 
-        getInput("Are you feeling active? (0 || 1): ", "isActive", pref); 
-        getInput("Are you feeling like being around people? (0 || 1): ", "isSocial", pref); 
-        getInput("Are you (and everyone in your group) 21+? (0 || 1): ", "is21", pref); 
+        getInput("How much money? (0-4): ", "price", pref); //filter in code
+        getInput("Is this a date? (0 || 1): ", "isDate", pref); //define in ontology
+        getInput("Are you hungry (0 || 1): ", "isHungry", pref); //ontology
+        getInput("Are you feeling active? (0 || 1): ", "isActive", pref); //ontology 
+        getInput("Are you feeling like being around people? (0 || 1): ", "isSocial", pref); //ontology
+        getInput("Are you (and everyone in your group) 21+? (0 || 1): ", "is21", pref);  //ontology
         //pref.put("key",0); 
         return pref;
      }
@@ -263,5 +316,97 @@ public class Tutorial {
               System.out.println("bad input");
            }
         } while(b);  
+    }
+     private static String findClassName(Hashtable<String, Integer> pref) {
+ 		int index = Integer.parseInt(""+pref.get("isDate")+pref.get("isHungry")+pref.get("isActive")+pref.get("isSocial")+pref.get("is21"), 2);
+ 		String[] classList = {
+ 		 		":alone",
+ 		 		":drinkingAlone",
+ 		 		":youngSocial",
+ 		 		":oldSocial",
+ 		 		":activeAlone",
+ 		 		":activeAlone",
+ 		 		":activeSocial",
+ 		 		":activeSocial",
+ 		 		":hungry",
+ 		 		":hungryOld",
+ 		 		":hungry",
+ 		 		":hungryOld",
+ 		 		":hungry",
+ 		 		":hungryOld",
+ 		 		":hungry",
+ 		 		":hungryOld",
+ 		 		":dateNoFood",
+ 		 		":dateNoFood",
+ 		 		":dateNoFood",
+ 		 		":barDate",
+ 		 		":activeDate",
+ 		 		":activeDate",
+ 		 		":activeDate",
+ 		 		":activeDate",
+ 		 		":dateYesFood",
+ 		 		":dateYesFoodOld",
+ 		 		":dateYesFood",
+ 		 		":dateYesFoodOld",
+ 		 		":dateYesFood",
+ 		 		":dateYesFood",
+ 		 		":dateYesFood",
+ 		 		":dateYesFoodOld" 				
+ 		};
+ 		return classList[index];
+ 	}
+     
+     public static String readStringFromURL(String requestURL) throws IOException
+     {
+         try (Scanner scanner = new Scanner(new URL(requestURL).openStream(),
+                 StandardCharsets.UTF_8.toString()))
+         {
+             scanner.useDelimiter("\\A");
+             return scanner.hasNext() ? scanner.next() : "";
+         }
      }
+     private static boolean isOutdoor() {
+     	boolean ret = false;
+ 		java.net.URL website;
+       double val = 0;
+ 		try {
+ 			/*
+ 			website = new URL("http://api.wunderground.com/api/eff6f60613b31fc1/conditions/q/CA/San_Luis_Obispo.json");
+ 			byte[] bytes = new byte[200000];
+     		try (java.io.InputStream in = website.openStream()) {
+     	    	System.out.println(in.read(bytes, 0, 200000));
+     	    	
+     		}
+     		//System.out.println();
+            //new Scanner(System.in).next();
+     		//System.err.println(new String(bytes));
+     	  //System.out.println(new String(bytes));
+          String rec = new String(bytes);
+          */
+ 			String rec = readStringFromURL("http://api.wunderground.com/api/eff6f60613b31fc1/conditions/q/CA/San_Luis_Obispo.json");
+ 			System.out.println(rec);
+          FileWriter fw = new FileWriter("tmp"); 
+          fw.write(rec);
+          fw.close();
+          //System.out.println(rec);
+     	  int index = rec.indexOf("precip_today_in"); // 15
+          int col = rec.indexOf(':', index);
+          int fq = rec.indexOf('"', col);
+          int lq = rec.indexOf('"', fq+1);          
+          System.out.println(col);
+          System.out.println(fq);
+          System.out.println(lq);
+          String sval = rec.substring(fq+1,lq);
+          System.out.println("sval is " + sval);
+          val = Double.parseDouble(sval); 
+          
+          //File f = new File("test");
+          
+ 		} catch (Exception e) {
+ 			e.printStackTrace();
+ 		}   
+       System.out.println(val);
+     	return !(val > 0);
+     }
+     
 }
