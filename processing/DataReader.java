@@ -9,6 +9,7 @@ public class DataReader{
       //writeToFile(places);
       readFromFile(places);
       unDup(places);
+      //System.out.println("we have " + places.size() + " places");
       findKnowledge(places); 
       //System.out.println(places);
       makeExcelSheet(places);
