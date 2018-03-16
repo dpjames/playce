@@ -44,7 +44,7 @@ import java.util.*;
  * @author Martin Kuba makub@ics.muni.cz
  */
 public class Tutorial {
-	private static final boolean train = false;
+	private static final boolean train = true;
 	private static final String BASE_URL = "http://users.csc.calpoly.edu/~dpjames/deadweekfinal.owl";
 	private static OWLObjectRenderer renderer = new DLSyntaxObjectRenderer();
 
@@ -59,7 +59,7 @@ public class Tutorial {
 		PrefixDocumentFormat pm = manager.getOntologyFormat(ontology).asPrefixOWLOntologyFormat();
 		pm.setDefaultPrefix("http://www.semanticweb.org/katie/ontologies/2018/2/untitled-ontology-17" + "#");
 
-		System.out.println("our stuff");
+		//System.out.println("our stuff");
 
 		Hashtable<OWLClass, Integer> liked = new Hashtable<OWLClass, Integer>();
 		System.out.println("pref file: ");
@@ -79,7 +79,8 @@ public class Tutorial {
 			ois.close();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			//e.printStackTrace();
+			System.out.println("file not found, will use default settings");
 		}
 
 		Hashtable<String, Integer> pref;
@@ -98,17 +99,10 @@ public class Tutorial {
 
 		ArrayList<Place> places = new ArrayList<Place>();
 		OWLClass outdoor = factory.getOWLClass(":Outdoor", pm);
-		// System.out.println(isOutdoor);
 		for (OWLNamedIndividual result : reasoner.getInstances(results, false).getFlattened()) {
-			// loop through all results and filter them out and grab the names.
-
-			// System.out.println("this is where we need to filter by outdoor");
-			// System.out.println(result.getClassesInSignature());
 			boolean contflag = false;
 			for (Node<OWLClass> c : reasoner.getTypes(result, false)) {
-				// System.out.println(c);
 				if (c.contains(outdoor) && !isOutdoor) {
-					// System.out.println("outdoorsy");
 					contflag = true;
 				}
 			}
@@ -126,11 +120,12 @@ public class Tutorial {
 				Place p = new Tutorial.Place(result.toString(), reasoner.getTypes(result, false));
 				places.add(p);
 			}
-
 		}
-		System.out.println("found " + places.size() + " places");
-		// System.out.println(names);
-		// ArrayList<OWLClass> liked = new ArrayList<OWLClass>();
+		
+		
+		//System.out.println("found " + places.size() + " places");
+		
+		//This next block trains, the else actually runs.
 		if (train) {
 			Scanner input = new Scanner(System.in);
 			int v = 1;
@@ -143,7 +138,7 @@ public class Tutorial {
 				int score = findScore(places.get(index).classes, liked);
 				System.out.println(score);
 				maxScore = maxScore < score ? score : maxScore;
-				if (score < maxScore && rand.nextInt(maxScore - score) != 1) {
+				if (score < maxScore && maxScore - score > score && rand.nextInt(maxScore - score) != 1) {
 					continue;
 				}
 				System.out.print("Do you like " + name + "? (y/n): ");
@@ -220,6 +215,7 @@ public class Tutorial {
 	private static int findScore(NodeSet<OWLClass> classes, Hashtable<OWLClass, Integer> liked) {
 		int sum = 0;
 		for (Node<OWLClass> c : classes) {
+			//System.out.println(c);
 			for (OWLClass clss : c.getEntities()) {
 				if (liked.get(clss) == null) {
 					sum += 0;
@@ -280,7 +276,6 @@ public class Tutorial {
 	}
 
 	private static boolean isOutdoor() {
-		boolean ret = false;
 		double val = 0;
 		try {
 			String rec = readStringFromURL(
